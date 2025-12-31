@@ -1,240 +1,389 @@
 0,,"内容は廃墟などに棲みついた魔物退治が
-一般的だが――",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,2,Joseph
+一般的だが――","The requests usually involve exterminating monsters
+that have taken up residence in ruins.",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,2,Joseph
 0,,"とりあえず、この嘆願を処理してくれ
-それほど難しくないだろうから手早くな",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,3,Joseph
+それほど難しくないだろうから手早くな","For now, take care of this petition.
+It shouldn’t be too difficult, so make it quick.",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,3,Joseph
 0,,"ふむ――今日はおまえに頼もう
 すでに聞き及んでいるかもしれないが
-覚者には重要な仕事がある",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,4,Joseph
+覚者には重要な仕事がある","Hmm... I’ll count on you today.
+You may have already heard, but
+the Arisen have an important duty.",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,4,Joseph
 0,,"各地から届く嘆願に応えて現地へ赴き
-問題を処理する仕事だ",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,5,Joseph
+問題を処理する仕事だ","That duty is to respond to petitions from across the land,
+travel to the sites in question,
+and resolve the problems there.",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,5,Joseph
 0,,"内容は廃墟などに棲みついた魔物退治が
-一般的だが――",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,6,Joseph
+一般的だが――","The requests usually involve exterminating monsters
+that have taken up residence in ruins.",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,6,Joseph
 0,,"どうだろう――この嘆願を処理してみないか？
 魔物退治だが、少々難敵らしい
-まあ、おまえなら、なんとかできるだろうよ",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,7,Joseph
+まあ、おまえなら、なんとかできるだろうよ","What do you say— would you like to handle this request?
+It’s monster extermination, but it seems to be a tough one.
+Still, I’m sure someone of your skills can pull it off.",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,7,Joseph
 0,,"ふむ――今日はおまえに頼もう
 すでに聞き及んでいるかもしれないが
-覚者には重要な仕事がある",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,8,Joseph
+覚者には重要な仕事がある","Hmm... I’ll count on you today.
+You may have already heard, but
+the Arisen have an important duty.
+",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,8,Joseph
 0,,"各地から届く嘆願に応えて現地へ赴き
-問題を処理する仕事だ",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,9,Joseph
+問題を処理する仕事だ","That duty is to respond to petitions from across the land,
+travel to the sites in question,
+and resolve the problems there.",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,9,Joseph
 0,,"内容は廃墟などに棲みついた魔物退治が
 一般的だが――
-ほう――またこの嘆願か",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,10,Joseph
+ほう――またこの嘆願か","Most of them involve exterminating monsters
+that have taken up residence in ruins—
+Oh? This petition again?",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,10,Joseph
 0,,"あまりにも厄介な魔物でな――
 これまで何人もの覚者が派遣されたが
 皆、最後は逃げるように帰ってくる
-どうだ――行ってみるか？　何事も経験だ",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,11,Joseph
+どうだ――行ってみるか？　何事も経験だ","It’s an exceptionally troublesome monster—
+several Arisen have been dispatched so far,
+but they all end up running back for their lives.
+Well then— will you give it a try? Experience is valuable, after all.
+",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,11,Joseph
 0,,"ほう――仕事が無事終わったか
-ごくろうだったな",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,12,Joseph
+ごくろうだったな","Oh— so the job was completed safely?
+Well done.",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,12,Joseph
 0,,"しかし、嘆願書は次から次へと舞い込んでくる
-気が向いたら、また頼むよ",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,13,Joseph
+気が向いたら、また頼むよ","Still, petitions keep pouring in one after another.
+If you’re willing, I’ll be counting on you again.",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,13,Joseph
 0,,"ほう！　――思ったより早かったな
 まだおまえさんには早かったかと思っていたんだ
-どうやら見くびっていたようだ",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,14,Joseph
+どうやら見くびっていたようだ","Oh! That was faster than I expected.
+I thought it might still be too soon for you.
+It seems I underestimated you.",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,14,Joseph
 0,,"さて、嘆願書は幾らでもあるぞ
-気が向いたら、また力を貸してくれ",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,15,Joseph
+気が向いたら、また力を貸してくれ","Now then, there’s no shortage of petitions.
+If you feel inclined, lend us your strength again.",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,15,Joseph
 0,,"なんと！　あの魔物を倒したのか！
 これは快挙だぞ――素晴らしいことだ
 おまえの資質は
-レオが見込んだ以上のものかもしれないな",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,16,Joseph
+レオが見込んだ以上のものかもしれないな","What!? You defeated that monster!?
+That’s a remarkable achievement— truly splendid.
+Your potential may exceed
+even what Leo saw in you.",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,16,Joseph
 0,,"嘆願書はレスタニア全土の民の叫びだ
 これからも時間を作って
 聞き入れてやってほしい
-頼んだぞ",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,17,Joseph
+頼んだぞ","These petitions are the cries of the people
+from all across Lestania.
+I hope you’ll continue to make time
+to hear them out. I’m counting on you.",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,17,Joseph
 0,,"おや――ここで何をしている？
 嘆願を聞き入れたからには
-ゆっくりしているひまはないぞ？",,ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,18,Joseph
+ゆっくりしているひまはないぞ？","Oh— what are you doing here?
+Once you’ve accepted a petition,
+there’s no time to slack, you know?",ui\00_message\quest\q20000004.gmd,\quest\q20000004.arc,q20000004.arc,18,Joseph
 0,,"この辺りで妙な魔物が出るようになったって
 聞いて、退治依頼を受けたんだけどさ
-何よこれ――",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,0,Freya
+何よこれ――","I heard that some strange monster started appearing around here,
+so I took on an extermination request, but…
+What is this—",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,0,Freya
 0,,"これはなんだろう――建物？
 明らかに、ここがねぐらよね
-見たところあんたも同業でしょ？",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,1,Freya
+見たところあんたも同業でしょ？","What could this be— a building?
+This must be its lair.
+You seem to be in the same line of work as me, right?",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,1,Freya
 0,,"あ！　だったらさ、この依頼書の魔物を
 見つけたら代わりにやっつけてくれないかな
-ここに入るの、な～んか気が進まないのよね",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,2,Freya
-0,,ね？　報酬の６割あんたにゆずるからさ！,,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,3,Freya
+ここに入るの、な～んか気が進まないのよね","Ah! In that case, if you find the monster listed in this request,
+could you take it out for me instead?
+I just don’t feel like going in there.",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,2,Freya
+0,,ね？　報酬の６割あんたにゆずるからさ！,"ね？　報酬の６割あんたにゆずるからさ！
+See? I’ll give you 60% of the reward!",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,3,Freya
 0,,"この辺りで妙な魔物が出るようになったって
 聞いて、退治依頼を受けたんだけどさ
-何よこれ――",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,4,Freya
+何よこれ――","I heard that some strange monster started appearing around here,
+so I took on an extermination request, but...
+What is this—",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,4,Freya
 0,,"これはなんだろう――建物？
 明らかに、ここがねぐらよね
-見たところあんたも同業でしょ？",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,5,Freya
+見たところあんたも同業でしょ？","What could this be— a building?
+This must be its lair.
+You seem to be in the same line of work as me, right?",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,5,Freya
 0,,"あ！　だったらさ、この依頼書の魔物を
 見つけたら代わりにやっつけてくれないかな
-――ここに入るの、すごく気が進まないのよね",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,6,Freya
+――ここに入るの、すごく気が進まないのよね","Ah! In that case, if you find the monster listed in this request,
+could you take it out for me instead?
+I really, really don’t feel like going in there.",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,6,Freya
 0,,"頼むわよ、報酬の８割あんたにあげるからさ
-きっと厄介な魔物だろうから、気をつけてよね",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,7,Freya
+きっと厄介な魔物だろうから、気をつけてよね","I’m begging you— I’ll give you 80% of the reward.
+It’s probably a troublesome monster, so be careful, okay?",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,7,Freya
 0,,"この辺りで妙な魔物が出るようになったって
 聞いて、退治依頼を受けたんだけどさ
-何よこれ――",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,8,Freya
+何よこれ――","I heard that some strange monster started appearing around here,
+so I took on an extermination request, but...
+What is this—",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,8,Freya
 0,,"これはなんだろう――建物？
 明らかに、ここがねぐらよね
-見たところあんたも同業でしょ？",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,9,Freya
+見たところあんたも同業でしょ？","What could this be— a building?
+This must be its lair.
+You seem to be in the same line of work as me, right?",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,9,Freya
 0,,"あ！　だったらさ、この依頼書の魔物を
 見つけたら代わりにやっつけてくれないかな
-――実は、嫌な予感がして入れなかったのよね",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,10,Freya
+――実は、嫌な予感がして入れなかったのよね","Ah! In that case, if you find the monster listed in this request,
+could you take it out for me instead?
+To be honest, I had a bad feeling and couldn’t bring myself to go in.",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,10,Freya
 0,,"報酬はぜんぶあんたにあげる
 あたしはここで待ってるから、無理しないで
-危ないと思ったら出てくるのよ",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,11,Freya
-0,,中で死なれたら、さすがに寝ざめが悪いもの――,,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,12,Freya
+危ないと思ったら出てくるのよ","I’ll give you the entire reward.
+I’ll wait here, so don’t push yourself.
+If you think it’s dangerous, come back out.",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,11,Freya
+0,,中で死なれたら、さすがに寝ざめが悪いもの――,"If you died in there, I really wouldn’t sleep well—",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,12,Freya
 0,,"へえ――さすがね、やるじゃない！
-代わりに倒してもらって悪いわね",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,13,Freya
+代わりに倒してもらって悪いわね","Wow—just as I expected, you really did it!
+Sorry for making you take it down in my place.",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,13,Freya
 0,,"はい、約束の報酬６割分よ
-また会ったらよろしくね",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,14,Freya
-0,,ああ、お帰り！　どうだった？,,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,15,Freya
+また会ったらよろしくね","Here, the promised 60% of the reward.
+Let’s work together again next time we meet.",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,14,Freya
+0,,ああ、お帰り！　どうだった？,"Ah, welcome back! How did it go?",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,15,Freya
 0,,"へえ、倒してくれたんだ、さすがね！
-頼まれてくれてありがとう",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,16,Freya
+頼まれてくれてありがとう","Wow, you really defeated it—impressive!
+Thanks for taking the request.",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,16,Freya
 0,,"はい、約束の報酬８割分よ
-本当助かったわ、また会ったらよろしくね！",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,17,Freya
-0,,――ああ、お帰り！　良かったわ無事で,,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,18,Freya
+本当助かったわ、また会ったらよろしくね！","Here, the promised 80% of the reward.
+You really saved me— let’s work together again next time we meet!",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,17,Freya
+0,,――ああ、お帰り！　良かったわ無事で,"—Ah, welcome back! I’m so glad you made it back safely.",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,18,Freya
 0,,"苦労したって顔してるね
 でも、その感じだと魔物を仕留めることが
-できたのね――！！",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,19,Freya
+できたのね――！！","You look like you had a rough time.
+But from that look,
+you managed to finish off the monster—!!",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,19,Freya
 0,,"無茶な頼みを聞いてもらって感謝してるわ
 はい、これはあたしが受け取るはずだった報酬よ
-またどこかで会ったらよろしくね",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,20,Freya
-0,,中はどう？　あの魔物はいた？,,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,21,Freya
+またどこかで会ったらよろしくね","Thanks for agreeing to such a reckless request.
+Here— the reward I was supposed to receive.
+Let’s work together again somewhere.",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,20,Freya
+0,,中はどう？　あの魔物はいた？,How was it inside? Was the monster there?,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,21,Freya
 0,,"あぶないと思ったら逃げてよね
-頼んだ手前、あんたに死なれたら寝ざめが悪いから",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,22,Freya
+頼んだ手前、あんたに死なれたら寝ざめが悪いから","If you think it’s dangerous, run, okay?
+After asking you to do this, I wouldn’t sleep well if you died.",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,22,Freya
 0,,"騎士でも覚者でも、他にも誰か
-通りかからないかなぁ",,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,23,Freya
+通りかからないかなぁ","A knight, an Arisen, anyone else—
+I wonder if someone else might pass by...",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,23,Freya
 0,,"おや？　冒険慣れしてそうな君――
-頼みがあるんだが聞いてくれないかな",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,0,Christoph
+頼みがあるんだが聞いてくれないかな","Oh? You look like a seasoned adventurer—
+would you hear me out on a request?",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,0,Christoph
 0,,"私はレスタニア各地の異変について研究して
 いるんだが、現在ハイデル南部は異様に
-瘴気が溜まった状態になっていてね――",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,1,Christoph
+瘴気が溜まった状態になっていてね――","I study unusual phenomena across Lestania,
+and right now, southern Hidell has an abnormal
+concentration of miasma there—",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,1,Christoph
 0,,"調べてみると、以前テル村を呪って失踪した
 男がいたらしい
 その恨みが何らかの形で影響しているとも
-考えられる",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,2,Christoph
+考えられる","Upon investigating, it seems a man had once laid
+a curse on Tel Village and then disappeared.
+It’s possible his grudge is influencing things somehow.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,2,Christoph
 0,,"強く影響が出ているとすれば、男が最後に消えた
 旧墓地が怪しいと踏んだが、どうもここでは
 ないらしい
-となるとハイデル教会の地下霊廟――",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,3,Christoph
+となるとハイデル教会の地下霊廟――","If the influence is strong, I suspected the old graveyard
+where the man vanished would be the source,
+but it doesn’t seem to be here.
+Which leaves the underground catacombs of the Hidell church—",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,3,Christoph
 0,,"だが、あそこは少々私の手に余る
 そこで君に調査を頼みたいんだ
-瘴気による異変が起こっていないか",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,4,Christoph
+瘴気による異変が起こっていないか","However, that place is a bit beyond my capabilities.
+So I’d like to ask you to investigate it.
+See whether any anomalies caused by the miasma have occurred.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,4,Christoph
 0,,"簡単な事じゃないかもしれないが
-よろしく頼んだよ",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,5,Christoph
+よろしく頼んだよ","It may not be an easy task,
+but I’m counting on you.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,5,Christoph
 0,,"おや？　かなり腕が立ちそうな君――
-頼みがあるんだが聞いてくれないかな",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,6,Christoph
+頼みがあるんだが聞いてくれないかな","Oh? You look quite capable—
+would you hear me out on a request?",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,6,Christoph
 0,,"私はレスタニア各地の異変について研究して
 いるんだが、現在ハイデル南部は異様に
-瘴気が溜まった状態になっていてね――",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,7,Christoph
+瘴気が溜まった状態になっていてね――","I study unusual phenomena across Lestania,
+and right now, southern Hidell has an abnormal
+concentration of miasma there—",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,7,Christoph
 0,,"調べてみると、以前テル村を呪って失踪した
 男がいたらしい
 その恨みが何らかの形で影響しているとも
-考えられる",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,8,Christoph
+考えられる","Upon investigating, it seems a man had once laid
+a curse on Tel Village and then disappeared.
+It’s possible his grudge is influencing things somehow.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,8,Christoph
 0,,"強く影響が出ているとすれば、男が最後に消えた
 旧墓地が怪しいと踏んだが、どうもここでは
 ないらしい
-となるとハイデル教会の地下霊廟――",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,9,Christoph
+となるとハイデル教会の地下霊廟――","If the influence is strong, I suspected the old graveyard
+where the man vanished would be the source,
+but it doesn’t seem to be here.
+Which leaves the underground catacombs of the Hidell church—",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,9,Christoph
 0,,"だが、あそこは少々私の手に余る
 そこで君に調査を頼みたいんだ
-瘴気による異変が起こっていないか",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,10,Christoph
+瘴気による異変が起こっていないか","However, that place is a bit beyond my capabilities.
+So I’d like to ask you to investigate it.
+See whether any anomalies caused by the miasma have occurred.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,10,Christoph
 0,,"中はどうなっているか解らない
 強い呪いは魔物を引き寄せるというし
-くれぐれも、準備を怠らないようにね",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,11,Christoph
+くれぐれも、準備を怠らないようにね","I don’t know what conditions are like inside.
+Strong curses are said to attract monsters,
+so be sure not to neglect your preparations.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,11,Christoph
 0,,"おや？　見るからに腕が立ちそうな君――
-頼みがあるんだが聞いてくれないかな",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,12,Christoph
+頼みがあるんだが聞いてくれないかな","Oh? You look skilled at a glance—
+would you hear me out on a request?",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,12,Christoph
 0,,"私はレスタニア各地の異変について研究して
 いるんだが、現在ハイデル南部は異様に
-瘴気が溜まった状態になっていてね――",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,13,Christoph
+瘴気が溜まった状態になっていてね――","I study unusual phenomena across Lestania,
+and right now, southern Hidell has an abnormal
+concentration of miasma there—",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,13,Christoph
 0,,"調べてみると、以前テル村を呪って失踪した
 男がいたらしい
 その恨みが何らかの形で影響しているとも
-考えられる",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,14,Christoph
+考えられる","Upon investigating, it seems a man had once laid
+a curse on Tel Village and then disappeared.
+It’s possible his grudge is influencing things somehow.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,14,Christoph
 0,,"強く影響が出ているとすれば、男が最後に消えた
 旧墓地が怪しいと踏んだが、どうもここでは
 ないらしい
-となるとハイデル教会の地下霊廟――",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,15,Christoph
+となるとハイデル教会の地下霊廟――","If the influence is strong, I suspected the old graveyard
+where the man vanished would be the source,
+but it doesn’t seem to be here.
+Which leaves the underground catacombs of the Hidell church—",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,15,Christoph
 0,,"だが、あそこはさすがに私の手に余る
 そこで君に調査を頼みたいんだ
-瘴気による異変が起こっていないか",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,16,Christoph
+瘴気による異変が起こっていないか","However, that place is truly beyond my abilities.
+So I’d like to ask you to investigate it.
+See whether any anomalies caused by the miasma have occurred.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,16,Christoph
 0,,"ハイデル廃教会は、邪教の礼拝堂
 が隠されていたとも言われるいわくつきだ
 実際どうかは知らないが、それが本当なら
-どんな恐ろしい魔物がいても不思議じゃない",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,17,Christoph
+どんな恐ろしい魔物がいても不思議じゃない","The abandoned Hidell church is said to be infamous—
+rumored to have concealed a heretical chapel.
+I don’t know if it’s true, but if it is,
+it wouldn’t be surprising to find terrifying monsters there.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,17,Christoph
 0,,"十分注意して、調査にあたってくれ
-取り返しの付かない事になる前に",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,18,Christoph
+取り返しの付かない事になる前に","Proceed with great caution as you investigate,
+before it becomes irreversible.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,18,Christoph
 0,,"――そうか、そんな魔物がいたとは
-おそらく瘴気に引き寄せられたんだろう",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,19,Christoph
+おそらく瘴気に引き寄せられたんだろう","I see… so such a monster was there.
+It was probably drawn in by the miasma.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,19,Christoph
 0,,"だが、退治してくれたならこれでしばらくは
-大丈夫だな",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,20,Christoph
+大丈夫だな","But since you dealt with it,
+things should be fine for a while.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,20,Christoph
 0,,"君に頼んで良かったよ！
-ありがとう",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,21,Christoph
+ありがとう","I’m glad I asked you!
+Thank you.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,21,Christoph
 0,,"――おお、そんな魔物まで現れていたのか
 おそらく瘴気に引き寄せられたんだろう
-恐ろしいな、呪いの力は",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,22,Christoph
+恐ろしいな、呪いの力は","Oh… so even such a monster had appeared.
+It was likely drawn in by the miasma.
+The power of curses is truly frightening.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,22,Christoph
 0,,"しかし、さすがだ！
 そんな魔物を退治してくれるとは
-これでまた当分大丈夫だな",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,23,Christoph
+これでまた当分大丈夫だな","Still, impressive!
+To think you’d defeat such a monster—
+this should keep things safe for quite some time.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,23,Christoph
 0,,"君に頼んで良かったよ！
-ありがとう",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,24,Christoph
+ありがとう","I’m glad I asked you!
+Thank you.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,24,Christoph
 0,,"――なんと！　そんな魔物がいたのか！？
 もし村が襲われていたら大惨事になるところだ
-危ないところだった",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,25,Christoph
+危ないところだった","What!? A monster like that was there!?
+If it had attacked the village, it would’ve been a catastrophe.
+That was a close call.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,25,Christoph
 0,,"しかし、素晴らしいな君は！
 それほどの魔物まで退治してしまうとは
-感銘を受けたよ",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,26,Christoph
+感銘を受けたよ","Still, you’re remarkable!
+To defeat a monster of that caliber—
+I’m deeply impressed.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,26,Christoph
 0,,"君のような覚者が守ってくれるから
 未然に防がれている危機は多いんだろう
-本当に感謝するよ",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,27,Christoph
+本当に感謝するよ","Because Arisen like you protect us,
+many crises are likely prevented before they happen.
+You have my deepest thanks.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,27,Christoph
 0,,"――取り返しのつかない事態が
-起こってなければいいんだが",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,28,Christoph
+起こってなければいいんだが","I just hope nothing irreversible
+has already happened.",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,28,Christoph
 0,,"こういう異変がこのところ目立つのも
-白竜の力が弱まったせいなのかな――",,ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,29,Christoph
+白竜の力が弱まったせいなのかな――","Perhaps the reason such disturbances have become so frequent
+is because the White Dragon’s power is weakening—",ui\00_message\quest\q20000006.gmd,\quest\q20000006.arc,q20000006.arc,29,Christoph
 0,,"まったく――踏んだり蹴ったりだよ！
 ただでさえぎりぎりやってるってのに
-何かに店の倉庫を荒らされちまったんだよ！",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,0,Eterna
+何かに店の倉庫を荒らされちまったんだよ！","Honestly—it’s one thing after another!
+We’re barely scraping by as it is,
+and something’s gone and ransacked my shop’s storeroom!",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,0,Eterna
 0,,"許せない、二度と来ないよう
 こらしめて頂戴！
-後でお礼はするからさ",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,1,Eterna
+後でお礼はするからさ","I won’t stand for it—
+teach them a lesson so they never come back!
+I’ll make it worth your while afterward.",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,1,Eterna
 0,,"あいつら、夜に限って来るんだよ！
 ああ、お陰で不安で眠れないし
-いまいましいったらないね！",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,2,Eterna
+いまいましいったらないね！","They only ever come at night!
+Because of them, I’m too anxious to sleep—
+it’s infuriating!",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,2,Eterna
 0,,"まったく――踏んだり蹴ったりだよ！
 ただでさえぎりぎりやってるってのに
-何かに店の倉庫を荒らされちまったんだよ！",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,3,Eterna
+何かに店の倉庫を荒らされちまったんだよ！","Honestly—it’s one thing after another!
+We’re barely scraping by as it is,
+and something’s gone and ransacked my shop’s storeroom!",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,3,Eterna
 0,,"しかも、荒っぽそうな連中でさ
 また来たらと思うと怖くてねぇ――
 頼む、何とかしとくれ
-後でお礼はするからさ",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,4,Eterna
+後でお礼はするからさ","And they seem like a rough bunch.
+Just thinking about them coming back scares me—
+please, do something about it.
+I’ll reward you afterward.",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,4,Eterna
 0,,"それにあいつら、夜に限って来るんだよ！
 ああ、お陰で不安で眠れないし
-嫌になっちまう",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,5,Eterna
+嫌になっちまう","And they only ever come at night!
+I’m so worried I can’t sleep,
+it’s driving me mad.",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,5,Eterna
 0,,"まったく――踏んだり蹴ったりだよ！
 ただでさえぎりぎりやってるってのに
-何かに店の倉庫を荒らされちまったんだよ！",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,6,Eterna
+何かに店の倉庫を荒らされちまったんだよ！","Honestly—it’s one thing after another!
+We’re barely scraping by as it is,
+and something’s gone and ransacked my shop’s storeroom!",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,6,Eterna
 0,,"ずいぶん図体もでかくて――
 見るからにおっかなそうな影だったんだ！
 心配でたまらないよ、何とかしとくれ
-後でお礼はするからさ",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,7,Eterna
+後でお礼はするからさ","They were huge, too—
+just looking at the shadows was terrifying!
+I’m worried sick, please do something.
+I’ll reward you afterward.",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,7,Eterna
 0,,"それにあいつら、夜に限って来るんだよ！
 もう、殺されちまうんじゃないかと思って
 寝るどころじゃないよ――
-泣きたくなっちまう",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,8,Eterna
+泣きたくなっちまう","And they only ever come at night!
+I keep thinking I might get killed—
+sleep’s the last thing on my mind.
+I feel like crying.",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,8,Eterna
 0,,"もう大丈夫かい？
-戻ってきたりしないだろうね？",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,9,Eterna
+戻ってきたりしないだろうね？","Is it really all right now?
+They won’t come back, will they?",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,9,Eterna
 0,,"まぁいいわ、その時はまた頼む
-ことにするよ",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,10,Eterna
-0,,もうないことを祈るけどね,,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,11,Eterna
+ことにするよ","Well, if they do,
+I’ll ask you again.",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,10,Eterna
+0,,もうないことを祈るけどね,I sure hope it doesn’t come to that.,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,11,Eterna
 0,,"もう大丈夫かい？
-戻ってきたりしないだろうね？",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,12,Eterna
+戻ってきたりしないだろうね？","Is it really all right now?
+They won’t come back, will they?",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,12,Eterna
 0,,"まぁいいわ、その時はまた頼む
-ことにするよ",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,13,Eterna
+ことにするよ","Well, if they do,
+I’ll ask you again.",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,13,Eterna
 0,,"それにしても、おっかないよ
-村どころかウチにそんなのが入ったなんてさ",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,14,Eterna
+村どころかウチにそんなのが入ったなんてさ","Still, it’s terrifying.
+To think something like that got into my place,
+not just the village…",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,14,Eterna
 0,,"もう大丈夫かい？
-戻ってきたりしないだろうね？",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,15,Eterna
+戻ってきたりしないだろうね？","Is it really all right now?
+They won’t come back, will they?",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,15,Eterna
 0,,"まぁいいわ、その時はまた頼む
-ことにするよ",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,16,Eterna
+ことにするよ","Well, if they do,
+I’ll ask you again.",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,16,Eterna
 0,,"しかし、そんなヤツが入り込んでた
 なんてねぇ
-はち合ってたらと思うとゾッとするよ",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,17,Eterna
+はち合ってたらと思うとゾッとするよ","Still, to think something like that had gotten in…
+Just imagining running into it makes my blood run cold.",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,17,Eterna
 0,,"油売ってるなら、他の人に頼むよ
-ちゃんとやってくれるんだろうね？",,ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,18,Eterna
+ちゃんとやってくれるんだろうね？","If you’re just wasting time, I’ll ask someone else.
+You will handle it properly, won’t you?",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,18,Eterna
 0,,"ああっ、丁度いいところに
 お前も覚者だな！？
 急な任務だ、手伝ってくれ！",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,0,Arisen Corps Regimental Soldier
@@ -281,66 +430,103 @@
 0,,"付近住民に被害があってからでは遅いぞ
 急げ！",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,18,Arisen Corps Regimental Soldier
 0,,"ああ、覚者さん――
-少し頼みたいことがあるんだ",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,0,Henry
+少し頼みたいことがあるんだ","Ah, Arisen...
+there’s something I’d like to ask of you.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,0,Henry
 0,,"知っているかもしれないが
-最近村で体調を崩す者が多くてな",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,1,Henry
+最近村で体調を崩す者が多くてな","You may already know,
+but recently many people in the village have fallen ill.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,1,Henry
 0,,"白竜神殿のヴァイスロットから薬を
 受け取ってきてくれないか
 今のままじゃ足りるか不安でね
-頼むよ",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,2,Henry
+頼むよ","Could you pick up medicine
+from Vicelot at the White Dragon Temple?
+I’m worried we won’t have enough at this rate.
+Please.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,2,Henry
 0,,"ああ、覚者さん――
-頼みたいことがあるんだ",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,3,Henry
+頼みたいことがあるんだ","Ah, Arisen...
+there’s something I’d like to ask.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,3,Henry
 0,,"知っているかもしれないが
 最近村で体調を崩す者が多くてな
-思ったより早く薬の在庫がなくなりそうなんだ",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,4,Henry
+思ったより早く薬の在庫がなくなりそうなんだ","You may already know,
+but recently many people in the village have fallen ill,
+and our medicine stock may run out sooner than expected.
+",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,4,Henry
 0,,"白竜神殿のヴァイスロットから薬を
 受け取ってきてくれないか
 勝手な願いってのは承知だが、急いでほしいんだ
-頼むよ",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,5,Henry
+頼むよ","Could you pick up medicine
+from Vicelot at the White Dragon Temple?
+I know it’s a selfish request, but please hurry.
+I’m counting on you.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,5,Henry
 0,,"ああ、覚者さん――！
-悪いが頼みたいことがあるんだ",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,6,Henry
+悪いが頼みたいことがあるんだ","Ah, Arisen...!
+Sorry, but I need to ask you something.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,6,Henry
 0,,"知っているかもしれないが
 最近村で体調を崩す者が多くてな
-もうほとんど薬の在庫がないんだ――",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,7,Henry
+もうほとんど薬の在庫がないんだ――","You may already know,
+but recently many people in the village have fallen ill,
+and we’re almost completely out of medicine...",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,7,Henry
 0,,"白竜神殿のヴァイスロットから薬を
 受け取ってきてくれないか
 勝手な願いってのは承知だが
-急いでほしいんだ、頼むよ",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,8,Henry
+急いでほしいんだ、頼むよ","Could you pick up medicine
+from Vicelot at the White Dragon Temple?
+I know it’s a selfish request,
+but please hurry—I’m begging you.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,8,Henry
 0,,"あんたがヘンリーの代理か
 話は聞いている
-薬の件だな？",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,9,Vicelot
+薬の件だな？","So you’re Henry’s representative.
+I’ve heard about it.
+It’s about the medicine, right?",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,9,Vicelot
 0,,"だが間の悪い事に、調合用の素材を
 ちょうど切らしていたんだ
 少し数が足りない分、調達してきて
-くれないか？",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,10,Vicelot
+くれないか？","Unfortunately, we’ve just run out
+of the materials needed for mixing.
+Could you gather
+the small amount we’re missing?",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,10,Vicelot
 0,,"持ってきてくれたか
-よし、後は任せておけ",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,11,Vicelot
+よし、後は任せておけ","You brought them?
+Good—leave the rest to me.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,11,Vicelot
 0,,"――よし、これでいい
-急いで持って行ってやれ",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,12,Vicelot
+急いで持って行ってやれ","All right, that will do.
+Take it and hurry back with it.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,12,Vicelot
 0,,"頼むぜ
-あと少し素材が必要なんだ",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,13,Vicelot
+あと少し素材が必要なんだ","I’m counting on you.
+We just need a few more materials.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,13,Vicelot
 0,,"揃いさえすれば、後は混ぜるだけ
-なんだが――",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,14,Vicelot
+なんだが――","Once we have everything,
+it’s just a matter of mixing them.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,14,Vicelot
 0,,"さぁ、急いで持って行ってやれ
-のんびりしてる場合じゃないぞ",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,15,Vicelot
+のんびりしてる場合じゃないぞ","Go on, take it and hurry back.
+This is no time to dawdle.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,15,Vicelot
 0,,"おぉ、持ってきてくれたか
-これでしばらくはもつだろう",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,16,Henry
-0,,助かった、礼を言うよ,,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,17,Henry
+これでしばらくはもつだろう","Oh, you brought it.
+This should last us for a while.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,16,Henry
+0,,助かった、礼を言うよ,You saved us—thank you.,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,17,Henry
 0,,"おぉ、持ってきてくれたか
 待っていたよ
-これでしばらくは安心だ",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,18,Henry
-0,,急な頼みを聞いてくれて感謝する,,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,19,Henry
+これでしばらくは安心だ","Oh, you brought it.
+I’ve been waiting.
+We can rest easy for a while now.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,18,Henry
+0,,急な頼みを聞いてくれて感謝する,Thank you for answering such a sudden request.,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,19,Henry
 0,,"おぉ、持ってきてくれたか！
 良かった――
-これで何とか当分しのげそうだよ",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,20,Henry
+これで何とか当分しのげそうだよ","Oh, you brought it!
+That’s a relief—
+this should get us through for now.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,20,Henry
 0,,"あなたが来てくれなかったらと思うと
 とても恐ろしい
-本当に感謝する",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,21,Henry
+本当に感謝する","Just thinking about what would’ve happened
+if you hadn’t come is terrifying.
+I’m truly grateful.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,21,Henry
 0,,"すまないが、できれば急いで
-もらいたいんだ",,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,22,Henry
-0,,強く言えた立場じゃないんだが――,,ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,23,Henry
+もらいたいんだ","Sorry, but if possible,
+I’d like you to hurry.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,22,Henry
+0,,強く言えた立場じゃないんだが――,"It’s not really my place to say it so forcefully, but—",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,23,Henry
 0,,"ジンゲンまで届け物があるんだけど
-道中が物騒で困ってるのよ",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,0,Woman
+道中が物騒で困ってるのよ","I have a delivery to make to Jingen,
+but the road has become dangerous, and I’m at a loss.",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,0,Woman
 0,,"悪いんだけど、厄介そうなのを
 退治してくれないかしら？",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,1,Woman
 0,,"ジンゲンまで届け物があるんだけど

@@ -1,169 +1,187 @@
-Processing file: D:\DDON-translation\Tools\gmd.csv
+Processing file: E:\Games\Dragons Dogma Online\nativePC\Server\Files\Client\gmd - Copy.csv
 ----------------------------------------
-File: gmd.csv, Row: 4536 -> Invalid tag: <20:00 Target Confirmation>
-File: gmd.csv, Row: 4537 -> Invalid tag: <22:00 Confirm target>
-File: gmd.csv, Row: 25623 -> Invalid tag: <Spring of Abundance>
-File: gmd.csv, Row: 25917 -> Invalid tag: <Spring of Abundance>
-File: gmd.csv, Row: 25918 -> Invalid tag: <Spring of Vitality>
-File: gmd.csv, Row: 64831 -> Invalid tag: <span class="notranslate">
-File: gmd.csv, Row: 64831 -> Invalid tag: </span>
-File: gmd.csv, Row: 64831 -> Invalid tag: <span class="notranslate">
-File: gmd.csv, Row: 64831 -> Invalid tag: </span>
-File: gmd.csv, Row: 64831 -> Invalid tag: <span class="notranslate">
-File: gmd.csv, Row: 64831 -> Invalid tag: </span>
-File: gmd.csv, Row: 64838 -> Invalid tag: <Visit My Room Settings>
-File: gmd.csv, Row: 91670 -> Invalid tag: <Fighter's Mark>
-File: gmd.csv, Row: 91697 -> Invalid tag: <Priest's Mark>
-File: gmd.csv, Row: 91734 -> Invalid tag: <Seekers's Mark>
-File: gmd.csv, Row: 91747 -> Invalid tag: <Shield Sage's Mark>
-File: gmd.csv, Row: 91787 -> Invalid tag: <Hunter's Mark>
-File: gmd.csv, Row: 91824 -> Invalid tag: <Sorcerer's Mark>
-File: gmd.csv, Row: 92072 -> Invalid tag: <Emotes>
-File: gmd.csv, Row: 92072 -> Invalid tag: <Greet 2>
-File: gmd.csv, Row: 92073 -> Invalid tag: <Greet 2>
-File: gmd.csv, Row: 92078 -> Invalid tag: <red-dyed equipment>
-File: gmd.csv, Row: 92078 -> Invalid tag: <outfits like ours>
-File: gmd.csv, Row: 92079 -> Invalid tag: <red-dyed equipment>
-File: gmd.csv, Row: 92079 -> Invalid tag: <outfits like ours>
-File: gmd.csv, Row: 92080 -> Invalid tag: <Merry Christmas>
-File: gmd.csv, Row: 92089 -> Invalid tag: <Greet 2>
-File: gmd.csv, Row: 92092 -> Invalid tag: <Greet 2>
-File: gmd.csv, Row: 92106 -> Invalid tag: <Say>
-File: gmd.csv, Row: 92121 -> Invalid tag: <Little Frost>
-File: gmd.csv, Row: 92124 -> Invalid tag: <Little Frost>
-File: gmd.csv, Row: 92126 -> Invalid tag: <Little Frost>
-File: gmd.csv, Row: 92129 -> Invalid tag: <Little Frost>
-File: gmd.csv, Row: 92131 -> Invalid tag: <Little Frost>
-File: gmd.csv, Row: 100472 -> Invalid tag: <3 left>
-File: gmd.csv, Row: 100473 -> Invalid tag: <2 left>
-File: gmd.csv, Row: 100474 -> Invalid tag: <1 left>
-File: gmd.csv, Row: 100543 -> Invalid tag: < current：0 people>
-File: gmd.csv, Row: 100544 -> Invalid tag: < current：1 people>
-File: gmd.csv, Row: 100545 -> Invalid tag: < current：2 people>
-File: gmd.csv, Row: 100546 -> Invalid tag: < current：3 people>
-File: gmd.csv, Row: 100547 -> Invalid tag: < current：4 people>
-File: gmd.csv, Row: 101083 -> Invalid tag: <The Second Ark>
-File: gmd.csv, Row: 106099 -> Invalid tag: <War Mission: Dacreim Fortress Recapture Battle>
-File: gmd.csv, Row: 106110 -> Invalid tag: <War Mission: Jifule Fortress Capture Battle >
-File: gmd.csv, Row: 111979 -> Invalid tag: <Attacker>
-File: gmd.csv, Row: 111979 -> Invalid tag: <Healer>
-File: gmd.csv, Row: 111979 -> Invalid tag: <Tank>
-File: gmd.csv, Row: 112008 -> Invalid tag: <Basic Controls>
-File: gmd.csv, Row: 112009 -> Invalid tag: <Basic Operations>
-File: gmd.csv, Row: 112011 -> Invalid tag: <Basic Controls>
-File: gmd.csv, Row: 112012 -> Invalid tag: <Basic Controls/Attack>
-File: gmd.csv, Row: 112013 -> Invalid tag: <Basic Controls/Attacks>
-File: gmd.csv, Row: 112014 -> Invalid tag: <Basic Controls>
-File: gmd.csv, Row: 112085 -> Invalid tag: <Battle for Fort Gritten>
-File: gmd.csv, Row: 112091 -> Invalid tag: <Hold Down>
-File: gmd.csv, Row: 112099 -> Invalid tag: <Basic Controls/Attacks>
-File: gmd.csv, Row: 112106 -> Invalid tag: <Force Attribute Selection>
-File: gmd.csv, Row: 112107 -> Invalid tag: <KC CLIMB JOLT>
-File: gmd.csv, Row: 112114 -> Invalid tag: <Notes>
-File: gmd.csv, Row: 112120 -> Invalid tag: <Consecutive Stamp Bonus>
-File: gmd.csv, Row: 112120 -> Invalid tag: <Accumulated Stamp Bonus>
-File: gmd.csv, Row: 112125 -> Invalid tag: <Progress Marker>
-File: gmd.csv, Row: 112125 -> Invalid tag: <Listen to the Conversation>
-File: gmd.csv, Row: 112126 -> Invalid tag: <If the progression is the same>
-File: gmd.csv, Row: 112126 -> Invalid tag: <If the progression is different>
-File: gmd.csv, Row: 112132 -> Invalid tag: <Force manipulation>
-File: gmd.csv, Row: 112139 -> Invalid tag: <COL 91212ff>
-File: gmd.csv, Row: 112144 -> Invalid tag: <Basic Controls/Support>
-File: gmd.csv, Row: 112146 -> Invalid tag: <Basic Operation/Evasion>
-File: gmd.csv, Row: 112212 -> Invalid tag: <Basic Controls>
-File: gmd.csv, Row: 112225 -> Invalid tag: <Bloodbane Isle's Feast of Madness>
-File: gmd.csv, Row: 112237 -> Invalid tag: <Palette switching method on the Arts Support screen>
-File: gmd.csv, Row: 112238 -> Invalid tag: <How to switch palettes under normal conditions>
-File: gmd.csv, Row: 112247 -> Invalid tag: <Secret Core>
-File: gmd.csv, Row: 112276 -> Invalid tag: <Play Point Acquisition Mode>
-File: gmd.csv, Row: 112276 -> Invalid tag: <Arts Support>
-File: gmd.csv, Row: 112276 -> Invalid tag: <Vocation Select>
-File: gmd.csv, Row: 112282 -> Invalid tag: <HINT FOR EXPLORATION LOCATION>
-File: gmd.csv, Row: 112307 -> Invalid tag: <Protecting Carrie>
-File: gmd.csv, Row: 112312 -> Invalid tag: <War Missions party restrictions>
-File: gmd.csv, Row: 112325 -> Invalid tag: <Food Decrease>
-File: gmd.csv, Row: 112326 -> Invalid tag: <Food Gauge>
-File: gmd.csv, Row: 112345 -> Invalid tag: <Mandragora Gardening>
-File: gmd.csv, Row: 112346 -> Invalid tag: <Mandragora Cultivation>
-File: gmd.csv, Row: 112347 -> Invalid tag: <Mandragora Evolution>
-File: gmd.csv, Row: 112348 -> Invalid tag: <Mandragora Observation Journal>
-File: gmd.csv, Row: 112351 -> Invalid tag: <Play Points>
-File: gmd.csv, Row: 112357 -> Invalid tag: <Area 19>
-File: gmd.csv, Row: 112368 -> Invalid tag: <Blunt Soldier Dwarf Orc>
-File: gmd.csv, Row: 112368 -> Invalid tag: <Heavy Soldier Dwarf Orc and Squad Leader Dwarf Orc>
-File: gmd.csv, Row: 112382 -> Invalid tag: <War Missions party restrictions>
-File: gmd.csv, Row: 112403 -> Invalid tag: <Signal the timing of movement>
-File: gmd.csv, Row: 112405 -> Invalid tag: <"Beckon">
-File: gmd.csv, Row: 112405 -> Invalid tag: <Game Menu>
-File: gmd.csv, Row: 112405 -> Invalid tag: <Emotes>
-File: gmd.csv, Row: 112405 -> Invalid tag: <Actions 1>
-File: gmd.csv, Row: 112405 -> Invalid tag: <Category>
-File: gmd.csv, Row: 112405 -> Invalid tag: <Beckon>
-File: gmd.csv, Row: 112406 -> Invalid tag: <Emotes>
-File: gmd.csv, Row: 112406 -> Invalid tag: <Communication>
-File: gmd.csv, Row: 112406 -> Invalid tag: <Actions 1>
-File: gmd.csv, Row: 112408 -> Invalid tag: <Sonel's Condition>
-File: gmd.csv, Row: 112408 -> Invalid tag: <Sonel's Hidden Condition>
-File: gmd.csv, Row: 112410 -> Invalid tag: <Point of the task>
-File: gmd.csv, Row: 112412 -> Invalid tag: <Gate Attack Failure>
-File: gmd.csv, Row: 112413 -> Invalid tag: <Basic Controls>
-File: gmd.csv, Row: 112445 -> Invalid tag: <New Area>
-File: gmd.csv, Row: 112449 -> Invalid tag: <Rewards>
-File: gmd.csv, Row: 112554 -> Invalid tag: < Walled walls that can be destroyed by explosions >
-File: gmd.csv, Row: 112554 -> Invalid tag: < Walls that can be destroyed by attacks from large monsters >
-File: gmd.csv, Row: 112563 -> Invalid tag: <About Comrades>
-File: gmd.csv, Row: 112565 -> Invalid tag: <Failure and progress will be discarded>
-File: gmd.csv, Row: 112565 -> Invalid tag: <Forced Clear>
-File: gmd.csv, Row: 112572 -> Invalid tag: <Evidence>
-File: gmd.csv, Row: 112572 -> Invalid tag: <Evidence>
-File: gmd.csv, Row: 112572 -> Invalid tag: <Evidence>
-File: gmd.csv, Row: 112572 -> Invalid tag: <Intelligence Assessment>
-File: gmd.csv, Row: 112575 -> Invalid tag: <Event: About Eavesdropping>
-File: gmd.csv, Row: 112589 -> Invalid tag: <The Abyss>
-File: gmd.csv, Row: 112592 -> Invalid tag: <Regarding Rewards>
-File: gmd.csv, Row: 112594 -> Invalid tag: <Mission to defeat the enemies causing the disturbances>
-File: gmd.csv, Row: 112594 -> Invalid tag: <Mission to defeat the enemies mutated by darkness>
-File: gmd.csv, Row: 112595 -> Invalid tag: <Mission to Destroy the Dragon Crystal of Darkness>
-File: gmd.csv, Row: 112595 -> Invalid tag: <Mission to Defend the Crystal of Blessing>
-File: gmd.csv, Row: 112600 -> Invalid tag: <Force>
-File: gmd.csv, Row: 112600 -> Invalid tag: <Spirit Dragon/Fire Dragon/White Dragon/Anti-Black Dragon>
-File: gmd.csv, Row: 112601 -> Invalid tag: <Dragon Protection>
-File: gmd.csv, Row: 112601 -> Invalid tag: <Dragon Blessing>
-File: gmd.csv, Row: 112603 -> Invalid tag: <Beast Slayer>
-File: gmd.csv, Row: 112605 -> Invalid tag: <Fiend Slayer>
-File: gmd.csv, Row: 112606 -> Invalid tag: <Demon Bulwark of the Fire Dragon>
-File: gmd.csv, Row: 112609 -> Invalid tag: <Bulwark of the White Dragon>
-File: gmd.csv, Row: 112610 -> Invalid tag: <Spirit Slayer>
-File: gmd.csv, Row: 112613 -> Invalid tag: <Dragon Slayer>
-File: gmd.csv, Row: 112620 -> Invalid tag: <Bonus Target>
-File: gmd.csv, Row: 112621 -> Invalid tag: <Wild Hunt Requests>
-File: gmd.csv, Row: 112622 -> Invalid tag: <Lisa's Trust>
-File: gmd.csv, Row: 112628 -> Invalid tag: <Synthesis of Dragon Abilities>
-File: gmd.csv, Row: 112628 -> Invalid tag: <Anti-Black Dragon>
-File: gmd.csv, Row: 112628 -> Invalid tag: <Black Dragon Equipment>
-File: gmd.csv, Row: 112628 -> Invalid tag: <Spirit Dragon Equipment>
-File: gmd.csv, Row: 112628 -> Invalid tag: <Fire Dragon Equipment>
-File: gmd.csv, Row: 112628 -> Invalid tag: <White Dragon Equipment>
-File: gmd.csv, Row: 112628 -> Invalid tag: <Golden Dragon Equipment>
-File: gmd.csv, Row: 112628 -> Invalid tag: <Force>
-File: gmd.csv, Row: 112639 -> Invalid tag: <Mission to Repair the Crystal of Blessing>
-File: gmd.csv, Row: 112643 -> Invalid tag: <Embrace of the Spirit Dragon>
-File: gmd.csv, Row: 112644 -> Invalid tag: <Purification of the Fire Dragon>
-File: gmd.csv, Row: 112644 -> Invalid tag: <Dark Flame>
-File: gmd.csv, Row: 112645 -> Invalid tag: <White Dragon's Edge>
-File: gmd.csv, Row: 112646 -> Invalid tag: <Blow of the Golden Dragon>
-File: gmd.csv, Row: 115042 -> Invalid tag: <Bonus Activation Conditions>
-File: gmd.csv, Row: 115042 -> Invalid tag: <Bonus Contents>
-File: gmd.csv, Row: 115043 -> Invalid tag: <Bonus Activation Conditions>
-File: gmd.csv, Row: 115043 -> Invalid tag: <Bonus Contents>
-File: gmd.csv, Row: 122111 -> Invalid tag: <have GS>
-File: gmd.csv, Row: 124635 -> Invalid tag: <Text for Sub-objective>
-File: gmd.csv, Row: 127239 -> Invalid tag: <Dacreim Fortress>
-File: gmd.csv, Row: 127240 -> Invalid tag: <Jifule Fortress>
-File: gmd.csv, Row: 127241 -> Invalid tag: <The King's Hidden Chamber>
-File: gmd.csv, Row: 127242 -> Invalid tag: <Hall of the Magic Horns>
-File: gmd.csv, Row: 128591 -> Invalid tag: <Element Archer's Mark>
-File: gmd.csv, Row: 128619 -> Invalid tag: <Warrior's Mark>
-File: gmd.csv, Row: 128656 -> Invalid tag: <Alchemist's Mark>
-File: gmd.csv, Row: 128995 -> Invalid tag: <Crimson Crystal>
+File: gmd - Copy.csv, Row: 4536 -> Invalid tag: <20:00 Target Confirmation>
+File: gmd - Copy.csv, Row: 4537 -> Invalid tag: <22:00 Confirm target>
+File: gmd - Copy.csv, Row: 25623 -> Invalid tag: <Spring of Abundance>
+File: gmd - Copy.csv, Row: 25917 -> Invalid tag: <Spring of Abundance>
+File: gmd - Copy.csv, Row: 25918 -> Invalid tag: <Spring of Vitality>
+File: gmd - Copy.csv, Row: 61794 -> Invalid tag: <COL B92828>
+File: gmd - Copy.csv, Row: 61837 -> Invalid tag: <COL B92828>
+File: gmd - Copy.csv, Row: 61875 -> Invalid tag: <COL B92828>
+File: gmd - Copy.csv, Row: 64641 -> Invalid tag: <VALPRICE_PARLOR_GP>
+File: gmd - Copy.csv, Row: 64647 -> Invalid tag: <VALPRICE_REBORN_GP>
+File: gmd - Copy.csv, Row: 64647 -> Invalid tag: <COLb92828>
+File: gmd - Copy.csv, Row: 64831 -> Invalid tag: <span class="notranslate">
+File: gmd - Copy.csv, Row: 64831 -> Invalid tag: </span>
+File: gmd - Copy.csv, Row: 64831 -> Invalid tag: <span class="notranslate">
+File: gmd - Copy.csv, Row: 64831 -> Invalid tag: </span>
+File: gmd - Copy.csv, Row: 64831 -> Invalid tag: <span class="notranslate">
+File: gmd - Copy.csv, Row: 64831 -> Invalid tag: </span>
+File: gmd - Copy.csv, Row: 64838 -> Invalid tag: <Visit My Room Settings>
+File: gmd - Copy.csv, Row: 65670 -> Invalid tag: <span class="notranslate">
+File: gmd - Copy.csv, Row: 65670 -> Invalid tag: </span>
+File: gmd - Copy.csv, Row: 65677 -> Invalid tag: <span class="notranslate">
+File: gmd - Copy.csv, Row: 65677 -> Invalid tag: </span>
+File: gmd - Copy.csv, Row: 102680 -> Invalid tag: <3 left>
+File: gmd - Copy.csv, Row: 102681 -> Invalid tag: <2 left>
+File: gmd - Copy.csv, Row: 102682 -> Invalid tag: <1 left>
+File: gmd - Copy.csv, Row: 102751 -> Invalid tag: < current：0 people>
+File: gmd - Copy.csv, Row: 102752 -> Invalid tag: < current：1 people>
+File: gmd - Copy.csv, Row: 102753 -> Invalid tag: < current：2 people>
+File: gmd - Copy.csv, Row: 102754 -> Invalid tag: < current：3 people>
+File: gmd - Copy.csv, Row: 102755 -> Invalid tag: < current：4 people>
+File: gmd - Copy.csv, Row: 103291 -> Invalid tag: <The Second Ark>
+File: gmd - Copy.csv, Row: 108307 -> Invalid tag: <War Mission: Dacreim Fortress Recapture Battle>
+File: gmd - Copy.csv, Row: 108318 -> Invalid tag: <War Mission: Jifule Fortress Capture Battle >
+File: gmd - Copy.csv, Row: 116312 -> Invalid tag: <Consumable items>
+File: gmd - Copy.csv, Row: 116312 -> Invalid tag: <Material items>
+File: gmd - Copy.csv, Row: 116313 -> Invalid tag: <Equipment>
+File: gmd - Copy.csv, Row: 116313 -> Invalid tag: <Job-specific items>
+File: gmd - Copy.csv, Row: 116331 -> Invalid tag: <Basic Operations>
+File: gmd - Copy.csv, Row: 116332 -> Invalid tag: <Basic Controls>
+File: gmd - Copy.csv, Row: 116334 -> Invalid tag: <Basic Actions>
+File: gmd - Copy.csv, Row: 116335 -> Invalid tag: <Basic Controls>
+File: gmd - Copy.csv, Row: 116336 -> Invalid tag: <Basic Controls/Attacks>
+File: gmd - Copy.csv, Row: 116337 -> Invalid tag: <Basic Controls>
+File: gmd - Copy.csv, Row: 116338 -> Invalid tag: <Basic Controls/Attack>
+File: gmd - Copy.csv, Row: 116342 -> Invalid tag: <Trading items>
+File: gmd - Copy.csv, Row: 116359 -> Invalid tag: <Talk to a player character>
+File: gmd - Copy.csv, Row: 116359 -> Invalid tag: <Invite from the chat log>
+File: gmd - Copy.csv, Row: 116386 -> Invalid tag: <Attacker>
+File: gmd - Copy.csv, Row: 116386 -> Invalid tag: <Healer>
+File: gmd - Copy.csv, Row: 116386 -> Invalid tag: <Tank>
+File: gmd - Copy.csv, Row: 116419 -> Invalid tag: <Status Check>
+File: gmd - Copy.csv, Row: 116420 -> Invalid tag: <Enhance Equipment>
+File: gmd - Copy.csv, Row: 116422 -> Invalid tag: <Change Colour>
+File: gmd - Copy.csv, Row: 116433 -> Invalid tag: <Battle for Gritten Fort>
+File: gmd - Copy.csv, Row: 116441 -> Invalid tag: <Notes>
+File: gmd - Copy.csv, Row: 116452 -> Invalid tag: <Consecutive Stamp Bonus>
+File: gmd - Copy.csv, Row: 116452 -> Invalid tag: <Accumulated Stamp Bonus>
+File: gmd - Copy.csv, Row: 116459 -> Invalid tag: <Basic Controls/Attacks>
+File: gmd - Copy.csv, Row: 116460 -> Invalid tag: <Basic Operation/Evasion>
+File: gmd - Copy.csv, Row: 116464 -> Invalid tag: <Progress Marker>
+File: gmd - Copy.csv, Row: 116464 -> Invalid tag: <Listen to the Conversation>
+File: gmd - Copy.csv, Row: 116465 -> Invalid tag: <If the progression is the same>
+File: gmd - Copy.csv, Row: 116465 -> Invalid tag: <If the progression is different>
+File: gmd - Copy.csv, Row: 116476 -> Invalid tag: <Force Attribute Selection>
+File: gmd - Copy.csv, Row: 116477 -> Invalid tag: <Force manipulation>
+File: gmd - Copy.csv, Row: 116494 -> Invalid tag: <Basic Controls/Support>
+File: gmd - Copy.csv, Row: 116519 -> Invalid tag: <Hold Down>
+File: gmd - Copy.csv, Row: 116528 -> Invalid tag: <World>
+File: gmd - Copy.csv, Row: 116561 -> Invalid tag: <Basic Controls>
+File: gmd - Copy.csv, Row: 116570 -> Invalid tag: <Bloodbane Isle's Feast of Madness>
+File: gmd - Copy.csv, Row: 116592 -> Invalid tag: <Palette switching method on the Arts Support screen>
+File: gmd - Copy.csv, Row: 116593 -> Invalid tag: <How to switch palettes under normal conditions>
+File: gmd - Copy.csv, Row: 116596 -> Invalid tag: <COL>
+File: gmd - Copy.csv, Row: 116597 -> Invalid tag: <Secret Core>
+File: gmd - Copy.csv, Row: 116609 -> Invalid tag: <Play Point Acquisition Mode>
+File: gmd - Copy.csv, Row: 116609 -> Invalid tag: <Arts Support>
+File: gmd - Copy.csv, Row: 116609 -> Invalid tag: <Vocation Select>
+File: gmd - Copy.csv, Row: 116633 -> Invalid tag: <HINT FOR EXPLORATION LOCATION>
+File: gmd - Copy.csv, Row: 116651 -> Invalid tag: <Food Decrease>
+File: gmd - Copy.csv, Row: 116652 -> Invalid tag: <Food Gauge>
+File: gmd - Copy.csv, Row: 116656 -> Invalid tag: <Protecting Carrie>
+File: gmd - Copy.csv, Row: 116662 -> Invalid tag: <War Missions party restrictions>
+File: gmd - Copy.csv, Row: 116690 -> Invalid tag: <Custom-made Arms>
+File: gmd - Copy.csv, Row: 116690 -> Invalid tag: <Arms Resource Disassembly>
+File: gmd - Copy.csv, Row: 116692 -> Invalid tag: <Area 19>
+File: gmd - Copy.csv, Row: 116698 -> Invalid tag: <Mandragora Gardening>
+File: gmd - Copy.csv, Row: 116699 -> Invalid tag: <Mandragora Cultivation>
+File: gmd - Copy.csv, Row: 116700 -> Invalid tag: <Mandragora Evolution>
+File: gmd - Copy.csv, Row: 116701 -> Invalid tag: <Mandragora Observation Journal>
+File: gmd - Copy.csv, Row: 116705 -> Invalid tag: <Crest Inheritance>
+File: gmd - Copy.csv, Row: 116719 -> Invalid tag: <Blunt Soldier Dwarf Orc>
+File: gmd - Copy.csv, Row: 116719 -> Invalid tag: <Heavy Soldier Dwarf Orc and Squad Leader Dwarf Orc>
+File: gmd - Copy.csv, Row: 116728 -> Invalid tag: <Signal the timing of movement>
+File: gmd - Copy.csv, Row: 116730 -> Invalid tag: <"Beckon">
+File: gmd - Copy.csv, Row: 116730 -> Invalid tag: <COL>
+File: gmd - Copy.csv, Row: 116730 -> Invalid tag: <Game Menu>
+File: gmd - Copy.csv, Row: 116730 -> Invalid tag: <Emotes>
+File: gmd - Copy.csv, Row: 116730 -> Invalid tag: <Actions 1>
+File: gmd - Copy.csv, Row: 116730 -> Invalid tag: <Category>
+File: gmd - Copy.csv, Row: 116730 -> Invalid tag: <Beckon>
+File: gmd - Copy.csv, Row: 116733 -> Invalid tag: <Emotes>
+File: gmd - Copy.csv, Row: 116733 -> Invalid tag: <Communication>
+File: gmd - Copy.csv, Row: 116733 -> Invalid tag: <Actions 1>
+File: gmd - Copy.csv, Row: 116737 -> Invalid tag: <Sonel's Condition>
+File: gmd - Copy.csv, Row: 116737 -> Invalid tag: <Sonel's Hidden Condition>
+File: gmd - Copy.csv, Row: 116739 -> Invalid tag: <Point of the task>
+File: gmd - Copy.csv, Row: 116742 -> Invalid tag: <Gate Attack Failure>
+File: gmd - Copy.csv, Row: 116744 -> Invalid tag: <War Missions party restrictions>
+File: gmd - Copy.csv, Row: 116758 -> Invalid tag: <Basic Controls>
+File: gmd - Copy.csv, Row: 116778 -> Invalid tag: <New Area>
+File: gmd - Copy.csv, Row: 116779 -> Invalid tag: <Rewards>
+File: gmd - Copy.csv, Row: 116802 -> Invalid tag: < Walled walls that can be destroyed by explosions >
+File: gmd - Copy.csv, Row: 116802 -> Invalid tag: < Walls that can be destroyed by attacks from large monsters >
+File: gmd - Copy.csv, Row: 116808 -> Invalid tag: <Evidence>
+File: gmd - Copy.csv, Row: 116808 -> Invalid tag: <Evidence>
+File: gmd - Copy.csv, Row: 116808 -> Invalid tag: <Evidence>
+File: gmd - Copy.csv, Row: 116808 -> Invalid tag: <Intelligence Assessment>
+File: gmd - Copy.csv, Row: 116816 -> Invalid tag: <Event: About Eavesdropping>
+File: gmd - Copy.csv, Row: 116818 -> Invalid tag: <Failure and progress will be discarded>
+File: gmd - Copy.csv, Row: 116818 -> Invalid tag: <Forced Clear>
+File: gmd - Copy.csv, Row: 116822 -> Invalid tag: <About Comrades>
+File: gmd - Copy.csv, Row: 116835 -> Invalid tag: <The Abyss>
+File: gmd - Copy.csv, Row: 116838 -> Invalid tag: <Regarding Rewards>
+File: gmd - Copy.csv, Row: 116841 -> Invalid tag: <Mission to defeat the enemies causing the disturbances>
+File: gmd - Copy.csv, Row: 116841 -> Invalid tag: <Mission to defeat the enemies mutated by darkness>
+File: gmd - Copy.csv, Row: 116842 -> Invalid tag: <Mission to Destroy the Dragon Crystal of Darkness>
+File: gmd - Copy.csv, Row: 116842 -> Invalid tag: <Mission to Defend the Crystal of Blessing>
+File: gmd - Copy.csv, Row: 116844 -> Invalid tag: <Mission to Repair the Crystal of Blessing>
+File: gmd - Copy.csv, Row: 116854 -> Invalid tag: <Force>
+File: gmd - Copy.csv, Row: 116854 -> Invalid tag: <Spirit Dragon/Fire Dragon/White Dragon/Anti-Black Dragon>
+File: gmd - Copy.csv, Row: 116855 -> Invalid tag: <Dragon Protection>
+File: gmd - Copy.csv, Row: 116855 -> Invalid tag: <Dragon Blessing>
+File: gmd - Copy.csv, Row: 116858 -> Invalid tag: <Beast Slayer>
+File: gmd - Copy.csv, Row: 116860 -> Invalid tag: <Embrace of the Spirit Dragon>
+File: gmd - Copy.csv, Row: 116861 -> Invalid tag: <Demon Slayer>
+File: gmd - Copy.csv, Row: 116862 -> Invalid tag: <Demon Bulwark of the Fire Dragon>
+File: gmd - Copy.csv, Row: 116864 -> Invalid tag: <Purification of the Fire Dragon>
+File: gmd - Copy.csv, Row: 116864 -> Invalid tag: <Dark Flame>
+File: gmd - Copy.csv, Row: 116866 -> Invalid tag: <Bulwark of the White Dragon>
+File: gmd - Copy.csv, Row: 116867 -> Invalid tag: <Spirit Slayer>
+File: gmd - Copy.csv, Row: 116868 -> Invalid tag: <White Dragon's Edge>
+File: gmd - Copy.csv, Row: 116871 -> Invalid tag: <Dragon Slayer>
+File: gmd - Copy.csv, Row: 116872 -> Invalid tag: <Blow of the Golden Dragon>
+File: gmd - Copy.csv, Row: 116879 -> Invalid tag: <Bonus Target>
+File: gmd - Copy.csv, Row: 116880 -> Invalid tag: <Wild Hunt Requests>
+File: gmd - Copy.csv, Row: 116881 -> Invalid tag: <Lisa's Trust>
+File: gmd - Copy.csv, Row: 116889 -> Invalid tag: <Synthesis of Dragon Abilities>
+File: gmd - Copy.csv, Row: 116889 -> Invalid tag: <Anti-Black Dragon>
+File: gmd - Copy.csv, Row: 116889 -> Invalid tag: <Black Dragon Equipment>
+File: gmd - Copy.csv, Row: 116889 -> Invalid tag: <Spirit Dragon Equipment>
+File: gmd - Copy.csv, Row: 116889 -> Invalid tag: <Fire Dragon Equipment>
+File: gmd - Copy.csv, Row: 116889 -> Invalid tag: <White Dragon Equipment>
+File: gmd - Copy.csv, Row: 116889 -> Invalid tag: <Golden Dragon Equipment>
+File: gmd - Copy.csv, Row: 116889 -> Invalid tag: <Force>
+File: gmd - Copy.csv, Row: 118157 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 118158 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 118159 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 118160 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 118161 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 119037 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 119038 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 119039 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 119040 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 119041 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 123123 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 123426 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 124514 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 124515 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 124516 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 124517 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 124518 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 124998 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 125863 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 126457 -> Invalid tag: <have GS>
+File: gmd - Copy.csv, Row: 127468 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 127469 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 127470 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 127471 -> Invalid tag: <COL aa1414>
+File: gmd - Copy.csv, Row: 128971 -> Invalid tag: <EMNM>
+File: gmd - Copy.csv, Row: 128979 -> Invalid tag: <Text for Sub-objective>
+File: gmd - Copy.csv, Row: 131584 -> Invalid tag: <Dacreim Fortress>
+File: gmd - Copy.csv, Row: 131585 -> Invalid tag: <Jifule Fortress>
+File: gmd - Copy.csv, Row: 131586 -> Invalid tag: <The King's Room of Concealment>
+File: gmd - Copy.csv, Row: 131587 -> Invalid tag: <Hall of the Magic Horns>
 
