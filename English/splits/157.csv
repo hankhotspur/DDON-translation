@@ -386,49 +386,76 @@ Just imagining running into it makes my blood run cold.",ui\00_message\quest\q20
 You will handle it properly, won't you?",ui\00_message\quest\q20000007.gmd,\quest\q20000007.arc,q20000007.arc,18,Eterna
 0,,"ああっ、丁度いいところに
 お前も覚者だな！？
-急な任務だ、手伝ってくれ！",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,0,Arisen Corps Regimental Soldier
+急な任務だ、手伝ってくれ！","Ah! Just in time—
+you're an Arisen too, right!?
+It's an urgent mission—help us!",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,0,Arisen Corps Regimental Soldier
 0,,"グリッテン砦の南にオークの小隊が
 入り込んだ
-どうやら偵察部隊らしい",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,1,Arisen Corps Regimental Soldier
+どうやら偵察部隊らしい","An orc squad has slipped in
+south of Gritten Fortress.
+It appears to be a scouting unit.",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,1,Arisen Corps Regimental Soldier
 0,,"何としても全て仕留めなければ
-手分けしてくれ！",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,2,Arisen Corps Regimental Soldier
+手分けしてくれ！","We must take them all out, no matter what.
+Split up and move!",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,2,Arisen Corps Regimental Soldier
 0,,"ああっ、丁度いいところに
 お前も覚者だな！？
-緊急任務だ、手伝ってくれ！",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,3,Arisen Corps Regimental Soldier
+緊急任務だ、手伝ってくれ！","Ah! Just in time—
+you're an Arisen too!?
+It's an urgent mission—help us!",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,3,Arisen Corps Regimental Soldier
 0,,"グリッテン砦の南にオークの小隊が
 入り込んだんだが、目撃情報によると
-厄介な斥候部隊のようだ",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,4,Arisen Corps Regimental Soldier
+厄介な斥候部隊のようだ","An orc squad has slipped in
+south of Gritten Fortress, and according to reports,
+they seem to be a troublesome scouting unit.",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,4,Arisen Corps Regimental Soldier
 0,,"妙な事になる前に全て仕留めなければ
-手分けしてくれ！",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,5,Arisen Corps Regimental Soldier
+手分けしてくれ！","We must eliminate them all
+before things take a turn for the worse.
+Split up and move!",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,5,Arisen Corps Regimental Soldier
 0,,"ああああっ、丁度いいところに！
 お前も覚者だな！？　て、手伝ってくれ！！
-大変なことになった！",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,6,Arisen Corps Regimental Soldier
+大変なことになった！","A-ahhh! Just in time!
+You're an Arisen too, right!? P-please help!!
+This is serious!",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,6,Arisen Corps Regimental Soldier
 0,,"グリッテン砦の南にオークの小隊が
 入り込んだんだが、よりによって
-特に危険な尖兵部隊らしいんだ",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,7,Arisen Corps Regimental Soldier
+特に危険な尖兵部隊らしいんだ","An orc squad has slipped in
+south of Gritten Fortress, and of all things,
+it seems to be an especially dangerous vanguard unit.",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,7,Arisen Corps Regimental Soldier
 0,,"並みの騎士団や戦士じゃおそらく
 歯が立たないだろう
-テルや神殿に入られたらどうなることか――",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,8,Arisen Corps Regimental Soldier
+テルや神殿に入られたらどうなることか――","A regular Knight Order or ordinary warriors
+would probably stand no chance.
+If they get into Tel or the temple, who knows what will happen—",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,8,Arisen Corps Regimental Soldier
 0,,"頼む、手伝ってくれ！
-大きな被害が出る前に奴らを止めないと",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,9,Arisen Corps Regimental Soldier
+大きな被害が出る前に奴らを止めないと","Please, help us!
+We have to stop them before there's major damage.",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,9,Arisen Corps Regimental Soldier
 0,,"おお、全て仕留めたんだな！
 よかった――何のためのグリッテン砦だと
-責められる所だった",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,10,Arisen Corps Regimental Soldier
-0,,協力感謝する！,,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,11,Arisen Corps Regimental Soldier
+責められる所だった","Oh, you took them all down!
+Thank goodness—we were about to be blamed,
+asked what Gritten Fortress was even for.",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,10,Arisen Corps Regimental Soldier
+0,,協力感謝する！,Thanks for your cooperation!,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,11,Arisen Corps Regimental Soldier
 0,,"おお、全て仕留めたのか！？
 よかった――あんな奴らの侵入を許せば
-グリッテン砦の責任問題だ",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,12,Arisen Corps Regimental Soldier
-0,,協力感謝する！,,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,13,Arisen Corps Regimental Soldier
+グリッテン砦の責任問題だ","Oh, you eliminated them all!?
+Thank goodness—if we'd allowed invaders like that in,
+it would've been a serious matter of responsibility for Gritten Fortress.",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,12,Arisen Corps Regimental Soldier
+0,,協力感謝する！,Thanks for your cooperation!,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,13,Arisen Corps Regimental Soldier
 0,,"何っ！　全て仕留めたというのか、あの部隊を！？
-それはすごい、大したものじゃないか！",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,14,Arisen Corps Regimental Soldier
+それはすごい、大したものじゃないか！","What! You wiped out that entire unit!?
+That's incredible—truly impressive!",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,14,Arisen Corps Regimental Soldier
 0,,"いやぁ、砦よりこちらの守りは
-お前がいれば心配ないな！",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,15,Arisen Corps Regimental Soldier
+お前がいれば心配ないな！","Honestly, with you here,
+this side is safer than the fortress itself!",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,15,Arisen Corps Regimental Soldier
 0,,"本当に感謝する
-一時はどうなることかと思ったよ――",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,16,Arisen Corps Regimental Soldier
+一時はどうなることかと思ったよ――","You have my sincere thanks.
+For a moment, I didn't know what would happen—",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,16,Arisen Corps Regimental Soldier
 0,,"おい、何をしている！
-早く行くんだ",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,17,Arisen Corps Regimental Soldier
+早く行くんだ","Hey, what are you doing!?
+Get moving, now!",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,17,Arisen Corps Regimental Soldier
 0,,"付近住民に被害があってからでは遅いぞ
-急げ！",,ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,18,Arisen Corps Regimental Soldier
+急げ！","It'll be too late once nearby residents are harmed.
+Hurry!",ui\00_message\quest\q20000008.gmd,\quest\q20000008.arc,q20000008.arc,18,Arisen Corps Regimental Soldier
 0,,"ああ、覚者さん――
 少し頼みたいことがあるんだ","Ah, Arisen...
 there's something I'd like to ask of you.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q20000009.arc,0,Henry
@@ -528,928 +555,1510 @@ I'd like you to hurry.",ui\00_message\quest\q20000009.gmd,\quest\q20000009.arc,q
 道中が物騒で困ってるのよ","I have a delivery to make to Jingen,
 but the road has become dangerous, and I'm at a loss.",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,0,Woman
 0,,"悪いんだけど、厄介そうなのを
-退治してくれないかしら？",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,1,Woman
+退治してくれないかしら？","Sorry to ask, but could you
+take care of whatever's causing trouble?",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,1,Woman
 0,,"ジンゲンまで届け物があるんだけど
-あまりに道中が不安で足止めをくってたの",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,2,Woman
+あまりに道中が不安で足止めをくってたの","I have a delivery to make to Jingen,
+but the road felt so unsafe that I've been stuck here.",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,2,Woman
 0,,"なんだか、かなり危なそうなのがいてね
 このままじゃさすがに通れそうにないの
-お願い、退治してくれないかしら",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,3,Woman
-0,,でも、怪我だけはしないようにね,,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,4,Woman
+お願い、退治してくれないかしら","There's something that looks extremely dangerous.
+At this rate, I really don't think I can get through.
+Please, could you take care of it?",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,3,Woman
+0,,でも、怪我だけはしないようにね,"But please, don't get hurt.",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,4,Woman
 0,,"ジンゲンまで届け物があるんだけど――
-どうしよう――！",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,5,Woman
+どうしよう――！","I have a delivery to make to Jingen, but...
+What should I do?!",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,5,Woman
 0,,"ここにあんな化け物が出るなんて聞いてない
 っていうか、このままじゃ誰もこの道を
-通れないんじゃないかしら",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,6,Woman
+通れないんじゃないかしら","I never heard anything about a monster like that appearing here.
+I mean, at this rate, no one will
+be able to use this road at all.",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,6,Woman
 0,,"ねぇ、なんとか退治してもらえないかしら
-この通り困ってるの",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,7,Woman
+この通り困ってるの","Please, couldn't you do something about it?
+As you can see, I'm really in trouble.",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,7,Woman
 0,,"でも、無理ならあきらめて戻ってくるのよ？
-命かけろなんて言ってないからね",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,8,Woman
+命かけろなんて言ってないからね","But if it's too much, come back and give up, okay?
+I'm not asking you to risk your life.",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,8,Woman
 0,,"あ、無事だった？　良かったわ
-これで何とかジンゲンまで行けそう",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,9,Woman
+これで何とかジンゲンまで行けそう","Ah, you're safe? That's a relief.
+Looks like I can make it to Jingen now.",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,9,Woman
 0,,"この辺りは、特に物取りや魔物が
 集まりやすいの
-また何かあったらヨロシクね",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,10,Woman
+また何かあったらヨロシクね","This area tends to attract
+thieves and monsters in particular.
+If anything happens again, I'm counting on you.",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,10,Woman
 0,,"あ、無事だった？　良かったわ
 いかにも危なそうだったから心配だったの
-これで何とかジンゲンまで行けそう",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,11,Woman
+これで何とかジンゲンまで行けそう","Ah, you're safe? I'm glad.
+It looked really dangerous, so I was worried.
+Looks like I can make it to Jingen now.",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,11,Woman
 0,,"この辺りは、特に物取りや魔物が
 集まりやすいの
-また何かあったらヨロシクね",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,12,Woman
+また何かあったらヨロシクね","This area tends to attract
+thieves and monsters in particular.
+If anything happens again, I'm counting on you.",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,12,Woman
 0,,"あ、無事だった？　良かったわ
 あんな魔物を倒せるなんてスゴいじゃない
-これで何とかジンゲンまで行けそう",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,13,Woman
+これで何とかジンゲンまで行けそう","Ah, you're safe? That's a relief.
+Defeating a monster like that is amazing!
+Looks like I can make it to Jingen now.",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,13,Woman
 0,,"この辺り、たまにああいう危ないのが出るみたい
-もしまた何かあったらヨロシクね",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,14,Woman
+もしまた何かあったらヨロシクね","It seems dangerous things like that appear around here from time to time.
+If anything happens again, I'm counting on you.",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,14,Woman
 0,,"どう？　何とかなりそう？
 無理ならミスリウの方から行くしかないけど
-ずいぶん遠回りなのよね",,ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,15,Woman
+ずいぶん遠回りなのよね","So? Do you think it'll work out?
+If not, we'll have to go around by way of Mysree,
+but that's a huge detour.",ui\00_message\quest\q20000010.gmd,\quest\q20000010.arc,q20000010.arc,15,Woman
 0,,"ちょっとお願いがあるんだけど
-聞くだけ聞く？",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,0,Klaus
+聞くだけ聞く？","I have a small favor to ask—
+would you at least hear me out?",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,0,Klaus
 0,,"実は半ば趣味なんだけど読めないくらい
 ボロい資料や、今じゃ使い方も
-わからないような道具とかを集めていてさ",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,1,Klaus
+わからないような道具とかを集めていてさ","To be honest, it's somewhat of a hobby, but 
+I collect manuscripts so worn they're 
+barely readable, and tools so old
+no one even knows how to use them anymore.",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,1,Klaus
 0,,"最近も近くの遺跡で見つかったらしいんだけど
 忙しくて取りにいけないんだ
-代わりに行ってくれないかな？",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,2,Klaus
+代わりに行ってくれないかな？","Apparently some were found at nearby ruins recently,
+but I've been too busy to go get them.
+Could you go in my place?",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,2,Klaus
 0,,"頼む――このとおり！
 気になって仕事が手につかないんだ
 宝箱に入ってるから、それをヒョイって
-持ってきてくれればいいんだ",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,3,Klaus
+持ってきてくれればいいんだ","I'm begging you—just like this!
+I can't concentrate on my work thinking about it.
+They're in a treasure chest, so just grab it
+and bring it back.",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,3,Klaus
 0,,"ちょっとお願いがあるんだけど
-聞くだけ聞く？",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,4,Klaus
+聞くだけ聞く？","I have a small favor to ask—
+would you at least hear me out?",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,4,Klaus
 0,,"実は半ば趣味なんだけど読めないくらい
 ボロい資料や、今じゃ使い方も
-わからないような道具とかを集めていてさ",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,5,Klaus
+わからないような道具とかを集めていてさ","To be honest, it's somewhat of a hobby, but 
+I collect manuscripts so worn they're 
+barely readable, and tools so old
+no one even knows how to use them anymore.",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,5,Klaus
 0,,"最近も近くの遺跡で見つかったらしいんだけど
 忙しくて取りにいけないんだ
-代わりに行ってくれないかな？",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,6,Klaus
+代わりに行ってくれないかな？","Apparently some were found at nearby ruins recently,
+but I've been too busy to go get them.
+Could you go in my place?",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,6,Klaus
 0,,"頼む――このとおり！
-気になって仕事が手につかないんだ",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,7,Klaus
+気になって仕事が手につかないんだ","I'm begging you—just like this!
+I can't concentrate on my work thinking about it.",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,7,Klaus
 0,,"男が物々交換を持ちかけてくるはずだから
 言うことをきいてやってほしい
-面倒くさくてごめんよ",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,8,Klaus
+面倒くさくてごめんよ","A man should approach you proposing a barter,
+so please go along with what he says.
+Sorry for the hassle.",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,8,Klaus
 0,,"ちょっとお願いがあるんだけど
-聞くだけ聞く？",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,9,Klaus
+聞くだけ聞く？","I have a small favor to ask—
+would you at least hear me out?",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,9,Klaus
 0,,"実は半ば趣味なんだけど読めないくらい
 ボロい資料や、今じゃ使い方も
-わからないような道具とかを集めていてさ",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,10,Klaus
+わからないような道具とかを集めていてさ","To be honest, it's somewhat of a hobby, but 
+I collect manuscripts so worn they're 
+barely readable, and tools so old
+no one even knows how to use them anymore.",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,10,Klaus
 0,,"最近も近くの遺跡で見つかったらしいんだけど
 忙しくて取りにいけないんだ
-代わりに行ってくれないかな？",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,11,Klaus
+代わりに行ってくれないかな？","Apparently some were found at nearby ruins recently,
+but I've been too busy to go get them.
+Could you go in my place?",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,11,Klaus
 0,,"頼む――このとおり！
-気になって仕事が手につかないんだ",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,12,Klaus
+気になって仕事が手につかないんだ","I'm begging you—just like this!
+I can't concentrate on my work thinking about it.",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,12,Klaus
 0,,"お宝は魔物が体内に取り込んでいるらしいから
 そいつを倒せば手に入るはず
-魔物退治は喜ばれるし一石二鳥だね！",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,13,Klaus
+魔物退治は喜ばれるし一石二鳥だね！","It seems the treasure is inside a monster's body,
+so if you defeat it, you should be able to get it.
+And monster hunting is always welcome — two birds with one stone!",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,13,Klaus
 0,,"ふん、クラウスの使いか
-奴も偉くなったもんだな",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,14,Bandit
+奴も偉くなったもんだな","Hmph, Klaus's errand-runner, huh.
+He's really risen in status, hasn't he.",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,14,Bandit
 0,,"このお宝を手に入れるために
 随分と苦労したんだ――
-どうしてもというなら、礼を先払いしてもらいたいね",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,15,Bandit
+どうしてもというなら、礼を先払いしてもらいたいね","I went through a lot of trouble
+to get my hands on this treasure—
+if you insist, I'll want my reward paid in advance.
+",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,15,Bandit
 0,,"ほう、本当に持ってくるとはな
 ってことはこのお宝は本物のお宝かよ
-そういうことなら、これは渡せないな――",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,16,Bandit
+そういうことなら、これは渡せないな――","Oh? You actually brought it back.
+Which means this treasure really is the real deal.
+If that's the case, I can't hand it over—",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,16,Bandit
 0,,"って冗談だって！
-ほら、持っていけ――クラウスによろしくな",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,17,Bandit
+ほら、持っていけ――クラウスによろしくな","I'm joking!
+Here, take it—and give my regards to Klaus.",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,17,Bandit
 0,,"へえ――掘り出し物ってこれだったのか！
 うーん、調べがいがあるよ
-ありがとう、また頼むね",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,18,Klaus
+ありがとう、また頼むね","Heh—so this is the hidden gem!
+Hmm, this will be worth investigating.
+Thanks—I'll ask you again sometime.",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,18,Klaus
 0,,"ふーん、これかあ！
 確かにこれは素晴らしい――
-こんなに完全な形で出るのは珍しいんだ",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,19,Klaus
+こんなに完全な形で出るのは珍しいんだ","I see—so this is it!
+This really is remarkable.
+It's rare to find something in such perfect condition.",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,19,Klaus
 0,,"うん、ありがとう
-また頼むよ",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,20,Klaus
+また頼むよ","Yeah, thanks.
+I'll ask you again.",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,20,Klaus
 0,,"うわ！　これ！？
 これは本当に珍しくて凄いものだよ！
-手に入れるのは大変だったろう？",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,21,Klaus
+手に入れるのは大変だったろう？","Whoa! This!?
+This is truly rare—an incredible find!
+It must have been hard to obtain, right?",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,21,Klaus
 0,,"君は本当に頼りになるね
 これからも、ここぞって時は君に頼ませてよ
-もちろんお礼はするからね",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,22,Klaus
+もちろんお礼はするからね","You're really dependable.
+From now on, I'll rely on you when it really counts.
+Of course, I'll make it worth your while.",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,22,Klaus
 0,,"忙しい時は断ってもらった方が
-僕も気が楽だな",,ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,23,Klaus
+僕も気が楽だな","If you're busy, I'd rather you just say no—
+it puts my mind at ease.",ui\00_message\quest\q20000011.gmd,\quest\q20000011.arc,q20000011.arc,23,Klaus
 0,,"嘆願書がたまっているのだが――
-また頼めないだろうか",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,0,Joseph
+また頼めないだろうか","Petitions have been piling up...
+could I trouble you again?",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,0,Joseph
 0,,"少々遠い村からの依頼でな――
 そういう場所の実状を知っておくのも
-大切なことだ",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,1,Joseph
+大切なことだ","It's a request from a rather distant village—
+understanding the realities of such places
+is important too.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,1,Joseph
 0,,"誓願の内容は魔物退治と陳情だ
-しっかり話を聞いてくるんだな",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,2,Joseph
+しっかり話を聞いてくるんだな","The task involves monster extermination and a petition.
+Make sure you listen carefully.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,2,Joseph
 0,,"嘆願書がたまっているのだが――
-また頼めないだろうか",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,3,Joseph
+また頼めないだろうか","Petitions have been piling up...
+could I trouble you again?",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,3,Joseph
 0,,"少々遠い村からの依頼でな――
 そういう場所の実状を知っておくのも
-大切なことだ",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,4,Joseph
+大切なことだ","It's a request from a rather distant village—
+understanding the realities of such places
+is important too.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,4,Joseph
 0,,"誓願の内容は魔物退治と陳情だ
-しっかり話を聞いてくるんだな",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,5,Joseph
+しっかり話を聞いてくるんだな","The task involves monster extermination and a petition.
+Make sure you listen carefully.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,5,Joseph
 0,,"魔物はそこそこ強く、数も多いらしい
-油断は禁物だぞ",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,6,Joseph
+油断は禁物だぞ","The monsters are said to be fairly strong,
+and numerous as well.
+Don't let your guard down.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,6,Joseph
 0,,"嘆願書がたまっているのだが――
-また頼めないだろうか",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,7,Joseph
+また頼めないだろうか","Petitions have been piling up...
+could I trouble you again?",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,7,Joseph
 0,,"少々遠い村からの依頼でな――
 そういう場所の実状を知っておくのも
-大切なことだ",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,8,Joseph
+大切なことだ","It's a request from a rather distant village—
+understanding the realities of such places
+is important too.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,8,Joseph
 0,,"誓願の内容は魔物退治と陳情だ
-しっかり話を聞いてくるんだな",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,9,Joseph
+しっかり話を聞いてくるんだな","The task involves monster extermination and a petition.
+Make sure you listen carefully.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,9,Joseph
 0,,"魔物はかなり数が多いらしく――
 しかも、どちらかと言えば強い部類らしい
-心して、戦ってくれ",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,10,Joseph
+心して、戦ってくれ","The monsters are said to be quite numerous—
+and on top of that, they're on the stronger side.
+Steel yourself and fight.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,10,Joseph
 0,,"おいおい、神殿から来た覚者さんかよ
-嘆願書ってこっからでも届くんだな",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,11,Jordan
+嘆願書ってこっからでも届くんだな","Hey, hey—you're an Arisen from the temple?
+So petitions reach even out here, huh.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,11,Jordan
 0,,"でも――ふん、正直今さらって感じだぜ
-あんたが来るまでに何人死んだと思う？",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,12,Jordan
+あんたが来るまでに何人死んだと思う？","But—hmph, honestly, it feels too late now.
+How many do you think died before you got here?",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,12,Jordan
 0,,"来てくれたのはありがたいが、それよりも
 常駐の騎士団部隊を配備してもらえんかね
-もちろん覚者でも構わないよ",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,13,Lifeless Villager
+もちろん覚者でも構わないよ","I appreciate you coming, but more than that,
+couldn't they station a permanent Knight Order unit here?
+An Arisen would do just fine, too.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,13,Lifeless Villager
 0,,"こんな辺境――神殿から離れた土地じゃあ
-竜力がまったく届かなくてね",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,14,Lifeless Villager
+竜力がまったく届かなくてね","In a backwater like this—far from the temple,
+the dragon's power doesn't reach us at all.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,14,Lifeless Villager
 0,,"白竜さまが守ってくれないなら
-せめて騎士団くらい置いてもらわないと",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,15,Lifeless Villager
+せめて騎士団くらい置いてもらわないと","If the White Dragon won't protect us,
+then at least leave us a Knight Order unit.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,15,Lifeless Villager
 0,,"このあたりに住んでいると
 神殿から見捨てられたような気になる
 どうして移住しないのか――
-のんきな連中はそう思うのだろうな",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,16,Brandon
+のんきな連中はそう思うのだろうな","Living out here makes you feel
+like you've been abandoned by the temple.
+"Why don't you just move?"—
+that's what carefree people must think.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,16,Brandon
 0,,"忘れないでほしいのは
 ここはずっと人間の土地だったってことだ
-俺達にとっては先祖伝来の土地よ",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,17,Brandon
+俺達にとっては先祖伝来の土地よ","Don't forget this:
+this has always been human land.
+For us, it's land handed down from our ancestors.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,17,Brandon
 0,,"つまり、俺たちは相当頑張って
 ここに人間ありってことを魔物どもに
-知らしめているってわけだ",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,18,Brandon
+知らしめているってわけだ","In other words, we're working damn hard
+to make sure those monsters know
+that humans still live here.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,18,Brandon
 0,,"神殿のあんたらも、少しは協力してくれよ
-明け渡すのなんか、簡単だぞ？",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,19,Brandon
+明け渡すのなんか、簡単だぞ？","You folks at the temple could stand to help a little too.
+Handing this place over would be easy, you know?",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,19,Brandon
 0,,"はぁああ、嘆願にはもっと早く
-反応してもらえると嬉しいんだがね",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,20,Emporio
+反応してもらえると嬉しいんだがね","Ugh… I wish you'd respond to petitions
+a little more quickly.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,20,Emporio
 0,,"我々がいなくなったら、このあたりは
 未開の地と同じだろう？
-完全にオークの天下というわけだ",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,21,Emporio
+完全にオークの天下というわけだ","If we were gone, this area would be no different
+from an uncharted wilderness, wouldn't it?
+It'd be completely ruled by orcs.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,21,Emporio
 0,,"そうなったら何が起こっても
 情報は入らないんだが、そこをもう少しばかり
-解ってもらえないかね――ふうう",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,22,Emporio
+解ってもらえないかね――ふうう","If that happens, no information will come through
+no matter what occurs.
+Couldn't you understand that just a little more? —Ugh...",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,22,Emporio
 0,,"ご苦労さんだったね
-お茶でも飲んでいくかい？",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,23,Sunny
+お茶でも飲んでいくかい？","You've worked hard.
+Care for some tea before you go?",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,23,Sunny
 0,,"あっははは、とは言ってもろくな葉っぱ
 は取れないし、水も泥臭いけどね
-一番いいのを出すから、我慢しておくれよ！",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,24,Sunny
+一番いいのを出すから、我慢しておくれよ！","Ahahaha—though we can't get decent leaves,
+and the water tastes muddy too.
+I'll give you the best we have, so bear with it!",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,24,Sunny
 0,,"ご苦労さまです
 あなたはきちんとした人みたいで
-安心しました",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,25,Johann
+安心しました","Thank you for your hard work.
+You seem like a proper person,
+which is a relief.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,25,Johann
 0,,"前に来た騎士団の方々は
 この村を辺鄙だの廃村だのおっしゃった
-挙句、オークを見て逃げ帰ってしまいまして",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,26,Johann
+挙句、オークを見て逃げ帰ってしまいまして","The Knight Order members who came before
+called this village remote and abandoned,
+then ran away when they saw the orcs.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,26,Johann
 0,,"とてもではありませんが、誠意ある行い
 ではありませんでした
-臆病な私ですら言葉を失いましたから",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,27,Johann
+臆病な私ですら言葉を失いましたから","You'd be hard pressed to say
+they have acted in good faith.
+Even a coward like me was left speechless.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,27,Johann
 0,,"こんなところにはね――夢も希望もないよ
 どうして住んでいるのかって聞かれても
 困っちゃうけどね
-新しい生活に踏み出すのが億劫で――",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,28,Lifeless Villager
+新しい生活に踏み出すのが億劫で――","In a place like this, there are no dreams or hope.
+When people ask why we live here,
+it's hard to answer.
+Starting a new life just feels exhausting...",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,28,Lifeless Villager
 0,,"ふむ――浮かない顔だな
-まあ、わからないでもない",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,29,Joseph
+まあ、わからないでもない","Hmm... you look down.
+I can understand why.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,29,Joseph
 0,,"辺境の様子はわたしが若い頃でさえ
 あまり良いものではなかった
-残念なことだが――現実だ",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,30,Joseph
+残念なことだが――現実だ","Even when I was young,
+conditions in the frontier were never very good.
+Regrettable as it is—that's reality.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,30,Joseph
 0,,"ふむ――浮かない顔だな
-まあ、わからないでもない",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,31,Joseph
+まあ、わからないでもない","Hmm... you look down.
+I can understand why.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,31,Joseph
 0,,"辺境の様子はわたしが若い頃でさえ
-あまり良いものではなかった",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,32,Joseph
+あまり良いものではなかった","Even when I was young,
+conditions in the frontier were never very good.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,32,Joseph
 0,,"覚者や騎士団を送れば
 少しは改善されるだろうが
 やはり竜力が届かないことには
-豊かな村の再生は難しいのだ",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,33,Joseph
+豊かな村の再生は難しいのだ","Sending Arisen or the Knight Order
+would improve things somewhat,
+but without the dragon's power reaching them,
+reviving a prosperous village is difficult.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,33,Joseph
 0,,"あんな村はレスタニア全土にたくさんある
 我々が彼らに報いるのは目先の利益ではなく
 白竜の早い回復に貢献すること――
-わたしはそう信じているのだ",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,34,Joseph
+わたしはそう信じているのだ","There are many villages like that across all of Lestania.
+What we owe them isn't short-term gain,
+but contributing to the White Dragon's swift recovery—
+that's what I believe.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,34,Joseph
 0,,"ふむ――浮かない顔だな
-まあ、わからないでもない",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,35,Joseph
+まあ、わからないでもない","Hmm... you look down.
+I can understand why.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,35,Joseph
 0,,"辺境の様子はわたしが若い頃でさえ
-あまり良いものではなかった",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,36,Joseph
+あまり良いものではなかった","Even when I was young,
+conditions in the frontier were never very good.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,36,Joseph
 0,,"覚者や騎士団を送れば
 少しは改善されるだろうが
 やはり竜力が届かないことには
-豊かな村の再生は難しいのだ",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,37,Joseph
+豊かな村の再生は難しいのだ","Sending Arisen or the Knight Order
+would improve things somewhat,
+but without the dragon's power reaching them,
+reviving a prosperous village is difficult.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,37,Joseph
 0,,"あんな村はレスタニア全土にたくさんある
 我々が彼らに報いるのは目先の利益ではなく
 白竜の早い回復に貢献すること――
-わたしはそう信じているのだ",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,38,Joseph
+わたしはそう信じているのだ","There are many villages like that across all of Lestania.
+What we owe them isn't short-term gain,
+but contributing to the White Dragon's swift recovery—
+that's what I believe.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,38,Joseph
 0,,"ともあれ、ご苦労だった
 おまえがあの村を訪ねることは
-もうないかもしれないが――けして忘れるな",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,39,Joseph
+もうないかもしれないが――けして忘れるな","In any case, you've done well.
+You may never visit that village again,
+but never forget it.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,39,Joseph
 0,,"こんな時代も悪くない――
 神殿にはそんなことを思って軽薄に暮らす
 者たちが多いが、彼らは、辺境の苦しみなど
-何も知らないのだ",,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,40,Joseph
-0,,おまえにはそうはなって欲しくないからな,,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,41,Joseph
-0,,どうした――村人が首を長くして待っているぞ？,,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,42,Joseph
+何も知らないのだ","Times like these aren't so bad...
+Many in the temple live lightly, thinking as much,
+but they know nothing
+of the suffering in the frontier.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,40,Joseph
+0,,おまえにはそうはなって欲しくないからな,I don't want you to become like that.,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,41,Joseph
+0,,どうした――村人が首を長くして待っているぞ？,What's wrong? The villagers are waiting anxiously.,ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,42,Joseph
 0,,"あのね――
 森の、わたしの大好きな場所に
 魔物が集まっているみたいなの
-荒らされたら悲しいから退治してくれる？",,ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,0,Mayleaf
+荒らされたら悲しいから退治してくれる？","Um...
+it looks like monsters are gathering
+in my favorite place in the forest.
+I'd be sad if it were ruined... could you defeat them?",ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,0,Mayleaf
 0,,"覚者さんなら、きっと簡単だと思うな
-お願い！",,ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,1,Mayleaf
+お願い！","I think it'd be easy for you, Arisen.
+Please!",ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,1,Mayleaf
 0,,"あのね――
 森の、わたしの大好きな場所に
 魔物が集まっているみたいなの
-荒らされたら切ないから退治してくれる？",,ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,2,Mayleaf
+荒らされたら切ないから退治してくれる？","Um...
+it looks like monsters are gathering
+in my favorite place in the forest.
+It'd break my heart if it were ruined... could you defeat them?",ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,2,Mayleaf
 0,,"覚者さんなら、きっと簡単だと思うな
 ううん、ちょっと大変かも
-でも、お願い！",,ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,3,Mayleaf
+でも、お願い！","I think it'd be easy for you, Arisen.
+Well... maybe a little hard.
+But please!",ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,3,Mayleaf
 0,,"あのね――
 森の、わたしの大好きな場所に
 魔物が集まっているみたいなの
-荒らされたら悔しいから退治してくれる？",,ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,4,Mayleaf
+荒らされたら悔しいから退治してくれる？","Um...
+it looks like monsters are gathering
+in my favorite place in the forest.
+I'd be so upset if it were ruined... could you defeat them?",ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,4,Mayleaf
 0,,"覚者さんなら、きっと簡単だと思うな
 ううん、ちょっと大変かも
 どうかな――すっごく大変だったらごめんさない
-でも、お願い！",,ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,5,Mayleaf
+でも、お願い！","I think it'd be easy for you, Arisen.
+Well... maybe a little hard.
+If it's really hard, I'm sorry—
+but please!",ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,5,Mayleaf
 0,,"退治してくれたの！？
 ありがとう！
-お願いをきいてくれて、とってもうれしいよ",,ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,6,Mayleaf
+お願いをきいてくれて、とってもうれしいよ","You defeated them!?
+Thank you!
+I'm so happy you listened to my request.",ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,6,Mayleaf
 0,,"退治してくれたの！？
 ありがとう！
-お願いをきいてくれて、とってもうれしいよ",,ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,7,Mayleaf
-0,,きっと森も喜んでいると思うな,,ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,8,Mayleaf
+お願いをきいてくれて、とってもうれしいよ","You defeated them!?
+Thank you!
+I'm so happy you listened to my request.",ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,7,Mayleaf
+0,,きっと森も喜んでいると思うな,I'm sure the forest is happy too.,ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,8,Mayleaf
 0,,"退治してくれたの！？
 ありがとう！
-お願いをきいてくれて、とってもうれしいよ",,ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,9,Mayleaf
-0,,きっと森も喜んでいると思うな,,ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,10,Mayleaf
+お願いをきいてくれて、とってもうれしいよ","You defeated them!?
+Thank you!
+I'm so happy you listened to my request.",ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,9,Mayleaf
+0,,きっと森も喜んでいると思うな,I'm sure the forest is happy too.,ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,10,Mayleaf
 0,,"ううん、森だけじゃなくて――
-森の動物たちもねっ！",,ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,11,Mayleaf
+森の動物たちもねっ！","No, not just the forest—
+the animals too!",ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,11,Mayleaf
 0,,"覚者さん、お願い――
-森を助けてね",,ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,12,Mayleaf
+森を助けてね","Arisen, please—
+protect the forest.",ui\00_message\quest\q20000013.gmd,\quest\q20000013.arc,q20000013.arc,12,Mayleaf
 0,,"あのね――前にわたしのために指輪を
-作ってくれたの、覚えてる？",,ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,0,Mayleaf
+作ってくれたの、覚えてる？","Um... do you remember
+when you made a ring for me before?",ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,0,Mayleaf
 0,,"またね、欲しいなぁ――と思うのがあるんだけど
 欲張っちゃダメかな？
-でも、欲しいんだもの――仕方がないよね？",,ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,1,Mayleaf
+でも、欲しいんだもの――仕方がないよね？","There's something else I want again…
+Is it wrong to being greedy?
+But I want it—so it can't be helped, right?",ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,1,Mayleaf
 0,,"あのね――前にわたしのために指輪を
-作ってくれたの、覚えてる？",,ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,2,Mayleaf
+作ってくれたの、覚えてる？","Um... do you remember
+when you made a ring for me before?",ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,2,Mayleaf
 0,,"またね、欲しいなぁ――と思うのがあるんだけど
 欲張っちゃダメかな？
 みんなのとは違う、珍しいのがいいなって
-思っているんだけど",,ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,3,Mayleaf
+思っているんだけど","There's something else I want again…
+Is it wrong to being greedy?
+I want something rare—different from everyone else's.",ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,3,Mayleaf
 0,,"あのね――前にわたしのために指輪を
-作ってくれたの、覚えてる？",,ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,4,Mayleaf
+作ってくれたの、覚えてる？","Um... do you remember
+when you made a ring for me before?",ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,4,Mayleaf
 0,,"またね、欲しいなぁ――と思うのがあるんだけど
-欲張っちゃダメかな？",,ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,5,Mayleaf
+欲張っちゃダメかな？","There's something else I want again…
+Is it wrong to being greedy?",ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,5,Mayleaf
 0,,"ほとんど誰も見たことがなくて
 お店にもないような、綺麗で珍しいのが
-欲しいなあって思っちゃったの",,ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,6,Mayleaf
+欲しいなあって思っちゃったの","Something beautiful and rare, 
+that hardly anyone's ever seen, 
+something you can't find in shops...
+That's what I find myself wanting.",ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,6,Mayleaf
 0,,"メイリーフが何かわがままを言ったみたいですね
 あなたに装飾品をもらったのが
-とってもうれしかったみたい",,ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,7,Pamela
+とってもうれしかったみたい","It seems Mayleaf made a rather selfish request.
+She was extremely happy
+to receive jewelry from you.",ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,7,Pamela
 0,,"わあ！　これ――
 本当にもらっていいの？
-うれしいなあ",,ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,8,Mayleaf
+うれしいなあ","Wow! This—
+are you sure I can really have it?
+I'm so happy.",ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,8,Mayleaf
 0,,"これ、すごい！　すっごくきれい！
 え！？　わたしがもらっていいの？
-お願いを聞いてくれたの？",,ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,9,Mayleaf
+お願いを聞いてくれたの？","This is amazing! It's so beautiful!
+Huh!? I can really have it?
+You granted my wish?",ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,9,Mayleaf
 0,,"うわ――うれしいよぉ
-すっごくうれしいよ――ありがとう",,ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,10,Mayleaf
+すっごくうれしいよ――ありがとう","Wow—I'm so happy.
+I'm really happy—thank you.",ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,10,Mayleaf
 0,,"うわ――きれい――あ、かわいい――
 ううん、光にかざすと、ほら、虹色！
 え？　これをわたしにくれるの？
-お願いをきいてくれたの！？",,ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,11,Mayleaf
+お願いをきいてくれたの！？","Wow—beautiful—oh, it's cute—
+wait, hold it to the light, see? It's rainbow-colored!
+Huh? You're giving this to me?
+You really listened to my request!?",ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,11,Mayleaf
 0,,"うわ――うれしいよぉ
 すっごくうれしいよ――ありがとう
-あなたのこと、だーいすき！",,ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,12,Mayleaf
+あなたのこと、だーいすき！","Wow—I'm so happy.
+I'm really happy—thank you.
+I looove you!",ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,12,Mayleaf
 0,,"わたしね、装飾品が大好きなの
-綺麗な細工、見てるだけでたのしくて――",,ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,13,Mayleaf
+綺麗な細工、見てるだけでたのしくて――","You know, I love jewelry.
+Just looking at beautiful craftsmanship makes me happy—",ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,13,Mayleaf
 0,,"申し訳ありません
-ご無理のない範囲でお願いできれば――",,ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,14,Pamela
+ご無理のない範囲でお願いできれば――","I'm sorry.
+If I could ask within reasonable limits—",ui\00_message\quest\q20000014.gmd,\quest\q20000014.arc,q20000014.arc,14,Pamela
 0,,"こう言っては悪いが――ひまそうだな
 もし時間があるなら、魔物討伐に行ってこないか？
-覚者ならこんな依頼は日常茶飯事――だろう？",,ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,0,Heinz
+覚者ならこんな依頼は日常茶飯事――だろう？","I hate to say it, but—you look idle.
+If you have time, how about going on a monster hunt?
+For an Arisen, this sort of request is routine—right?",ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,0,Heinz
 0,,"こう言っては悪いが――ひまそうだな
 もし時間があるなら、魔物討伐に行ってこないか？
-覚者ならこんな依頼は日常茶飯事――だろう？",,ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,1,Heinz
+覚者ならこんな依頼は日常茶飯事――だろう？","I hate to say it, but—you look idle.
+If you have time, how about going on a monster hunt?
+For an Arisen, this sort of request is routine—right?",ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,1,Heinz
 0,,"まあ、魔物はそこそこ強いらしいから
 準備はきちんとしておけよ
-舐めてかかると酷い目にあうぞ",,ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,2,Heinz
+舐めてかかると酷い目にあうぞ","Well, the monster is said to be fairly strong,
+so make sure you prepare properly.
+If you underestimate it, you'll regret it.",ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,2,Heinz
 0,,"こう言っては悪いが――ひまそうだな
 もし時間があるなら、魔物討伐に行ってこないか？
-覚者ならこんな依頼は日常茶飯事――だろう？",,ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,3,Heinz
+覚者ならこんな依頼は日常茶飯事――だろう？","I hate to say it, but—you look idle.
+If you have time, how about going on a monster hunt?
+For an Arisen, this sort of request is routine—right?",ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,3,Heinz
 0,,"まあ、魔物はかなり凶暴かつ強力らしい
 準備はきちんとしておけよ
-慎重にいかないとここへは帰って来られないぞ",,ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,4,Heinz
+慎重にいかないとここへは帰って来られないぞ","The monster is said to be extremely vicious and powerful.
+Make sure you prepare properly.
+If you're not careful, you won't be coming back here.",ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,4,Heinz
 0,,"ほう、腕は確かなようだな
 では、これからもよろしく頼む
 レスタニアの平和を守ることは
-騎士と覚者が分かち合った義務だ",,ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,5,Heinz
+騎士と覚者が分かち合った義務だ","Oh, it seems your skills are the real deal.
+Then I look forward to working with you from here on.
+Protecting the peace of Lestania
+is a duty shared by knights and Arisen.",ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,5,Heinz
 0,,"ほう、腕は確かなようだな
 では、これからもよろしく頼む
 レスタニアの平和を守ることは
-騎士と覚者が分かち合った義務だ",,ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,6,Heinz
+騎士と覚者が分かち合った義務だ","Oh, it seems your skills are the real deal.
+Then I look forward to working with you from here on.
+Protecting the peace of Lestania
+is a duty shared by knights and Arisen.",ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,6,Heinz
 0,,"――とは言うものの、やはり覚者の方が強い
 今回ほどの魔物だと、覚者に頼らねば
-――騎士団では犠牲者が出てしまう",,ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,7,Heinz
+――騎士団では犠牲者が出てしまう","—That said, Arisen are still stronger.
+Against monsters like this, we must rely on Arisen.
+—The Knight Order would suffer casualties.",ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,7,Heinz
 0,,"悔しいが、それが現実だ
-甘んじて受け入れるよ",,ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,8,Heinz
+甘んじて受け入れるよ","It's frustrating, but that's reality.
+I accept it for what it is.",ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,8,Heinz
 0,,"ほう、腕は確かなようだな
 では、これからもよろしく頼む
 レスタニアの平和を守ることは
-騎士と覚者が分かち合った義務だ",,ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,9,Heinz
+騎士と覚者が分かち合った義務だ","Oh, it seems your skills are the real deal.
+Then I look forward to working with you from here on.
+Protecting the peace of Lestania
+is a duty shared by knights and Arisen.",ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,9,Heinz
 0,,"――とは言うものの、やはり覚者の方が強い
 いや、おまえが強いというべきか
-勇猛な戦いぶりが伝わってきたぞ？",,ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,10,Heinz
+勇猛な戦いぶりが伝わってきたぞ？","—That said, Arisen truly are stronger.
+No—perhaps I should say you are strong.
+Word of your valiant fighting has reached us.",ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,10,Heinz
 0,,"騎士団ではとうてい敵わない相手の時は
-また、力を貸してくれ",,ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,11,Heinz
+また、力を貸してくれ","When facing foes the Knight Order cannot hope to defeat,
+lend us your strength again.",ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,11,Heinz
 0,,"怖じ気づいたのか？
-無理に引き受けることなどないんだぞ？",,ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,12,Heinz
+無理に引き受けることなどないんだぞ？","Did you lose your nerve?
+There's no need to force yourself to accept.",ui\00_message\quest\q20000015.gmd,\quest\q20000015.arc,q20000015.arc,12,Heinz
 0,,"あんたに騎士団として正式に頼みたいことがある
 魔物討伐に派遣した騎士の部隊が戻らない
-新たな部隊を派遣する余裕がなくてな――",,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,0,Heinz
+新たな部隊を派遣する余裕がなくてな――","I have an official request for you on behalf of the Knight Order.
+A knight unit sent to exterminate monsters has not returned,
+and we lack the resources to dispatch another unit.",ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,0,Heinz
 0,,"現地に行って状況を確認してほしい
-もちろん、騎士団から謝礼が出るはずだ",,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,1,Heinz
+もちろん、騎士団から謝礼が出るはずだ","I want you to go to the site and assess the situation.
+Of course, the Knight Order will provide a reward.",ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,1,Heinz
 0,,"あんたに騎士団として正式に頼みたいことがある
 魔物討伐に派遣した騎士の部隊が戻らない
-新たな部隊を派遣する余裕がなくてな――",,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,2,Heinz
+新たな部隊を派遣する余裕がなくてな――","I have an official request for you on behalf of the Knight Order.
+A knight unit sent to exterminate monsters has not returned,
+and we lack the resources to dispatch another unit.",ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,2,Heinz
 0,,"現地に行って状況を確認してほしい
 魔物は相当手強いらしいから気をつけてくれ
-もちろん、騎士団から相応の謝礼が出るはずだ",,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,3,Heinz
+もちろん、騎士団から相応の謝礼が出るはずだ","I want you to go to the site and assess the situation.
+The monster is said to be extremely formidable, so be careful.
+Of course, the Knight Order will provide appropriate compensation.",ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,3,Heinz
 0,,"あんたに騎士団として正式に頼みたいことがある
 魔物討伐に派遣した騎士の部隊が戻らない
-新たな部隊を派遣する余裕がなくてな――",,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,4,Heinz
+新たな部隊を派遣する余裕がなくてな――","I have an official request for you on behalf of the Knight Order.
+A knight unit sent to exterminate monsters has not returned,
+and we lack the resources to dispatch another unit.",ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,4,Heinz
 0,,"現地に行って状況を確認してほしい
 もし最悪の事態に陥っているとすれば
 とてつもなく強大な魔物がいるということだ
-注意して事にあたってくれ",,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,5,Heinz
+注意して事にあたってくれ","I want you to go to the site and assess the situation.
+If the worst has come to pass,
+it would mean an unimaginably powerful monster is present.
+Proceed with extreme caution.",ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,5,Heinz
 0,,"もちろん、騎士団から働きに応じた
-謝礼が出るはずだ",,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,6,Heinz
-0,,そうか――やはり全滅か――,,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,7,Heinz
+謝礼が出るはずだ","Of course, the Knight Order will reward you
+according to your service.",ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,6,Heinz
+0,,そうか――やはり全滅か――,I see… So they were wiped out after all…,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,7,Heinz
 0,,"しかし、命令に殉じたのであれば
 それは彼らの本懐――くっ――くそっ！
-おれが行っていればこんなことには――",,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,8,Heinz
-0,,そうか――やはり全滅か――,,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,9,Heinz
+おれが行っていればこんなことには――","But if they died in service to their orders,
+then it was their chosen fate—damn it!
+If only I had gone myself...!",ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,8,Heinz
+0,,そうか――やはり全滅か――,I see… So they were wiped out after all…,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,9,Heinz
 0,,"しかし、命令に殉じたのであれば
 それは彼らの本懐――くっ――くそっ！
-おれが行っていればこんなことには――",,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,10,Heinz
+おれが行っていればこんなことには――","But if they died in service to their orders,
+then it was their chosen fate—damn it!
+If only I had gone myself...!",ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,10,Heinz
 0,,"いや――おれが行っても同じ事か――
 おまえだからこそ倒せたのだろうな――
-我が身の無力が恨めしいぞ",,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,11,Heinz
-0,,そうか――やはり全滅か――,,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,12,Heinz
+我が身の無力が恨めしいぞ","No... Even if I had gone, the result would've been the same.
+Only you could have defeated it.
+I curse my own helplessness.",ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,11,Heinz
+0,,そうか――やはり全滅か――,I see… So they were wiped out after all…,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,12,Heinz
 0,,"しかし、命令に殉じたのであれば
 それは彼らの本懐――くっ――くそっ！
-おれが行っていればこんなことには――",,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,13,Heinz
+おれが行っていればこんなことには――","But if they died in service to their orders,
+then it was their chosen fate—damn it!
+If only I had gone myself...!",ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,13,Heinz
 0,,"いや――おれが行っても同じ事か――
-おまえも苦労して倒したのだろう？",,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,14,Heinz
+おまえも苦労して倒したのだろう？","No... Even if I had gone, the result would've been the same.
+You struggled to defeat it too, didn't you?",ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,14,Heinz
 0,,"なあ、いったいどうして魔物はこんなに
 力をつけているんだ？
-まどろんでいる白竜が恨めしいぞ",,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,15,Heinz
-0,,相応の手練れを送り込んだのだが――,,ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,16,Heinz
+まどろんでいる白竜が恨めしいぞ","Why are monsters growing so powerful, anyway?
+I resent the slumbering White Dragon.",ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,15,Heinz
+0,,相応の手練れを送り込んだのだが――,"We sent in capable veterans, and still—",ui\00_message\quest\q20000016.gmd,\quest\q20000016.arc,q20000016.arc,16,Heinz
 0,,"おっと――いいところで会った
 あんたは結構あちこちへ行くだろう？
-その時に、ちょっと気にしてほしいものがあるんだ",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,0,Fabio
+その時に、ちょっと気にしてほしいものがあるんだ","Oh—perfect timing.
+You travel around quite a bit, don't you?
+There's something I'd like you to keep an eye out for.",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,0,Fabio
 0,,"俺が今集めているもの――
 それをだな、手に入れてほしいわけ
-頼んだよ",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,1,Fabio
+頼んだよ","There's something I'm collecting right now,
+and I want you to get it for me.
+I'm counting on you.",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,1,Fabio
 0,,"おっと――いいところで会った
 あんたは結構あちこちへ行くだろう？
-その時に、ちょっと気にしてほしいものがあるんだ",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,2,Fabio
+その時に、ちょっと気にしてほしいものがあるんだ","Oh—perfect timing.
+You travel around quite a bit, don't you?
+There's something I'd like you to keep an eye out for.",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,2,Fabio
 0,,"俺が今集めているもの――
 それをだな、手に入れてほしいわけ
 ちょっと面倒だけどお礼はするよ
-頼んだよ",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,3,Fabio
+頼んだよ","There's something I'm collecting right now,
+and I want you to get it for me.
+It's a bit of a hassle, but I'll reward you.
+I'm counting on you.",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,3,Fabio
 0,,"おっと――いいところで会った
 あんたは結構あちこちへ行くだろう？
-その時に、ちょっと気にしてほしいものがあるんだ",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,4,Fabio
+その時に、ちょっと気にしてほしいものがあるんだ","Oh—perfect timing.
+You travel around quite a bit, don't you?
+There's something I'd like you to keep an eye out for.",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,4,Fabio
 0,,"俺が今集めているもの――
-それをだな、手に入れてほしいわけ",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,5,Fabio
+それをだな、手に入れてほしいわけ","There's something I'm collecting right now,
+and I want you to get it for me.",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,5,Fabio
 0,,"なかなか難しいと思うけど
 俺としては絶対にそれがほしいんだ
-心の底からほしくてさ――だから、頼んだ！",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,6,Fabio
+心の底からほしくてさ――だから、頼んだ！","I know it won't be easy,
+but I absolutely want it.
+I want it from the bottom of my heart—that's why I'm asking!",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,6,Fabio
 0,,"そうだよ、これこれ！
-じゃあ、ついでに、これも頼むよ",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,7,Fabio
+じゃあ、ついでに、これも頼むよ","That's it—that's the one!
+While you're at it, could you handle this too?",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,7,Fabio
 0,,"おっと、意外と早かったな
-じゃあ、次はこれも頼むよ！",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,8,Fabio
+じゃあ、次はこれも頼むよ！","Oh, that was quicker than expected.
+Then I'll ask you to get this next!",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,8,Fabio
 0,,"おお、さすが！　これだよこれ！
-ということは、これも簡単だよな？",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,9,Fabio
+ということは、これも簡単だよな？","Oh, impressive! This is it, exactly!
+Which means this one should be easy too, right?",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,9,Fabio
 0,,"お疲れさま
 これでだいたい集まったから
-あとは自分でなんとかするよ",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,10,Fabio
+あとは自分でなんとかするよ","Good work.
+That's most of what I needed,
+so I'll take it from here.",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,10,Fabio
 0,,"ありがとうな
-謝礼は期待しないで待ってくれ",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,11,Fabio
+謝礼は期待しないで待ってくれ","Thanks.
+Just don't expect a reward yet.",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,11,Fabio
 0,,"お疲れさま
-おかげで結構集まった",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,12,Fabio
+おかげで結構集まった","Good work.
+Thanks to you, I gathered quite a bit.",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,12,Fabio
 0,,"こき使って悪かったな
-謝礼はちょっと期待して待ってくれ",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,13,Fabio
+謝礼はちょっと期待して待ってくれ","Sorry for working you so hard.
+Look forward to the reward.",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,13,Fabio
 0,,"お疲れさま
 あんた凄いよ！　あんたに頼んで良かった！
-完全なる収集ってやつだな",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,14,Fabio
+完全なる収集ってやつだな","Good work.
+You're amazing—I'm glad I asked you!
+This is a complete collection.",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,14,Fabio
 0,,"いやー、感謝するよ
-謝礼は期待して待ってくれ",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,15,Fabio
+謝礼は期待して待ってくれ","Man, I really appreciate it.
+Look forward to the reward.",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,15,Fabio
 0,,"なかなか手に入らない？
-そう、だから収集は燃えるんだよな",,ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,16,Fabio
+そう、だから収集は燃えるんだよな","Hard to come by?
+Exactly—that's what makes collecting exciting.",ui\00_message\quest\q20000017.gmd,\quest\q20000017.arc,q20000017.arc,16,Fabio
 0,,"なんという幸運だろうね
-こんなに困っている時にあんたに会えるなんて！",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,0,Fabio
+こんなに困っている時にあんたに会えるなんて！","What incredible luck,
+to run into you at a time like this!",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,0,Fabio
 0,,"今、倒した魔物の数を仲間と競ってるんだ
 でも、俺、負けそうでな
-というわけで、力を貸してほしい",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,1,Fabio
+というわけで、力を貸してほしい","I'm competing with my friend
+over how many monsters we've defeated.
+But I'm about to lose,
+so I'd like you to lend me a hand.",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,1,Fabio
 0,,"このあたりの敵はたいしたことないから
 ガンガンぶっ倒してくれ
-じゃあ、あとで",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,2,Fabio
+じゃあ、あとで","The enemies around here aren't much,
+so wipe them out fast.
+See you later.",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,2,Fabio
 0,,"なんという幸運だろうね
-こんなに困っている時にあんたに会えるなんて！",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,3,Fabio
+こんなに困っている時にあんたに会えるなんて！","What incredible luck,
+to run into you at a time like this!",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,3,Fabio
 0,,"今、倒した魔物の数を仲間と競ってるんだ
 でも、俺、負けそうでな
-というわけで、力を貸してほしい",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,4,Fabio
+というわけで、力を貸してほしい","I'm competing with my friend
+over how many monsters we've defeated.
+But I'm about to lose,
+so I'd like you to lend me a hand.",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,4,Fabio
 0,,"敵は別に弱くも少なくもないけど
 あんたならきっとやれる！
-じゃあ、あとで",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,5,Fabio
+じゃあ、あとで","The enemies aren't especially weak or few,
+but you can definitely handle it!
+See you later.",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,5,Fabio
 0,,"なんという幸運だろうね
-こんなに困っている時にあんたに会えるなんて！",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,6,Fabio
+こんなに困っている時にあんたに会えるなんて！","What incredible luck,
+to run into you at a time like this!",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,6,Fabio
 0,,"今、倒した魔物の数を仲間と競ってるんだ
 でも、俺、負けそうでな
-というわけで、力を貸してほしい",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,7,Fabio
+というわけで、力を貸してほしい","I'm competing with my friend
+over how many monsters we've defeated.
+But I'm about to lose,
+so I'd like you to lend me a hand.",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,7,Fabio
 0,,"魔物はおそろしく強いし数も多い
 でも、あんたならきっとやれる！
 根拠はないが、そんな気がする
-じゃあ、あとで",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,8,Fabio
+じゃあ、あとで","The monsters are terrifyingly strong and numerous.
+But I know you can do it!
+I have no proof—just a feeling.
+See you later.",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,8,Fabio
 0,,"よお！　頑張ってくれたみたいだな
 でも、なかなか魔物は減らないな
 え？　競争相手の仲間？
-そりゃあ、あんた――あんただよ",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,9,Fabio
+そりゃあ、あんた――あんただよ","Hey! Looks like you really put in the work.
+Still, the monsters just keep coming.
+Huh? The friend I was competing against?
+Well, it's you— of course.",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,9,Fabio
 0,,"こんな感じで、魔物退治ができたら
 楽しいと思ってな
-まあ、今回は俺の勝ちってことで！",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,10,Fabio
-0,,じゃあ、またな,,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,11,Fabio
+まあ、今回は俺の勝ちってことで！","I thought it'd be fun
+to hunt monsters like this.
+Well, let's say this round's my win!",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,10,Fabio
+0,,じゃあ、またな,See you later.,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,11,Fabio
 0,,"よお！　頑張ってくれたみたいだな
 でも、なかなか魔物は減らないな
 え？　競争相手の仲間？
-そりゃあ、あんた――あんただよ",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,12,Fabio
+そりゃあ、あんた――あんただよ","Hey! Looks like you really put in the work.
+Still, the monsters just don't seem to be thinning out.
+Huh? The friend I was competing against?
+Well, it's you— of course.",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,12,Fabio
 0,,"こんな感じで、魔物退治ができたら
 楽しいと思ってよ
 というか、ずいぶん頑張って倒したみたいだな
-よし、じゃあ、今回は引き分けにしよう",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,13,Fabio
-0,,じゃあ、またな,,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,14,Fabio
+よし、じゃあ、今回は引き分けにしよう","I thought hunting monsters like this would be fun.
+That said, you really went all out taking them down.
+All right—let's call this one a draw.",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,13,Fabio
+0,,じゃあ、またな,See you around.,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,14,Fabio
 0,,"よお！　頑張ってくれたみたいだな
 でも、なかなか魔物は減らないな
 え？　競争相手の仲間？
-そりゃあ、あんた――あんただよ",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,15,Fabio
+そりゃあ、あんた――あんただよ","Hey! Looks like you really put in the work.
+Still, the monsters just keep coming.
+Huh? The friend I was competing against?
+Well, it's you— of course.",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,15,Fabio
 0,,"こんな感じで、魔物退治ができたら
 楽しいと思ってよ
 というか、あんた強いのとばかり戦ってたな
-よし、じゃあ、今回はあんたの勝ちだ！",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,16,Fabio
-0,,じゃあ、またな,,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,17,Fabio
+よし、じゃあ、今回はあんたの勝ちだ！","I thought hunting monsters like this would be fun.
+And you were taking on only the strong ones, too.
+All right—this round's your win!",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,16,Fabio
+0,,じゃあ、またな,See you around.,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,17,Fabio
 0,,"あら？　ずいぶん手こずっているみたいだな
-調子でも悪いのか？",,ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,18,Fabio
+調子でも悪いのか？","Oh? You look like you're having a rough time.
+Feeling off or something?",ui\00_message\quest\q20000018.gmd,\quest\q20000018.arc,q20000018.arc,18,Fabio
 0,,"ああ、 ちょうど良いところに
 キミ、言わずとも判るよ―――覚者だろう
-お願いがあるんだ",,ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,0,Ludovika
+お願いがあるんだ","Ah, perfect timing.
+I can tell without asking—you're an Arisen.
+I have a favor to ask.",ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,0,Ludovika
 0,,"私、見ちゃったんだ
 《平原の廃墟地下室》にオーク達が隠れているのを！
-ね、これって覚者としては放っておけないよね",,ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,1,Ludovika
+ね、これって覚者としては放っておけないよね","I saw it myself—
+orcs hiding in the Plains Ruins Basement!
+You can't just ignore that as an Arisen, right?",ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,1,Ludovika
 0,,"そういうわけで、討伐してきて欲しいんだ
 やってくれるね？
-皆のためになる事なんだから―――",,ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,2,Ludovika
+皆のためになる事なんだから―――","So I want you to go exterminate them.
+You'll do it, right?
+It's for everyone's sake—",ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,2,Ludovika
 0,,"へぇ、本当にやっつけたんだ？
 これで安心して仕事ができるよ、ありがとう
-あ――私はいわゆるトレジャーハンターなんだ",,ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,3,Ludovika
+あ――私はいわゆるトレジャーハンターなんだ","Oh? You really took them out?
+Now I can work without worry—thank you.
+Ah—I'm what you'd call a treasure hunter.",ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,3,Ludovika
 0,,"騙してごめんよ
 でも皆のためになる事だろう？
-旅で見つけたお宝あげるから許してよ――",,ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,4,Ludovika
+旅で見つけたお宝あげるから許してよ――","Sorry for deceiving you.
+But it was for everyone's benefit, right?
+I'll give you some treasure I found on my travels—so forgive me.",ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,4,Ludovika
 0,,"キミが来るまで、ここで思案してたのさ――
 高所は、頭が冴えて考え事にぴったりだからね
-私はまだここで待ってるから、よろしく頼んだよ",,ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,5,Ludovika
+私はまだここで待ってるから、よろしく頼んだよ","I was thinking things over here until you arrived—
+high places are perfect for clearing your head.
+I'll be waiting here a bit longer, so I'm counting on you.",ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,5,Ludovika
 0,,"ああ、 ちょうど良いところに
 キミ、言わずとも判るよ―――覚者だろう
-お願いがあるんだ",,ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,6,Ludovika
+お願いがあるんだ","Ah, perfect timing.
+I can tell without asking—you're an Arisen.
+I have a favor to ask.",ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,6,Ludovika
 0,,"私、見ちゃったんだ
 《テルの枯れ井戸》にオーク達が隠れているのを！
-ね、これって覚者としては放っておけないよね",,ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,7,Ludovika
+ね、これって覚者としては放っておけないよね","I saw it myself—
+orcs hiding in Tel's Withered Well!
+You can't just ignore that as an Arisen, right?",ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,7,Ludovika
 0,,"そういうわけで、討伐してきて欲しいんだ
 やってくれるね？
-皆のためになる事なんだから―――",,ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,8,Ludovika
+皆のためになる事なんだから―――","So I want you to go exterminate them.
+You'll do it, right?
+It's for everyone's sake—",ui\00_message\quest\q20005012.gmd,\quest\q20005012.arc,q20005012.arc,8,Ludovika
 0,,"ねぇねぇ――知ってる？
 ""怪盗団""が現れたんだって！
-あたしたちの間じゃ、その噂でもちきりなの",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,0,Marisa
+あたしたちの間じゃ、その噂でもちきりなの","Hey, hey—did you hear?
+They say a phantom thief group has appeared!
+That rumor's all anyone's talking about lately.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,0,Marisa
 0,,"実はね、あたし――怪盗に会った事あるんだ
 それどころか、助けてもらったの
 気が付いたら、このカードを握っていた――
-よく覚えてないけど、きっとそれが証拠よね？",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,1,Marisa
+よく覚えてないけど、きっとそれが証拠よね？","Actually, I've met a phantom thief before—
+more than that, they saved me.
+When I came to, I was holding this card—
+I don't remember much, but that must be proof, right?",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,1,Marisa
 0,,"なに、これが欲しいって――
 ちょっと、本気で言ってるの？
 ――そうね、じゃああたしのお願い聞いてくれたら
-考えてあげてもいいわよ",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,2,Marisa
+考えてあげてもいいわよ","What, you want this?
+Are you serious right now?
+…All right—if you do me a favor,
+I'll think about it.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,2,Marisa
 0,,"彼氏と度胸試しに《血すすぎ河原》へ行く予定なの
 だけど、万一何かあると嫌だから――
 あなた腕が立ちそうだし、掃除してきてほしいの
-魔物一匹残らずよ！　よろしくね",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,3,Marisa
+魔物一匹残らずよ！　よろしくね","I'm going to the Blood-soaked Riverband with my boyfriend
+to test my courage, but just in case something happens...
+You look capable so I want you to clear out
+the monsters— all of them! I'm counting on you.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,3,Marisa
 0,,"そんなもの欲しそうな目で見られたって
-このカードはあげないわよ――タダでは、ね",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,4,Marisa
+このカードはあげないわよ――タダでは、ね","Even if you look at it like you really want it,
+I'm not giving you this card—for free, that is.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,4,Marisa
 0,,"さぁ、さっさと《血すすぎ河原》へ行って
 あたしと彼のために、危険な魔物を
-掃除してきてちょうだいな",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,5,Marisa
+掃除してきてちょうだいな","Now hurry on over to the Blood-soaked Riverbank
+and clear out those dangerous monsters
+for me and my boyfriend.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,5,Marisa
 0,,"やだ――本当に行ってきたの？
 しかも、ちゃんと魔物も片づけてきてくれたんだ――
-諦めると思ったのに、結構根性あるのね",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,6,Marisa
+諦めると思ったのに、結構根性あるのね","No way... you really went there?
+And you actually cleared out the monsters too.
+I thought you'd give up, but you've got guts.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,6,Marisa
 0,,"ホント――あなたの事、見直しちゃった
 ねぇ――こんなカードより
-もっとイイものあげよっか――？",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,7,Marisa
+もっとイイものあげよっか――？","Honestly, I see you in a new light now.
+Hey, how about I give you something better
+than a card like this?",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,7,Marisa
 0,,"うそうそ――冗談よ、冗談
 そんなに怖い顔しないでよ
 危ない目に遭わせちゃったんだし、
-お礼はちゃんとするってば",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,8,Marisa
+お礼はちゃんとするってば","Just kidding—relax, it was a joke.
+Don't make such a scary face.
+I put you in danger, after all,
+so I'll make sure to thank you properly.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,8,Marisa
 0,,"こんな小さな村だから、あたしの噂はすぐに広まって
 今まで話した事もない輩まで押しかけて来るの――
 そんな奴らを煙に巻く癖が、つい出ちゃったみたい
-――とにかく、デート楽しんでくるわ！　ありがとね",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,9,Marisa
+――とにかく、デート楽しんでくるわ！　ありがとね","It's such a small village that rumors about me spread fast,
+even people I've never spoken to come crowding in.
+I guess my habit of throwing people off slipped out.
+Anyway, I'm off to enjoy my date! Thanks!",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,9,Marisa
 0,,"怪盗が姿を現したって噂の場所は、
-《廃屋の地下室》よ――",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,10,Marisa
+《廃屋の地下室》よ――","The place rumored to have sightings of the phantom thief
+is the Abandoned House Basement.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,10,Marisa
 0,,"え？　彼氏はどうしたって？
 相手は怪盗よ！
-つまんない彼氏なんかと比べないでよ",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,11,Marisa
+つまんない彼氏なんかと比べないでよ","Huh? What happened to my boyfriend?
+I'm talking about a phantom thief!
+Don't compare them to some boring boyfriend.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,11,Marisa
 0,,"ああ、覚者さん！　
 本当に行ってきてくれたのね――
-どうだった？",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,12,Marisa
+どうだった？","Ah, Arisen!
+You really went there after all—
+how was it?",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,12,Marisa
 0,,"いたのは魔物だけで、怪盗の痕跡は特に無し――
 そう、残念だわ
-だけど、行ってきてくれてありがとう",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,13,Marisa
+だけど、行ってきてくれてありがとう","There were only monsters—no sign of a phantom thief.
+I see… that's disappointing.
+Still, thank you for going.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,13,Marisa
 0,,"――正直言うと、怪盗の記憶はほとんど無いの
 何を言っていたかわからなかったし、
 顔もぼんやりとしか――
-だけど、あの頼もしい腕の感触だけは覚えてるわ",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,14,Marisa
+だけど、あの頼もしい腕の感触だけは覚えてるわ","To be honest, I barely remember the phantom thief.
+I don't know what they said,
+and their face is just a blur—
+but I do remember the feeling of those reliable arms.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,14,Marisa
 0,,"ちょっと謎めいた感じだったけど――
 彼氏――ルキーノとは逆のタイプだったから、
 久しぶりにときめいちゃったの
-ああ、ルキーノにも、そんな所があればいいのに――",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,15,Marisa
+ああ、ルキーノにも、そんな所があればいいのに――","They felt kind of mysterious—
+the opposite of my boyfriend, Lucino,
+so it made my heart flutter for the first time in ages.
+If only Lucino had a side like that...",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,15,Marisa
 0,,"ねぇねぇ――知ってる？
 今話題の""怪盗団""の噂！
-実はね、あたし――怪盗に会った事あるんだ",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,16,Marisa
+実はね、あたし――怪盗に会った事あるんだ","Hey, hey—did you hear?
+The buzz about the phantom thief group!
+Actually, I've met a phantom thief before.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,16,Marisa
 0,,"それどころか、助けてもらったの
 あの日から、あの人の事が忘れられなくて――
 顔は分からなかったけど、ワイルドで素敵な人だった
-このレスタニアでは見ないタイプね",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,17,Marisa
+このレスタニアでは見ないタイプね","More than that, they saved me.
+Since that day, I haven't been able to forget them.
+I didn't see their face, but they were wild and wonderful.
+Not the kind of person you see in Lestania.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,17,Marisa
 0,,"ねぇ、あなたこのカードが欲しいんでしょう？
 この怪盗のマークが書かれたカード――
 だったら、見てきてほしい場所があるの
-最近怪盗が姿を見せたって噂の場所――",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,18,Marisa
+最近怪盗が姿を見せたって噂の場所――","Hey, you want this card, don't you?
+The one with the phantom thief's mark on it—
+if that's the case, there's somewhere I want you to check.
+A place rumored to have seen the phantom thief recently—",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,18,Marisa
 0,,"《廃屋の地下室》ってところ
 危険があるかもしれないから――
 怪盗が本当にそこにいたのか、
-見て来てもらえる？",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,19,Marisa
+見て来てもらえる？","A place called the Abandoned House Basement.
+It might be dangerous—
+could you go see whether the phantom thief
+was really there?",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,19,Marisa
 0,,"《狩人の抜け穴》へ行って、様子を見て来てほしいの
 そこが、あたしが怪盗に助けてもらった場所――
 え？　怪盗に出会えたらどうするかって？
-そうね――怪盗団に入れてもらおうかな",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,20,Marisa
+そうね――怪盗団に入れてもらおうかな","I want you to go to the Hunter's Hideout and see what it's like there.
+That's where the phantom thief saved me—
+Huh? What would I do if I met them again?
+Let's see—I might ask to join the phantom thief group.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,20,Marisa
 0,,"ああ、覚者さん！　
 本当に行ってきてくれたのね――
-どんな場所だった？",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,21,Marisa
+どんな場所だった？","Ah, Arisen!
+You really went there after all—
+what kind of place was it?",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,21,Marisa
 0,,"――普通の洞窟？
 そんな馬鹿な――いいえ、よくは覚えてないんだけど
 もっと、特徴的な場所だったような――
-レスタニアで、見た事も聞いた事もない所だったの",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,22,Marisa
+レスタニアで、見た事も聞いた事もない所だったの","Just an ordinary cave...?
+That can't be right… no, I don't remember clearly, but
+it felt much more distinctive—
+somewhere I'd never seen or heard of in all of Lestania.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,22,Marisa
 0,,"一体どうなっているの――
 夢でも見ていたのかしら？
 このカードも、もしかしたら
-誰かのイタズラだったのかも――",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,23,Marisa
+誰かのイタズラだったのかも――","What is going on…?
+Was it all just a dream?
+Maybe this card, too,
+was nothing more than someone's prank—",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,23,Marisa
 0,,"――とにかく、行ってきてくれてありがとね
 お礼はちゃんとするつもりよ
 ほら、これが欲しいのよね？
-もう何のカードか定かじゃないけど――もらってよ",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,24,Marisa
+もう何のカードか定かじゃないけど――もらってよ","Anyway... thank you for going.
+I fully intend to reward you.
+Here—you wanted this, right?
+I don't even know what kind of card it is anymore, but take it.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,24,Marisa
 0,,"ねぇねぇ――知ってる？
 ""怪盗団""が現れたんだって！
-今じゃ、その噂でもちきりよ",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,25,Marisa
+今じゃ、その噂でもちきりよ","Hey, hey—did you hear?
+They say a phantom thief group has appeared!
+That rumor's everywhere now.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,25,Marisa
 0,,"実はね、あたし――怪盗に会った事あるんだ
 それどころか、助けてもらったの
 よく覚えてないんだけど――
-どこかに迷い込んで、そこから助けてもらったような",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,26,Marisa
+どこかに迷い込んで、そこから助けてもらったような","Actually, I've met a phantom thief before—
+more than that, they saved me.
+I don't remember it well, but—
+I think I got lost somewhere, and they helped me escape.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,26,Marisa
 0,,"それで、いつの間にかこのカードを握っていたの
 ――言わなくても分かるわ、これが欲しいんでしょ？
 最近そういう人ばかりなの、あたしの周り
-そうね――じゃあ、あたしのお願い聞いてくれる？",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,27,Marisa
+そうね――じゃあ、あたしのお願い聞いてくれる？","And before I knew it, I was holding this card.
+—I don't need to ask, do I? You want it, right?
+Lately, everyone around me's been like that.
+All right—then will you do me a favor?",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,27,Marisa
 0,,"《狩人の抜け穴》へ行って、様子を見て来てほしいの
 あたしが怪盗と会った場所――
 覚えている特徴を挙げると、そこが怪しいみたいなの
-もし怪盗を見かけたら、すぐに教えてね",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,28,Marisa
+もし怪盗を見かけたら、すぐに教えてね","I want you to go to the Hunter's Hideout and check it out.
+It's where I met the phantom thief—
+based on what I remember, that place seems suspicious.
+If you spot the phantom thief, tell me right away.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,28,Marisa
 0,,"《死者の小窟》で怪盗捜索中の騎士団が
 集まっていたから、あなたに見て来てほしいの
 ――もし何も無かったら、縁が無かったんだと思って
-すっぱり諦めるわ",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,29,Julia
+すっぱり諦めるわ","I saw the Knight Order gathered at the Small Cave Tombs,
+searching for the phantom thief, so I want you to check it out.
+—If there's nothing there, I'll accept it wasn't meant to be
+and give up completely.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,29,Julia
 0,,"ああ、覚者さん！　
 本当に行ってきてくれたのね――
-そこには何があったの？",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,30,Marisa
+そこには何があったの？","Ah, Arisen!
+You really went—
+what was there?",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,30,Marisa
 0,,"――魔物だけ、か
 騎士団が集まっていたのは、魔物のせいだったのね
-これで完全に万策尽きたわ――",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,31,Marisa
+これで完全に万策尽きたわ――","—Only monsters, huh.
+So that's why the Knight Order was gathered there.
+Now I'm completely out of options—",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,31,Marisa
 0,,"ええ、分かってる
 もう怪盗を追いかけるのはこれっきり！
 あーあ、つまんない――
-平凡な毎日が、何か変わると思ってたのに",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,32,Marisa
+平凡な毎日が、何か変わると思ってたのに","Yes, I know.
+This is the last time I chase after the phantom thief!
+sigh… how boring—
+I thought my ordinary days might finally change.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,32,Marisa
 0,,"ほら、このカードが欲しかったんでしょ？
 お礼にあげるわ――もうあたしには必要ないから
 明日からは――心に仮面をつけてでも
-退屈に向き合っていかなきゃね",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,33,Marisa
+退屈に向き合っていかなきゃね","Here, you wanted this card, didn't you?
+I'll give it to you as thanks—I don't need it anymore.
+From tomorrow on... even if I have to wear a mask over my heart,
+I'll face my boring life again.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,33,Marisa
 0,,"ねぇねぇ――知ってる？
 ""怪盗団""が現れた、って噂！
 実は、あたし怪盗に助けてもらったことが
-あるんだけど――",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,34,Marisa
+あるんだけど――","Hey, hey—did you hear?
+The rumor that a phantom thief group appeared!
+Actually, I've been saved by a phantom thief before—",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,34,Marisa
 0,,"これだけ一生懸命探してるのに、尻尾も掴めないのよ
 ――ま、当然か
 騎士団が必死になって探してるものを
-あたしがそう簡単に見つけられるはずないわよね――",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,35,Marisa
+あたしがそう簡単に見つけられるはずないわよね――","I've searched this hard, and still can't catch a trace.
+—Well, of course.
+There's no way I could easily find something
+the Knight Order is desperately searching for—",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,35,Marisa
 0,,"だけど、助けてもらったときに
 いつの間にか握っていたこのカード――
 きっとこれは何かの意味があると思うのよね
-――ねぇ、あなたにお願いがあるの",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,36,Marisa
+――ねぇ、あなたにお願いがあるの","But this card I was holding without realizing it
+when I was saved—
+I'm sure it has some meaning.
+—Hey, I have a favor to ask you.",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,36,Marisa
 0,,"怪盗捜索中の騎士団が《死者の小窟》に
 集まっていたのをさっき見たわ
 あそこにはきっと何かある――
-危険かもしれないけど、様子を見て来てほしいの！",,ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,37,Marisa
+危険かもしれないけど、様子を見て来てほしいの！","I just saw the Knight Order gathered
+at the Small Cave Tombs searching for the phantom thief.
+There has to be something there—
+it may be dangerous, but please go check it out!",ui\00_message\quest\q20005013.gmd,\quest\q20005013.arc,q20005013.arc,37,Marisa
 0,,"ああ、覚者様――
 盗賊たちに追われてるの！
-どうか――どうかお願い、助けて！",,ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,0,Yuni
+どうか――どうかお願い、助けて！","Ah, Arisen—
+bandits are chasing me!
+Please... please, I beg you, help me!",ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,0,Yuni
 0,,"ああ、覚者様――
 盗賊たちに追われてるの！
-どうか――どうかお願い、助けて！",,ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,1,Yuni
+どうか――どうかお願い、助けて！","Ah, Arisen—
+bandits are chasing me!
+Please... please, I beg you, help me!",ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,1,Yuni
 0,,"血も涙もない奴らなの！
-心おきなく、やっつけて！",,ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,2,Yuni
+心おきなく、やっつけて！","Those bastards are completely merciless!
+Don't hold back, wipe them out!",ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,2,Yuni
 0,,"ああ、覚者様――
 盗賊たちに追われてるの！
-どうか――どうかお願い、助けて！",,ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,3,Yuni
+どうか――どうかお願い、助けて！","Ah, Arisen—
+bandits are chasing me!
+Please... please, I beg you, help me!",ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,3,Yuni
 0,,"わたしだけじゃないの！
 このままだったらあいつら村に来ちゃう！！
-家が焼かれたり、みんなが殺されたりしたら――！",,ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,4,Yuni
-0,,ありがとう、覚者さま！,,ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,5,Yuni
+家が焼かれたり、みんなが殺されたりしたら――！","I'm not the only one in danger!
+At this rate, those bastards will end up at the village!!
+If our homes burn down, or if everyone is killed...!",ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,4,Yuni
+0,,ありがとう、覚者さま！,"Thank you, Arisen!",ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,5,Yuni
 0,,"ありがとうございました、覚者さま！
-怪我は大丈夫？",,ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,6,Yuni
+怪我は大丈夫？","Thank you very much, Arisen!
+Are you hurt?",ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,6,Yuni
 0,,"ありがとうございました、覚者さま！
 本当に強いですね！　素敵です！
-うん、すっごく――！",,ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,7,Yuni
+うん、すっごく――！","Thank you very much, Arisen!
+You're truly strong—wonderful!
+Yes, really—!",ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,7,Yuni
 0,,"大丈夫？　無理はしないでね
-あいつらほんとにひどいから――",,ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,8,Yuni
+あいつらほんとにひどいから――","Are you all right? Don't push yourself.
+They're truly awful—",ui\00_message\quest\q20010000.gmd,\quest\q20010000.arc,q20010000.arc,8,Yuni
 0,,"まずいことになった
-浜に魔物が集まってるそうじゃないか",,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,0,Walter
+浜に魔物が集まってるそうじゃないか","This is bad.
+I hear monsters are gathering on the shore.",ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,0,Walter
 0,,"あの辺りには船があるんだ
 あれが壊されたりしたら――！
-頼む、何とかできないか！？",,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,1,Walter
+頼む、何とかできないか！？","There are boats over there.
+If those get destroyed—!
+Please, can't you do something!?",ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,1,Walter
 0,,"たっ、大変だ！
 浜に魔物が集まってるらしいんだ
-それも厄介そうなのが！",,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,2,Walter
+それも厄介そうなのが！","Th-this is bad!
+It seems monsters are gathering on the shore—
+and troublesome ones at that!",ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,2,Walter
 0,,"あの辺りには船があるんだ
 あれが壊されたりしたら――！
-頼む、何とかできないか！？",,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,3,Walter
+頼む、何とかできないか！？","There are boats over there.
+If those get destroyed—!
+Please, can't you do something!?",ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,3,Walter
 0,,"ああ――、なんてこった！
 浜に魔物が集まってるらしいんだ！
-滅多にここらじゃ見ないような奴が！",,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,4,Walter
+滅多にここらじゃ見ないような奴が！","Oh—what a disaster!
+I hear monsters are gathering on the shore!
+The kind you hardly ever see around here!",ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,4,Walter
 0,,"あの辺りには船があるんだ
 あれが壊されたりしたら――！
-頼む、何とかできないか！？",,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,5,Walter
-0,,どうだった！？　船は無事かい？,,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,6,Walter
+頼む、何とかできないか！？","There are boats over there.
+If those get destroyed—!
+Please, can't you do something!?",ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,5,Walter
+0,,どうだった！？　船は無事かい？,How did it go!? Are the boats safe?,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,6,Walter
 0,,"そうか――助かったよ、アンタのおかげだ
 うん？　おかしいかい？
-遠出もできないボロ船を大事にしてるのが",,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,7,Walter
+遠出もできないボロ船を大事にしてるのが","I see—you saved us, thanks to you.
+Huh? You think it's strange?
+That I care so much about a rickety boat
+that can't even travel far?",ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,7,Walter
 0,,"若いころからの相棒だ
 俺と一緒にオンボロになったヤツを
-見捨てる訳にはいかんだろ",,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,8,Walter
-0,,どうだった！？　船は無事かい？,,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,9,Walter
+見捨てる訳にはいかんだろ","It's been my partner since I was young.
+I can't just abandon something
+that's grown old alongside me.",ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,8,Walter
+0,,どうだった！？　船は無事かい？,How did it go!? Are the boats safe?,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,9,Walter
 0,,"そうか――助かったよ、アンタのおかげだ
 うん？　おかしいかい？
-遠出もできないボロ船を大事にしてるのが",,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,10,Walter
+遠出もできないボロ船を大事にしてるのが","I see—you saved us, thanks to you.
+Huh? You think it's strange?
+That I care so much about a rickety boat
+that can't even travel far?",ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,10,Walter
 0,,"若いころからの相棒だ
 俺と一緒にオンボロになったヤツを
-見捨てる訳にはいかんだろ",,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,11,Walter
-0,,どうだった！？　船は無事かい？,,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,12,Walter
+見捨てる訳にはいかんだろ","It's been my partner since I was young.
+I can't just abandon something
+that's grown old alongside me.",ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,11,Walter
+0,,どうだった！？　船は無事かい？,How did it go!? Are the boats safe?,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,12,Walter
 0,,"そうか――助かったよ、アンタのおかげだ
 うん？　おかしいかい？
-遠出もできないボロ船を大事にしてるのが",,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,13,Walter
+遠出もできないボロ船を大事にしてるのが","I see—you saved us, thanks to you.
+Huh? You think it's strange?
+That I care so much about a rickety boat
+that can't even travel far?",ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,13,Walter
 0,,"若いころからの相棒だ
 俺と一緒にオンボロになったヤツを
-見捨てる訳にはいかんだろ",,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,14,Walter
+見捨てる訳にはいかんだろ","It's been my partner since I was young.
+I can't just abandon something
+that's grown old alongside me.",ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,14,Walter
 0,,"頼むよ、船を！
-何とか船を守ってくれ――！",,ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,15,Walter
+何とか船を守ってくれ――！","Please—the boats!
+Do whatever it takes to protect them!",ui\00_message\quest\q20010001.gmd,\quest\q20010001.arc,q20010001.arc,15,Walter
 0,,"あ、あの――
 あなたをお強い覚者様と見込んで
-お願いがあるんです",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,0,Akim
+お願いがあるんです","Ah, um...
+I believe you to be a strong Arisen,
+and I have a request.",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,0,Akim
 0,,"実は――
 洞窟の中で慌ててしまい、せっかく
 集めた大事な品々を落としてしまった
-みたいで",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,1,Akim
+みたいで","The truth is—
+I panicked inside a cave and seem to have dropped
+the valuable items I worked so hard to collect.",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,1,Akim
 0,,"その回収をお願いできないでしょうか？
-も、もちろんお礼はしますので",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,2,Akim
+も、もちろんお礼はしますので","Could I ask you to retrieve them?
+O-of course, I'll reward you.",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,2,Akim
 0,,"はぁ――
-自分で取りに戻る勇気があれば――",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,3,Akim
+自分で取りに戻る勇気があれば――","Ugh...
+If only I had the courage to go back myself...",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,3,Akim
 0,,"あ、あの――
 あなたをお強い覚者様と見込んで
-お願いがあるんです",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,4,Akim
+お願いがあるんです","Ah, um...
+I believe you to be a strong Arisen,
+and I have a request.",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,4,Akim
 0,,"実は――
 洞窟の中で慌ててしまい、せっかく
 集めた大事な品々を落としてしまった
-みたいで",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,5,Akim
+みたいで","The truth is...
+I panicked inside a cave and seem to have dropped
+the valuable items I worked so hard to collect.",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,5,Akim
 0,,"その回収をお願いできないでしょうか？
 ちょっと大変かもしれませんが――
-あ！　もちろん見合ったお礼はしますので",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,6,Akim
+あ！　もちろん見合ったお礼はしますので","Could I ask you to retrieve them?
+It might be a little difficult—
+Ah! Of course, I'll give you a suitable reward.",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,6,Akim
 0,,"はぁ――
-自分で取りに戻る勇気があれば――",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,7,Akim
+自分で取りに戻る勇気があれば――","Ugh...
+If only I had the courage to go back myself...",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,7,Akim
 0,,"あ、あの――
 あなたをお強い覚者様と見込んで
-お願いがあるんです",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,8,Akim
+お願いがあるんです","Ah, um...
+I believe you to be a strong Arisen,
+and I have a request.",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,8,Akim
 0,,"実は――
 洞窟の中で慌ててしまい、せっかく
 集めた大事な品々を落としてしまった
-みたいで",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,9,Akim
+みたいで","The truth is—
+I panicked inside the cave and seem to have dropped
+the valuable items I worked so hard to collect.",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,9,Akim
 0,,"その回収をお願いできないでしょうか？
 えっと、かなりその――大変かな、とは思うのですが――
-あぁっ！　もちろん見合ったお礼はしますので",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,10,Akim
+あぁっ！　もちろん見合ったお礼はしますので","Could I ask you to retrieve them?
+Um, I think it might be quite—well—difficult…
+Ah! Of course, I'll give you a suitable reward.",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,10,Akim
 0,,"はぁ――
-自分で取りに戻る勇気があれば――",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,11,Akim
+自分で取りに戻る勇気があれば――","Ugh...
+If only I had the courage to go back myself...",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,11,Akim
 0,,"おお、全部見つけてくださったとは！？
-ありがとうございました！",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,12,Akim
+ありがとうございました！","Oh, you found everything!?
+Thank you very much!",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,12,Akim
 0,,"洞窟奥の滝で清めると
 効き目が増すと思ったのですが――
-うぅ、また失敗するなんて――",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,13,Akim
+うぅ、また失敗するなんて――","I thought purifying them at the waterfall
+deep inside the cave would strengthen their effect…
+Ugh, to fail again...",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,13,Akim
 0,,"おお、全部見つけてくださったとは！？
 さすが覚者様です！
-ありがとうございました！",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,14,Akim
+ありがとうございました！","You found everything!?
+As expected of the Arisen!
+Thank you very much!",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,14,Akim
 0,,"洞窟奥の滝で清めると
 効き目が増すと思ったのですが――
-うぅ、また失敗するなんて――",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,15,Akim
+うぅ、また失敗するなんて――","I thought purifying them at the waterfall
+deep inside the cave would strengthen their effect…
+Ugh, to fail again...",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,15,Akim
 0,,"おお――
 実は引き受けていただいたものの
-すっかり諦めていまして――",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,16,Akim
-0,,今にして思えばなんと失礼なことを――,,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,17,Akim
+すっかり諦めていまして――","Oh...
+To be honest, even after you accepted the request,
+I had completely given up.",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,16,Akim
+0,,今にして思えばなんと失礼なことを――,"Thinking back on it now, how terribly rude of me—",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,17,Akim
 0,,"ありがとうございました！
-さすがは覚者様でございます！",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,18,Akim
+さすがは覚者様でございます！","Thank you very much!
+Truly worthy of being called an Arisen!",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,18,Akim
 0,,"洞窟奥の滝で清めると
 効き目が増すと思ったのですが――
-うぅ、また失敗するなんて――",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,19,Akim
+うぅ、また失敗するなんて――","I thought purifying them at the waterfall
+deep inside the cave would strengthen their effect…
+Ugh, to fail again...",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,19,Akim
 0,,"あの――
 調子はいかがでしょうか？
-できれば急いでいただきたいのですが――",,ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,20,Akim
+できれば急いでいただきたいのですが――","Um—
+how are things going?
+If possible, I'd like you to hurry—",ui\00_message\quest\q20010002.gmd,\quest\q20010002.arc,q20010002.arc,20,Akim
 0,,"ああ、あんた、いい所に来たね
-ちょっと頼まれてくれないかい？",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,0,Rosa
+ちょっと頼まれてくれないかい？","Ah, you came at a good time.
+Could I ask you for a favor?",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,0,Rosa
 0,,"海岸沿いに灯台があるだろ
 守番のルドルフォ爺さんにいつも荷物を
 届けてあげるんだけど、今日は普段より
-魔物が多いみたいでね",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,1,Rosa
+魔物が多いみたいでね","There's a lighthouse along the coast, right?
+I usually deliver supplies to old man Rudolfo, the keeper,
+but today there seem to be more monsters than usual.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,1,Rosa
 0,,"替わってくれないかね、頼むよ
 爺さんには、あんたも世話になるかも
-しれないしさ",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,2,Rosa
+しれないしさ","Could you go in my place? Please.
+You might end up relying on the old man someday too.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,2,Rosa
 0,,"ああ、あんた、いい所に来たね
-ちょっと頼まれてくれないかい？",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,3,Rosa
+ちょっと頼まれてくれないかい？","Ah, you came at a good time.
+Could I ask you for a favor?",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,3,Rosa
 0,,"海岸沿いに灯台があるだろ
 守番のルドルフォ爺さんにいつも荷物を
 届けてあげるんだけど、今日はなんだか
-物騒な魔物が出てきたみたいでね",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,4,Rosa
+物騒な魔物が出てきたみたいでね","There's a lighthouse along the coast, right?
+I usually deliver supplies to old man Rudolfo, the keeper,
+but today some particularly dangerous monsters showed up.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,4,Rosa
 0,,"替わってくれないかね、頼むよ
 爺さんには、あんたも世話になるかも
-しれないしさ",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,5,Rosa
+しれないしさ","Could you go in my place? Please.
+You might end up relying on the old man someday too.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,5,Rosa
 0,,"ああ、あんた、いい所に来たね
-ちょっと頼まれてくれないかい？",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,6,Rosa
+ちょっと頼まれてくれないかい？","Ah, you came at a good time.
+Could I ask you for a favor?",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,6,Rosa
 0,,"海岸沿いに灯台があるだろ
 守番のルドルフォ爺さんにいつも荷物を
 届けてあげるんだけど、今日はこのあたりでも
-とびきり怖い魔物を見たって人がいてね",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,7,Rosa
+とびきり怖い魔物を見たって人がいてね","There's a lighthouse along the coast, right?
+I usually deliver supplies to old man Rudolfo, the keeper,
+but today someone saw an especially terrifying monster
+even for this area.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,7,Rosa
 0,,"替わってくれないかね、頼むよ
 爺さんには、あんたも世話になるかも
-しれないしさ",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,8,Rosa
-0,,んん？　何じゃお前さん,,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,9,Rudolfo
+しれないしさ","Could you go in my place? Please.
+You might end up relying on the old man someday too.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,8,Rosa
+0,,んん？　何じゃお前さん,Hm? And who might you be?,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,9,Rudolfo
 0,,"――おぉ、そうかそうか
 ローザの使いできてくれたのか
-それは失礼したの",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,10,Rudolfo
+それは失礼したの","Ah, I see, I see.
+You've come on Rosa's behalf.
+Forgive my rudeness.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,10,Rudolfo
 0,,"時間があるなら灯台にでも登って
-海を眺めていくといい",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,11,Rudolfo
+海を眺めていくといい","If you have time, climb the lighthouse
+and gaze out at the sea.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,11,Rudolfo
 0,,"海は全ての者に公平じゃ、実にいい
 広大なるものを感じ、己を見つめ直す
-よい機会になろうて",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,12,Rudolfo
+よい機会になろうて","The sea is fair to all—truly a fine thing.
+Feeling its vastness
+is a good chance to reflect upon oneself.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,12,Rudolfo
 0,,"お疲れさま
-大変だったかい？",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,13,Rosa
+大変だったかい？","Good work.
+Was it tough?",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,13,Rosa
 0,,"ルドルフォ爺さんは元騎士団のすごい人でね
 隠居してから何年も灯台守を続けてくれてるのさ
-灯台は代々、そうやって守られてきたそうだよ",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,14,Rosa
+灯台は代々、そうやって守られてきたそうだよ","Old man Rudolfo used to be an impressive member of the Knight Order.
+Even after retiring, he's kept watch over the lighthouse for years.
+That's how the lighthouse has been protected for generations.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,14,Rosa
 0,,"大きな魔物がやって来た時とかは
-あの人が知らせてくれて、みんなで逃げたんだよ",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,15,Rosa
-0,,元気でやっていてほしいね,,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,16,Rosa
+あの人が知らせてくれて、みんなで逃げたんだよ","When large monsters came,
+he'd warn us, and we'd all flee together.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,15,Rosa
+0,,元気でやっていてほしいね,I hope he stays well.,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,16,Rosa
 0,,"お疲れさま
-大変だったかい？",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,17,Rosa
+大変だったかい？","Good work.
+Was it tough?",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,17,Rosa
 0,,"ルドルフォ爺さんは元騎士団のすごい人でね
 隠居してから何年も灯台守を続けてくれてるのさ
-灯台は代々、そうやって守られてきたそうだよ",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,18,Rosa
+灯台は代々、そうやって守られてきたそうだよ","Old man Rudolfo used to be an impressive member of the Knight Order.
+Even after retiring, he's kept watch over the lighthouse for years.
+That's how the lighthouse has been protected for generations.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,18,Rosa
 0,,"大きな魔物がやって来た時とかは
-あの人が知らせてくれて、みんなで逃げたんだよ",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,19,Rosa
-0,,元気でやっていてほしいね,,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,20,Rosa
+あの人が知らせてくれて、みんなで逃げたんだよ","When large monsters came,
+he'd warn us, and we'd all flee together.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,19,Rosa
+0,,元気でやっていてほしいね,I hope he stays well.,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,20,Rosa
 0,,"お疲れさま
-大変だったかい？",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,21,Rosa
+大変だったかい？","Good work.
+Was it tough?",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,21,Rosa
 0,,"ルドルフォ爺さんは元騎士団のすごい人でね
 隠居してから何年も灯台守を続けてくれてるのさ
-灯台は代々、そうやって守られてきたそうだよ",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,22,Rosa
+灯台は代々、そうやって守られてきたそうだよ","Old man Rudolfo used to be an impressive member of the Knight Order.
+Even after retiring, he's kept watch over the lighthouse for years.
+That's how the lighthouse has been protected for generations.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,22,Rosa
 0,,"大きな魔物がやって来た時とかは
-あの人が知らせてくれて、みんなで逃げたんだよ",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,23,Rosa
-0,,元気でやっていてほしいね,,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,24,Rosa
+あの人が知らせてくれて、みんなで逃げたんだよ","When large monsters came,
+he'd warn us, and we'd all flee together.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,23,Rosa
+0,,元気でやっていてほしいね,I hope he stays well.,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,24,Rosa
 0,,"ちょっと！
-あまり遅くならないように届けておくれよ",,ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,25,Rosa
+あまり遅くならないように届けておくれよ","Hey!
+Make sure you don't take too long delivering it.",ui\00_message\quest\q20010003.gmd,\quest\q20010003.arc,q20010003.arc,25,Rosa
 0,,"ふむ、ちょうどいい
-お前さんに頼むとしようか",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,0,Rudolfo
+お前さんに頼むとしようか","Hmm, this is perfect timing.
+I suppose I'll ask you.",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,0,Rudolfo
 0,,"近頃、夜になると
 妙な気配を感じる事があっての
-朝には消えておるんじゃが――",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,1,Rudolfo
+朝には消えておるんじゃが――","Lately, when night falls,
+I've been sensing a strange presence.
+By morning, it's gone, though—",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,1,Rudolfo
 0,,"一度お前さんたちで調べてみてくれんか
-まぁ、言うても大した相手じゃなかろうて",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,2,Rudolfo
+まぁ、言うても大した相手じゃなかろうて","Could you look into it for me, you and your lot?
+I doubt it's anything serious.",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,2,Rudolfo
 0,,"ふむ、ちょうどいい
-お前さんに頼むとしようか",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,3,Rudolfo
+お前さんに頼むとしようか","Hmm, this is perfect timing.
+I suppose I'll ask you.",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,3,Rudolfo
 0,,"近頃、夜になると
 妙な気配を感じる事があっての
-朝には消えておるんじゃが――",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,4,Rudolfo
+朝には消えておるんじゃが――","Lately, when night falls,
+I've been sensing a strange presence.
+By morning, it's gone, though—",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,4,Rudolfo
 0,,"一度お前さんたちで調べてみてくれんか
-なに、ちょっとした修練代わりじゃよ",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,5,Rudolfo
+なに、ちょっとした修練代わりじゃよ","Could you look into it for me, you and your lot?
+Think of it as a bit of training.",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,5,Rudolfo
 0,,"ふむ、ちょうどいい
-お前さんに頼むとしようか",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,6,Rudolfo
+お前さんに頼むとしようか","Hmm, this is perfect timing.
+I suppose I'll ask you.",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,6,Rudolfo
 0,,"近頃、夜になると
 妙な気配を感じる事があっての
-朝には消えておるんじゃが――",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,7,Rudolfo
+朝には消えておるんじゃが――","Lately, when night falls,
+I've been sensing a strange presence.
+By morning, it's gone, though—",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,7,Rudolfo
 0,,"一度お前さんたちで調べてみてくれんか
 そうじゃの、あの気配の感じだと
-ちょっとした腕試しくらいにはなるかもしれんの",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,8,Rudolfo
+ちょっとした腕試しくらいにはなるかもしれんの","Could you look into it for me, you and your lot?
+Judging by the feel of that presence,
+it might make for a decent test of skill.",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,8,Rudolfo
 0,,"ほうほう、そんな奴がいたとはの
-ごくろうさん、手間かけさせたの",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,9,Rudolfo
+ごくろうさん、手間かけさせたの","Oh ho, so there really was such a creature.
+Good work—sorry for the trouble.",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,9,Rudolfo
 0,,"しかし何が目的で現れたのか
 ――意思の通じぬ魔物の事
-推測してもらちがあかんか",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,10,Rudolfo
+推測してもらちがあかんか","But what was its purpose in appearing?
+—With mindless monsters,
+speculation gets us nowhere.",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,10,Rudolfo
 0,,"ほうほう、そんな奴がいたとはの
-ごくろうさん、手間かけさせたの",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,11,Rudolfo
+ごくろうさん、手間かけさせたの","Oh ho, so there really was such a creature.
+Good work—sorry for the trouble.",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,11,Rudolfo
 0,,"しかし何が目的で現れたのか
 ――意思の通じぬ魔物の事
-推測してもらちがあかんか",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,12,Rudolfo
-0,,厄介なことにならねばよいが,,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,13,Rudolfo
+推測してもらちがあかんか","But what was its purpose in appearing?
+—With mindless monsters,
+speculation gets us nowhere.",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,12,Rudolfo
+0,,厄介なことにならねばよいが,Let us hope it doesn't turn into something troublesome.,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,13,Rudolfo
 0,,"ほうほう、そんな奴がいたとはの
-ごくろうさん、手間かけさせたの",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,14,Rudolfo
+ごくろうさん、手間かけさせたの","Oh ho, so there really was such a creature.
+Good work—sorry for the trouble.",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,14,Rudolfo
 0,,"しかし何が目的で現れたのか
 ――意思の通じぬ魔物の事
-推測してもらちがあかんか",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,15,Rudolfo
+推測してもらちがあかんか","But what was its purpose in appearing?
+—With mindless monsters,
+speculation gets us nowhere.",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,15,Rudolfo
 0,,"これ以上強力なのが現れたら
-さすがにちと面倒じゃの――",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,16,Rudolfo
+さすがにちと面倒じゃの――","If anything stronger were to appear,
+that would be quite a problem indeed—",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,16,Rudolfo
 0,,"そうそう
 気配を感じるのは夜の間だけでの
-昼間は全く問題ないんじゃが",,ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,17,Rudolfo
+昼間は全く問題ないんじゃが","Oh yes—
+I only sense it during the night.
+In the daytime, there's no issue at all.",ui\00_message\quest\q20010004.gmd,\quest\q20010004.arc,q20010004.arc,17,Rudolfo
 0,,"あ、覚者殿いいところに
-ちょっと聞いていただきたいことが！",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,0,Freud
+ちょっと聞いていただきたいことが！","Ah, Arisen, perfect timing!
+There's something I'd like to ask!",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,0,Freud
 0,,"住民からの話によるとですね、離れた所に
 廃墟があるんですが、その地下室に魔物が
-入りこんだそうなんです",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,1,Freud
+入りこんだそうなんです","According to the villagers,
+there's a ruin some distance away,
+and monsters have gotten into its basement.",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,1,Freud
 0,,"自分、相談されたんですがちょっと手に負えるか
-自信がなくって――",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,2,Freud
+自信がなくって――","They came to me about it, but I'm not confident
+I can handle it myself—",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,2,Freud
 0,,"覚者殿この通りであります！
-立場を越えてどうか一つ、協力して下さい！",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,3,Freud
+立場を越えてどうか一つ、協力して下さい！","Arisen, I beg you!
+Please, set aside rank and help us!",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,3,Freud
 0,,"あぁ、覚者殿いいところに！！
-ちょっと聞いていただきたいことが！",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,4,Freud
+ちょっと聞いていただきたいことが！","Ah, Arisen, perfect timing!!
+There's something I'd like to ask!",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,4,Freud
 0,,"住民からの話によるとですね、離れた所に
 廃墟があるんですが、その地下室に魔物が
-入りこんだそうなんです",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,5,Freud
+入りこんだそうなんです","According to the villagers,
+there's a ruin some distance away,
+and monsters have gotten into its basement.",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,5,Freud
 0,,"うーん、自分に相談されても手に負えるか
 自信がなくって――
-なんでも見るからに危なそうな奴みたいで",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,6,Freud
+なんでも見るからに危なそうな奴みたいで","Even if they ask me, I'm not confident I can handle it—
+apparently it looks extremely dangerous.",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,6,Freud
 0,,"覚者殿この通りであります！！
 立場を越えてどうか一つ
-人助けと思って協力して下さい！",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,7,Freud
+人助けと思って協力して下さい！","Arisen, I beg you!!
+Please set aside rank
+and help us as an act of kindness!",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,7,Freud
 0,,"あああぁ、か、覚者殿いいところに！！
-ちょっと聞いていただきたいことがっ！！",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,8,Freud
+ちょっと聞いていただきたいことがっ！！","A-ahh, Arisen, perfect timing!!
+There's something I must ask!!",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,8,Freud
 0,,"住民からの話によるとですね、離れた所に
 廃墟があるんですが、その地下室に魔物が
-入りこんだそうなんです",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,9,Freud
+入りこんだそうなんです","According to the villagers,
+there's a ruin some distance away,
+and monsters have gotten into its basement.",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,9,Freud
 0,,"でも、正直自分にはとても手に負える
 ような感じではなく――
-絶対殺される自信があります！！",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,10,Freud
+絶対殺される自信があります！！","But honestly, it's far beyond what I can handle—
+I'm certain I'd be killed!!",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,10,Freud
 0,,"覚者殿、どうか！！
 この通りであります！
 立場を越えてどうか一つ
-村人を助けると思って協力して下さい！",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,11,Freud
+村人を助けると思って協力して下さい！","Arisen, please!!
+I beg you!
+Set aside rank and help us,
+for the sake of the villagers!",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,11,Freud
 0,,"おお、退治してくれたのでありますね
-ありがとうございました",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,12,Freud
+ありがとうございました","Oh, you defeated them!
+Thank you very much.",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,12,Freud
 0,,"――うう、しかし自分、不甲斐ないです！
-精進し、このくらい対処できるよう頑張らねば",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,13,Freud
+精進し、このくらい対処できるよう頑張らねば","—Ugh, how shameful of me!
+I must train harder until I can handle this much myself.",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,13,Freud
 0,,"あ、ゲルト団長とハインツ副団長には
 その――覚者殿に助けてもらった事
-内緒にしてほしいであります",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,14,Freud
+内緒にしてほしいであります","Ah—about Captain Gert and Vice-Captain Heinz—
+please keep it secret
+that the Arisen helped me.",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,14,Freud
 0,,"おおっ、退治してくれたのでありますか！
-ご助力ありがとうございました！",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,15,Freud
+ご助力ありがとうございました！","Oh! You defeated them!?
+Thank you for your assistance!",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,15,Freud
 0,,"――うう、しかし強力な魔物相手では
 今の警備体制はどう考えても不十分
 覚者隊の助力を公式にお願いできれば
-よいのでありますが",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,16,Freud
+よいのでありますが","—Still, against powerful monsters,
+our current guard setup is clearly insufficient.
+If only we could officially request the Arisen Corps' aid—",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,16,Freud
 0,,"うーむ、そんな事を言ってると
-団長からまた叱られるでありますね",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,17,Freud
+団長からまた叱られるでありますね","Hmm… saying things like that
+will just get me scolded by the captain again.",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,17,Freud
 0,,"おおおっ、退治してくれたのでありますか！
-さすがです！　ありがとうございました！",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,18,Freud
+さすがです！　ありがとうございました！","Ohhh! You defeated them!?
+As expected! Thank you very much!",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,18,Freud
 0,,"あれほどの魔物相手となると、やはり
 騎士団では対処ができないことも――
-残念ですが、それが本心であります",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,19,Freud
+残念ですが、それが本心であります","Against monsters like that,
+there are times even the Knight Order cannot cope—
+regrettable, but that's the truth.",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,19,Freud
 0,,"村の常駐警備担当を、覚者隊からも出して
 貰えると安心であります
-神官殿にもぜひ、そのようにお伝えを",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,20,Freud
+神官殿にもぜひ、そのようにお伝えを","We'd feel safer if some permanent guards
+came from the Arisen Corps as well.
+Please convey this to the priest, too.",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,20,Freud
 0,,"どうしたでありますか？
 自分のことは構わず行って下さい
-少し遅れて向かいますので！",,ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,21,Freud
+少し遅れて向かいますので！","What's wrong?
+Don't worry about me—go on ahead.
+I'll follow shortly!",ui\00_message\quest\q20010005.gmd,\quest\q20010005.arc,q20010005.arc,21,Freud
 0,,"へぇ、こんな所に来るなんて命知らずね
 この辺りは危険な魔物もいるし
-めったに人なんて来ないのに",,ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,0,Traveling Female Hunter
+めったに人なんて来ないのに","Wow, coming to a place like this—how reckless.
+There are dangerous monsters around here,
+and hardly anyone ever comes.",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,0,Traveling Female Hunter
 0,,"私は、浜辺に流れ着くモノが好きで
 色々見て回ってるの
-何か見つけたら、私にも教えてね",,ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,1,Traveling Female Hunter
+何か見つけたら、私にも教えてね","I like things that wash up on the shore,
+so I wander around looking for them.
+If you find something, let me know too.",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,1,Traveling Female Hunter
 0,,"へぇ、こんな所に来るなんて命知らずね
 この辺りは危険な魔物もいるし
-めったに人なんて来ないのに",,ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,2,Traveling Female Hunter
+めったに人なんて来ないのに","Wow, coming to a place like this—how reckless.
+There are dangerous monsters around here,
+and hardly anyone ever comes.",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,2,Traveling Female Hunter
 0,,"私は、浜辺に流れ着くモノが好きで
 色々見て回ってるの
-何か見つけたら、私にも教えてね",,ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,3,Traveling Female Hunter
+何か見つけたら、私にも教えてね","I like things that wash up on the shore,
+so I wander around looking for them.
+If you find something, let me know too.",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,3,Traveling Female Hunter
 0,,"へぇ、こんな所に来るなんて命知らずね
 この辺りは危険な魔物もいるし
-めったに人なんて来ないのに",,ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,4,Traveling Female Hunter
+めったに人なんて来ないのに","Wow, coming to a place like this—how reckless.
+There are dangerous monsters around here,
+and hardly anyone ever comes.",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,4,Traveling Female Hunter
