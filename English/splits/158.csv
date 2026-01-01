@@ -10,13 +10,13 @@ from beyond the sea.",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20
 0,,"私たちと同じように
 海の向こうでは知らない土地があって
 色々な人たちが暮らしてるの","Just like us,
-there are lands we don't know on the other side of the sea,
+there are lands we don’t know on the other side of the sea,
 and all kinds of people live there.",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,8,Traveling Female Hunter
 0,,"どうしてそんな事がわかるって？
 わからないわよ
 でも、そう考えた方が楽しいでしょ","How do I know something like that?
-I don't know.
-But isn't it more fun to think that way?",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,9,Traveling Female Hunter
+I don’t know.
+But isn’t it more fun to think that way?",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,9,Traveling Female Hunter
 0,,"いつか、船で海の向こう側に
 いってみたいわ","Someday, I want to travel by ship
 to the other side of the sea.",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,10,Traveling Female Hunter
@@ -27,13 +27,13 @@ from beyond the sea.",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20
 0,,"私たちと同じように
 海の向こうでは知らない土地があって
 色々な人たちが暮らしてるの","Just like us,
-there are lands we don't know on the other side of the sea,
+there are lands we don’t know on the other side of the sea,
 and all kinds of people live there.",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,13,Traveling Female Hunter
 0,,"どうしてそんな事がわかるって？
 わからないわよ
 でも、そう考えた方が楽しいでしょ","How do I know something like that?
-I don't know.
-But isn't it more fun to think that way?",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,14,Traveling Female Hunter
+I don’t know.
+But isn’t it more fun to think that way?",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,14,Traveling Female Hunter
 0,,"いつか、船で海の向こう側に
 いってみたいわ","Someday, I want to travel by ship
 to the other side of the sea.",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,15,Traveling Female Hunter
@@ -44,13 +44,13 @@ from beyond the sea.",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20
 0,,"私たちと同じように
 海の向こうでは知らない土地があって
 色々な人たちが暮らしてるの","Just like us,
-there are lands we don't know on the other side of the sea,
+there are lands we don’t know on the other side of the sea,
 and all kinds of people live there.",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,18,Traveling Female Hunter
 0,,"どうしてそんな事がわかるって？
 わからないわよ
 でも、そう考えた方が楽しいでしょ","How do I know something like that?
-I don't know.
-But isn't it more fun to think that way?",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,19,Traveling Female Hunter
+I don’t know.
+But isn’t it more fun to think that way?",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,19,Traveling Female Hunter
 0,,"いつか、船で海の向こう側に
 いってみたいわ","Someday, I want to travel by ship
 to the other side of the sea.",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,20,Traveling Female Hunter
@@ -59,9 +59,9 @@ to the other side of the sea.",ui\00_message\quest\q20010006.gmd,\quest\q2001000
 But you should run away from dangerous monsters!",ui\00_message\quest\q20010006.gmd,\quest\q20010006.arc,q20010006.arc,21,Traveling Female Hunter
 0,,"そうそう、共有しておきたい情報があるんだ
 南の《青爪浜》には厄介な魔物がたむろしてるんだが
-やつらがどうも、徐々に北上しているようでな","By the way, there's some information I want to share.
+やつらがどうも、徐々に北上しているようでな","By the way, there’s some information I want to share.
 There are troublesome monsters gathering at the southern Blueclaw Beach,
-and it seems they're gradually moving north.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,0,Persimmon
+and it seems they’re gradually moving north.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,0,Persimmon
 0,,"こちら側まで来られると厄介だ
 もしもそれらしい魔物の集団を見かけたら
 駆除を頼む","It would be a problem if they came this far.
@@ -69,39 +69,39 @@ If you spot a group of monsters that fits the description,
 I want you to eliminate them.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,1,Persimmon
 0,,"あんたに聞いてほしい情報があるんだ
 南の《青爪浜》には強力な魔物がたむろしてるんだが
-やつらがどうも、徐々に北上しているようでな","There's information I want you to hear.
+やつらがどうも、徐々に北上しているようでな","There’s information I want you to hear.
 Powerful monsters are gathering at the southern Blueclaw Beach,
 and they seem to be slowly advancing north.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,2,Persimmon
 0,,"かなり手強い連中だから
 もしもこちら側まで来たら面倒だ
 それらしい魔物の集団を見かけたら
-退治を頼む","They're a very tough bunch.
+退治を頼む","They’re a very tough bunch.
 It would be a hassle if they came this way.
 If you see a group of monsters like that,
 I want you to defeat them.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,3,Persimmon
-0,,くれぐれも油断するなよ,Don't let your guard down.,ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,4,Persimmon
+0,,くれぐれも油断するなよ,Don’t let your guard down.,ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,4,Persimmon
 0,,"あんたに伝えたかった情報があるんだ
 南の《青爪浜》には危険な魔物がたむろしてるんだが
-やつらがどうも、徐々に北上しているようでな","There's information I wanted to pass on to you.
+やつらがどうも、徐々に北上しているようでな","There’s information I wanted to pass on to you.
 Dangerous monsters are gathering at the southern Blueclaw Beach,
-and it looks like they're steadily moving north.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,5,Persimmon
+and it looks like they’re steadily moving north.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,5,Persimmon
 0,,"並みの騎士じゃ歯が立たないだろう――
 万一、こちら側までやつらが来たら村の危機だ！
 もしもそれらしい魔物の集団を見かけたら
-なんとか食い止めてほしいんだ","An ordinary knight wouldn't stand a chance—
+なんとか食い止めてほしいんだ","An ordinary knight wouldn’t stand a chance—
 if they make it this far, the village will be in danger!
 If you encounter a group of monsters like that,
 I want you to stop them somehow.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,6,Persimmon
 0,,"俺じゃまず歯が立たないから
 神殿に連絡しているんだが――
-もし討伐に行くなら、準備は万端にな","I wouldn't stand a chance against them myself,
-so I've contacted the temple—
-if you're going to subjugate them, make sure you're fully prepared.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,7,Persimmon
+もし討伐に行くなら、準備は万端にな","I wouldn’t stand a chance against them myself,
+so I’ve contacted the temple—
+if you’re going to subjugate them, make sure you’re fully prepared.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,7,Persimmon
 0,,"おお、お疲れさま
 例の魔物を駆除してくれたのか！","Oh, good work.
 Did you take care of those monsters?",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,8,Persimmon
 0,,"まぁ、すべてを根絶やしにはできないだろうが
-ひとまず落着という所かな？","Well, you probably can't wipe them out completely,
+ひとまず落着という所かな？","Well, you probably can’t wipe them out completely,
 but things have settled down for now, I suppose.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,9,Persimmon
 0,,"おお、お疲れさま
 例の魔物を退治してくれたのか！
@@ -109,11 +109,11 @@ but things have settled down for now, I suppose.",ui\00_message\quest\q20010007.
 So you took care of the monsters!
 Looks like you really went all out.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,10,Persimmon
 0,,"まぁ、すべてを根絶やしにはできないだろうが
-ひとまず脅威は去った、という所かな？","Well, you probably can't eradicate them all,
+ひとまず脅威は去った、という所かな？","Well, you probably can’t eradicate them all,
 but the immediate threat is gone, at least.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,11,Persimmon
 0,,"報酬金で今日はゆっくり休んでくれよ
 また何かあったらよろしくな","Take it easy today with the reward money.
-If anything else comes up, I'll be counting on you.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,12,Persimmon
+If anything else comes up, I’ll be counting on you.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,12,Persimmon
 0,,"おお、お疲れさま
 例の魔物を退治してくれたのか！
 さすがだな、あんな魔物を相手にできるとは","Oh, good work.
@@ -121,9 +121,9 @@ So you defeated those monsters!
 Looks like you really put in the effort.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,13,Persimmon
 0,,"まぁ、すべてを根絶やしにはできないだろうが
 当面の危機は去った、という所かな？
-村の安泰もあんたのおかげだよ","Well, you can't wipe them all out,
+村の安泰もあんたのおかげだよ","Well, you can’t wipe them all out,
 but the danger has passed for now.
-The village's safety is thanks to you.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,14,Persimmon
+The village’s safety is thanks to you.",ui\00_message\quest\q20010007.gmd,\quest\q20010007.arc,q20010007.arc,14,Persimmon
 0,,"報酬金には村から預かった分も入ってる
 また何かあったらローテスのために
 力を貸してくれよ","The reward includes the portion entrusted by the village.
@@ -139,42 +139,42 @@ somewhere near the Deserted Village of Ruflow.",ui\00_message\quest\q20010007.gm
 0,,"覚者だな？
 ちょうどいい、頼みたいことがある
 ローテスから通報があって来たんだが――
-別件で、この場から離れられなくなってな","You're an Arisen, right?
-Perfect timing — there's something I want to ask you.
+別件で、この場から離れられなくなってな","You’re an Arisen, right?
+Perfect timing — there’s something I want to ask you.
 I came here after receiving a report from Rotes, but—
-another matter has come up, and I can't leave this place.",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,0,Wilson
+another matter has come up, and I can’t leave this place.",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,0,Wilson
 0,,"通報と言っても、大したことじゃない
-ブリア海岸に、不審者が流れ着いたらしい","It's nothing too serious,
+ブリア海岸に、不審者が流れ着いたらしい","It’s nothing too serious,
 but it seems a suspicious person washed ashore at Breya Coast.",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,1,Wilson
 0,,"どうも見たことのない格好で、
 武装もしているとのことでな
-手が空いているようなら、確認してきてほしい","Apparently they're dressed in unfamiliar clothing
+手が空いているようなら、確認してきてほしい","Apparently they’re dressed in unfamiliar clothing
 and are armed.
-If you're free, I'd like you to go check it out.",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,2,Wilson
+If you’re free, I’d like you to go check it out.",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,2,Wilson
 0,,"住民の安全を第一に――
 万が一危険が及ぶようならば、排除も任せる
-白竜に心臓を捧げた覚者なら、お手の物だろう","The residents' safety comes first—
-if there's any danger, you're authorized to eliminate the threat.
+白竜に心臓を捧げた覚者なら、お手の物だろう","The residents’ safety comes first—
+if there’s any danger, you’re authorized to eliminate the threat.
 For an Arisen who offered their heart to the White Dragon,
 it should be a simple task.",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,3,Wilson
 0,,"ブリア海岸に、不審者が流れ着いたという通報があった
 どうも見たことのない格好で、武装もしているため
 一部の住民が怖がっているそうでな","We received a report that a suspicious person washed ashore at Breya Coast.
-They're wearing unfamiliar attire and are armed,
+They’re wearing unfamiliar attire and are armed,
 and some of the residents are frightened.",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,4,Wilson
 0,,"手が空いているようなら、確認してきてほしい
 万が一にも無いとは思うが――
 住民に危険が及ぶようなら、排除も任せる","If you have time, I want you to investigate.
-I don't think it will come to that, but—
+I don’t think it will come to that, but—
 if the residents are in danger, you may deal with it as you see fit.",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,5,Wilson
 0,,"なんと――そんなことが
 至急、救護員を派遣させよう","What—something like that happened?
-We'll dispatch medical personnel immediately.",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,6,Wilson
+We’ll dispatch medical personnel immediately.",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,6,Wilson
 0,,"しかし――これは想像以上に大事かもしれんな
 サイクロプスに良く似た、巨大生物の話
 そして、海を知らない謎の女","Still—this may be more serious than we imagined.
 A report of a gigantic creature resembling a cyclops,
-and a mysterious woman who doesn't know the sea.",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,7,Wilson
+and a mysterious woman who doesn’t know the sea.",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,7,Wilson
 0,,"此度の協力、感謝する
 あとの調査は白衛騎士団で引き受けよう
 手間をかけてすまなかったな","Thank you for your cooperation this time.
@@ -197,29 +197,29 @@ then I slipped and fell into a river—at least, I think…",ui\00_message\quest
 0,,"レスタニア、だと？
 レスタニア区なんて、聞いたことがないが――
 それに、こんなでかい川があるところなんて――","Lestania, you say?
-I've never heard of a Lestania region—
+I’ve never heard of a Lestania region—
 and a place with a river this huge, either—",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,13,Erna
 0,,"――待て
 この、足音は、まさか","—Wait.
-Those footsteps… don't tell me—",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,14,Erna
+Those footsteps… don’t tell me—",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,14,Erna
 0,,"――巨人だと！？
 ここはまだ壁の外なのか！？
 わたしはいいから、あんただけでも逃げてくれ
 食われるぞ！","A giant!?
 Is this still outside the walls!?
 Forget about me—run, at least you should escape!
-You'll be eaten!",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,15,Erna
+You’ll be eaten!",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,15,Erna
 0,,"ゴホッ、ゴホッ――
 あ、あんた――無事か？","cough, cough—
 H-hey… are you alright?",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,16,Erna
 0,,"そうか
 それは、良かっ――
 ゲホ、ゴホッ","I see…
-That's good to—
+That’s good to—
 cough, cough",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,17,Erna
 0,,"あぁ
 母さん、ごめん――","Ah…
-Mom, I'm sorry—",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,18,Erna
+Mom, I’m sorry—",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,18,Erna
 0,,ふう――やったか！？,Phew—did we get it!?,ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,19,Erna
 0,,クソ、仲間を呼び寄せやがった！,"Damn it, it called for reinforcements!",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,20,Erna
 0,,う、嘘だろ――！,N-no way…!,ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010008.arc,21,Erna
@@ -227,7 +227,7 @@ Mom, I'm sorry—",ui\00_message\quest\q20010008.gmd,\quest\q20010008.arc,q20010
 さぞ強くて頼もしい覚者なんだろうね？
 そうだ、きっとそうに違いない","Heh, you found this place pretty easily.
 You must be a strong and reliable Arisen, huh?
-Yes, I'm sure you are.",ui\00_message\quest\q20015006.gmd,\quest\q20015006.arc,q20015006.arc,0,Ludovika
+Yes, I’m sure you are.",ui\00_message\quest\q20015006.gmd,\quest\q20015006.arc,q20015006.arc,0,Ludovika
 0,,"そんな頼もしいキミにお願いがあるんだ
 この近くの《潮騒洞窟》って場所に
 危険な魔物が住み着いたらしくてね","I have a favor to ask someone as dependable as you.
@@ -237,16 +237,16 @@ in a place nearby called the Roaring Tide Cave.",ui\00_message\quest\q20015006.g
 ご飯までご馳走に――――
 ――と、とにかく放っておけないと思うだろう？","The nearby residents begged me for help.
 They even offered me meals and all—
-—anyway, you can't just ignore that, right?",ui\00_message\quest\q20015006.gmd,\quest\q20015006.arc,q20015006.arc,2,Ludovika
+—anyway, you can’t just ignore that, right?",ui\00_message\quest\q20015006.gmd,\quest\q20015006.arc,q20015006.arc,2,Ludovika
 0,,"聞いてみると、私では歯が立たない強さらしい
 ね、頼むよ覚者くん！ 
-そのたくましい腕で、軽ーく討伐してくれよ","From what I hear, they're far too strong for me to handle.
+そのたくましい腕で、軽ーく討伐してくれよ","From what I hear, they’re far too strong for me to handle.
 So please, Arisen!
 Use those sturdy arms of yours and take them out—easy as pie.",ui\00_message\quest\q20015006.gmd,\quest\q20015006.arc,q20015006.arc,3,Ludovika
 0,,"おいおい、本当に討伐してきたのかい？
 信じられないよ――キミほどの実力者が、
 なんだってこんな所でフラフラしていたのさ","Hey, hey, did you really go and defeat them?
-I can't believe it—someone with your level of skill,
+I can’t believe it—someone with your level of skill,
 why were you just wandering around a place like this?",ui\00_message\quest\q20015006.gmd,\quest\q20015006.arc,q20015006.arc,4,Ludovika
 0,,"ま、とにかくこれで住民も喜んでくれるはず――
 キミにもお礼をしないとね
@@ -255,23 +255,23 @@ and I ought to thank you as well.
 I hope you like this special rare item I picked out.",ui\00_message\quest\q20015006.gmd,\quest\q20015006.arc,q20015006.arc,5,Ludovika
 0,,"怖気づいたのかい？ ――――まさかね
 ヤツは《潮騒洞窟》にいるそうだよ","Did you get cold feet? ————nah, no way.
-They say it's in the Roaring Tide Cave.",ui\00_message\quest\q20015006.gmd,\quest\q20015006.arc,q20015006.arc,6,Ludovika
+They say it’s in the Roaring Tide Cave.",ui\00_message\quest\q20015006.gmd,\quest\q20015006.arc,q20015006.arc,6,Ludovika
 0,,"私かい？ 私はもちろんここでお宝――
 な、なんでもないよ
-――――ほら、早く行きなよ","Me? I'm obviously staying here to look for treasure—
-n-no, it's nothing.
+――――ほら、早く行きなよ","Me? I’m obviously staying here to look for treasure—
+n-no, it’s nothing.
 ———come on, hurry up and go.",ui\00_message\quest\q20015006.gmd,\quest\q20015006.arc,q20015006.arc,7,Ludovika
 0,,"――あぁ、おまえか
-少し手を貸してくれ","—Ah, it's you.
+少し手を貸してくれ","—Ah, it’s you.
 Lend me a hand for a moment.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,0,Vanessa
 0,,"実は、倉庫を確認したところ
 色々と備蓄が不足していることが分かってな","I checked the warehouse,
-and it turns out we're short on various supplies.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,1,Vanessa
+and it turns out we’re short on various supplies.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,1,Vanessa
 0,,"少々面倒をかけるが
-補充が必要な物資を手に入れて欲しいんだ","It's a bit of a hassle,
-but I need you to procure the supplies we're lacking.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,2,Vanessa
+補充が必要な物資を手に入れて欲しいんだ","It’s a bit of a hassle,
+but I need you to procure the supplies we’re lacking.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,2,Vanessa
 0,,"――あぁ、おまえか
-少し手を貸してくれ","—Ah, it's you.
+少し手を貸してくれ","—Ah, it’s you.
 Lend me a hand for a bit.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,3,Vanessa
 0,,"オークとの戦いで、備蓄していた物資を
 かなり使ってしまってな――
@@ -279,25 +279,25 @@ Lend me a hand for a bit.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.ar
 we used up a large portion of our stockpiled supplies—
 at this rate, maintaining the fort will be difficult.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,4,Vanessa
 0,,"少々面倒をかけるが
-幾つかの物資を調達してきて欲しい","It's a bit troublesome,
+幾つかの物資を調達してきて欲しい","It’s a bit troublesome,
 but I need you to acquire several supplies.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,5,Vanessa
 0,,"――あぁ、おまえか
-丁度良いところに来てくれた","—Ah, it's you.
-You've come at just the right time.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,6,Vanessa
+丁度良いところに来てくれた","—Ah, it’s you.
+You’ve come at just the right time.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,6,Vanessa
 0,,"北のオークどもの動きが不穏だという報せが入ってな
-急ぎ防衛のため準備を進めているのだが","We've received reports that the orcs in the north are making suspicious moves,
-and we're rushing to prepare our defenses.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,7,Vanessa
+急ぎ防衛のため準備を進めているのだが","We’ve received reports that the orcs in the north are making suspicious moves,
+and we’re rushing to prepare our defenses.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,7,Vanessa
 0,,"倉庫を調べたところ
 物資が色々と不足していたことが分かった
 オークどもと戦う以前の問題だ――","After checking the warehouse,
-we found that we're short on various supplies.
+we found that we’re short on various supplies.
 This is a problem even before we can fight the orcs—",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,8,Vanessa
 0,,"そこで頼みたい
-何とかこれらの物資を手に入れてきて欲しい","So here's what I'm asking.
+何とかこれらの物資を手に入れてきて欲しい","So here’s what I’m asking.
 I want you to somehow acquire these supplies.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,9,Vanessa
 0,,"見事な手際だな――
 おまえになら、これも頼めそうだ","Excellent work—
-if it's you, I think I can ask this of you as well.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,10,Vanessa
+if it’s you, I think I can ask this of you as well.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,10,Vanessa
 0,,"ご苦労だった
 助かるよ――","Good work.
 That helps a lot—",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,11,Vanessa
@@ -308,55 +308,55 @@ That helps a lot—",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q200
 Ah, that really helps.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,14,Vanessa
 0,,"これで何とか不足していた物資の
 補充ができた
-礼を言う――","With this, we've managed to replenish
+礼を言う――","With this, we’ve managed to replenish
 the supplies we were lacking.
 You have my thanks—",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,15,Vanessa
 0,,"これからも立ち寄った時は声をかけてくれ
 仕事ならいっぱいあるぞ","If you stop by again, let me know.
-There's plenty of work to be done.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,16,Vanessa
+There’s plenty of work to be done.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,16,Vanessa
 0,,"よくやってくれた
 さすがだな――
 他の連中にも見習わせたいぐらいだ","You did well.
 As expected of you—
-I'd like the others to learn from your example.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,17,Vanessa
+I’d like the others to learn from your example.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,17,Vanessa
 0,,"いっそ、このまま砦にとどまり
 私のとなりで力を発揮してくれてもいいのだが――
 まあ、レオがうるさいか","Honestly, you could just stay here at the fort
 and put your strength to use at my side—but
 Leo would probably complain.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,18,Vanessa
 0,,"おまえならいつでも歓迎する
-また顔を見せてくれ","You'd be welcome here anytime.
+また顔を見せてくれ","You’d be welcome here anytime.
 Come by again.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,19,Vanessa
 0,,"てこずっているのか？
 不慣れは理由にならないぞ？","Are you having trouble?
-Inexperience isn't an excuse, you know.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,20,Vanessa
+Inexperience isn’t an excuse, you know.",ui\00_message\quest\q20020000.gmd,\quest\q20020000.arc,q20020000.arc,20,Vanessa
 0,,"大変なんだよ
 ヴァネッサ様への報告書が集まらない！
-あと１枚なんだけど――","It's a mess.
-We can't get all the reports for Lady Vanessa together!
-We're just missing one more, but—",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,0,Arisen Corps Regimental Soldier
+あと１枚なんだけど――","It’s a mess.
+We can’t get all the reports for Lady Vanessa together!
+We’re just missing one more, but—",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,0,Arisen Corps Regimental Soldier
 0,,"誰かがまだ提出していないんだよな
-なあ、あんた、回収頼むよ","Someone still hasn't turned theirs in.
+なあ、あんた、回収頼むよ","Someone still hasn’t turned theirs in.
 Hey, can you go collect it for me?",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,1,Arisen Corps Regimental Soldier
 0,,"大変なんだよ
 ヴァネッサ様への報告書が集まらない！
-あと１枚なんだけど――","It's a mess.
-We can't get all the reports for Lady Vanessa together!
-We're just missing one more, but—",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,2,Arisen Corps Regimental Soldier
+あと１枚なんだけど――","It’s a mess.
+We can’t get all the reports for Lady Vanessa together!
+We’re just missing one more, but—",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,2,Arisen Corps Regimental Soldier
 0,,"誰かがまだ提出していないんだよな
-なあ、あんた、回収頼むよ","Someone still hasn't turned theirs in.
+なあ、あんた、回収頼むよ","Someone still hasn’t turned theirs in.
 Hey, can you go collect it for me?",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,3,Arisen Corps Regimental Soldier
 0,,"一応言っておくけど
 魔物がうろついているから気をつけてな","Just so you know,
 there are monsters roaming around, so be careful.",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,4,Arisen Corps Regimental Soldier
 0,,"大変なんだよ
 ヴァネッサ様への報告書が集まらない！
-あと１枚なんだけど――","It's a real problem.
-We can't get all the reports for Lady Vanessa together!
-We're just missing one more, but—",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,5,Arisen Corps Regimental Soldier
+あと１枚なんだけど――","It’s a real problem.
+We can’t get all the reports for Lady Vanessa together!
+We’re just missing one more, but—",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,5,Arisen Corps Regimental Soldier
 0,,"誰かがまだ提出していないんだよな
-なあ、あんた、回収頼むよ","Someone still hasn't turned theirs in.
-Hey, I'm counting on you to collect it.",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,6,Arisen Corps Regimental Soldier
+なあ、あんた、回収頼むよ","Someone still hasn’t turned theirs in.
+Hey, I’m counting on you to collect it.",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,6,Arisen Corps Regimental Soldier
 0,,"知っていると思うけど
 このあたりは魔物がけっこう強いから
 気をつけてな","You probably already know this,
@@ -369,10 +369,10 @@ Oh—are you here about the report!?",ui\00_message\quest\q20020001.gmd,\quest\q
 出していないのは
 自分だけでありますか！？","Really!?
 Am I the only one
-who hasn't submitted it!?",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,9,Arisen Corps Regimental Soldier
+who hasn’t submitted it!?",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,9,Arisen Corps Regimental Soldier
 0,,"お願いです、自分、負傷していまして
-報告書を持参できないのであります！","Please, I'm injured,
-so I can't bring the report myself!",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,10,Arisen Corps Regimental Soldier
+報告書を持参できないのであります！","Please, I’m injured,
+so I can’t bring the report myself!",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,10,Arisen Corps Regimental Soldier
 0,,"これが自分の報告書です
 担当者に渡して頂ければ幸いであります！","This is my report.
 I would be grateful if you could deliver it to the person in charge!",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,11,Arisen Corps Regimental Soldier
@@ -383,9 +383,9 @@ Thank you—yes, thank you.",ui\00_message\quest\q20020001.gmd,\quest\q20020001.
 提出時間が過ぎていてさ――
 きっと、無茶苦茶怒られるんだ――","And, uh—this is hard to say, but
 the submission deadline has already passed—
-I'm sure I'm going to get chewed out—",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,13,Arisen Corps Regimental Soldier
+I’m sure I’m going to get chewed out—",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,13,Arisen Corps Regimental Soldier
 0,,"ここまで来たら、ついでだよな？
-報告書をヴァネッサ様に届けてくれ！","Since you've come this far, might as well, right?
+報告書をヴァネッサ様に届けてくれ！","Since you’ve come this far, might as well, right?
 Please deliver the reports to Lady Vanessa!",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,14,Arisen Corps Regimental Soldier
 0,,"ああ、報告書か――
 ん？　なぜおまえが――
@@ -399,7 +399,7 @@ Trying to avoid reprimand is utterly laughable—
 such conduct is unbecoming of a guard!",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,16,Vanessa
 0,,"委細、承知した
 あとは自分で対処しておく","I understand the situation in detail.
-I'll handle the rest myself.",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,17,Vanessa
+I’ll handle the rest myself.",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,17,Vanessa
 0,,"今回は迷惑をかけたな――
 神殿の皆によろしく伝えてくれ
 ご苦労だった","We caused you trouble this time—
@@ -454,7 +454,7 @@ we would have no excuse before the White Dragon and Leo.",ui\00_message\quest\q2
 Be careful on your way back to the temple.",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,29,Vanessa
 0,,"たのむ、急いでくれ！
 報告書があと１枚！","Please, hurry!
-We're missing just one more report!",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,30,Arisen Corps Regimental Soldier
+We’re missing just one more report!",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,30,Arisen Corps Regimental Soldier
 0,,"自分が言うのも変ですが
 急いだ方がいいと思うのであります！","It may be strange for me to say this,
 but I believe you should hurry!",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,31,Arisen Corps Regimental Soldier
@@ -462,7 +462,7 @@ but I believe you should hurry!",ui\00_message\quest\q20020001.gmd,\quest\q20020
 なるべく早くたのむよ","Lady Vanessa is waiting.
 Please get there as quickly as you can.",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,32,Arisen Corps Regimental Soldier
 0,,"い、今は自分に構わずに
-敵に集中するであります！","D-don't worry about me right now—
+敵に集中するであります！","D-don’t worry about me right now—
 focus on the enemy!",ui\00_message\quest\q20020001.gmd,\quest\q20020001.arc,q20020001.arc,33,Arisen Corps Regimental Soldier
 0,,おう、よくきたな！,"Hey, you made it!",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,0,Gurdolin
 0,,"ここの魔物は強力でな
@@ -471,7 +471,7 @@ so I come by from time to time to test my skills.",ui\00_message\quest\q20020002
 0,,"ちょうどいい
 お前も挑んでみろ","Perfect timing.
 You should give it a try too.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,2,Gurdolin
-0,,どれだけ腕を上げたか見せてもらおうか,Let's see how much you've improved.,ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,3,Gurdolin
+0,,どれだけ腕を上げたか見せてもらおうか,Let’s see how much you’ve improved.,ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,3,Gurdolin
 0,,おう、よくきたな！,"Hey, you made it!",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,4,Gurdolin
 0,,"ここの魔物は強力でな
 腕試しも兼ねて何度か足を運んでいる","The monsters here are powerful,
@@ -481,30 +481,30 @@ so I come here several times as a test of my skills.",ui\00_message\quest\q20020
 You should challenge them too.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,6,Gurdolin
 0,,"どれだけ腕を上げたか見せてもらおうか
 なかなか歯ごたえある奴も多いぜ
-へばるなよ","Let me see how much you've improved.
+へばるなよ","Let me see how much you’ve improved.
 There are plenty of tough ones here.
-Don't wear yourself out.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,7,Gurdolin
+Don’t wear yourself out.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,7,Gurdolin
 0,,おう、よくきたな！,"Hey, you made it!",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,8,Gurdolin
 0,,"ここの魔物は強力でな
 腕試しも兼ねて何度か足を運んでいる","The monsters here are powerful,
-so I've been coming here repeatedly to test my skills.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,9,Gurdolin
+so I’ve been coming here repeatedly to test my skills.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,9,Gurdolin
 0,,"ちょうどいい
 お前も挑んでみろ","Perfect timing.
 You should challenge them too.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,10,Gurdolin
 0,,"どれだけ腕を上げたか見せてもらおうか
 中には俺でも手こずる奴がいるがよ
-へへ、お手並み拝見といこうか","Let me see how much you've improved.
+へへ、お手並み拝見といこうか","Let me see how much you’ve improved.
 Some of them even give me trouble.
-Heh, let's see what you've got.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,11,Gurdolin
-0,,ほう、やるようになったな,"Hoh, you've gotten pretty good.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,12,Gurdolin
+Heh, let’s see what you’ve got.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,11,Gurdolin
+0,,ほう、やるようになったな,"Hoh, you’ve gotten pretty good.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,12,Gurdolin
 0,,"だが、覚者の戦いに終わりはない
-さらに腕を磨き続ける事だ","But an Arisen's battle never truly ends.
+さらに腕を磨き続ける事だ","But an Arisen’s battle never truly ends.
 You must keep honing your skills.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,13,Gurdolin
 0,,この俺のようにな,Become like me.,ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,14,Gurdolin
-0,,ほう、思ったよりやるじゃねぇか,"Hoh, you're better than I expected.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,15,Gurdolin
+0,,ほう、思ったよりやるじゃねぇか,"Hoh, you’re better than I expected.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,15,Gurdolin
 0,,"だが、覚者の戦いに終わりはない
 さらに腕を磨き続ける事だ
-他にも強い魔物はうようよいるんだからな","But an Arisen's battle never ends.
+他にも強い魔物はうようよいるんだからな","But an Arisen’s battle never ends.
 You must continue to sharpen your skills—
 there are plenty more powerful monsters out there.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,16,Gurdolin
 0,,"じゃあ、またな
@@ -514,20 +514,20 @@ Train harder before we meet again.",ui\00_message\quest\q20020002.gmd,\quest\q20
 こりゃ思ってた以上だ
 俺もうかうかしてられねぇな","Ha—you're pretty good!
 This is more than I expected.
-I can't afford to slack off anymore.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,18,Gurdolin
+I can’t afford to slack off anymore.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,18,Gurdolin
 0,,"だが、覚者の戦いに終わりはない
 さらに腕を磨き続ける事だ
 覚者になっちまった以上
-俺達は魔物を倒し続けるしかねぇ","But an Arisen's battle never ends.
+俺達は魔物を倒し続けるしかねぇ","But an Arisen’s battle never ends.
 You must keep honing your skills.
-Once you've become an Arisen,
+Once you’ve become an Arisen,
 all we can do is keep slaying monsters.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,19,Gurdolin
 0,,"どんな無茶苦茶な奴が現れようとだ
 じゃあ、またな","No matter how insane an enemy shows up.
 See you around.",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,20,Gurdolin
 0,,"あぁ？　どうした
-まだお前の腕じゃ歯が立たないか？","Huh? What's wrong?
-Still can't handle it with your current skills?",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,21,Gurdolin
+まだお前の腕じゃ歯が立たないか？","Huh? What’s wrong?
+Still can’t handle it with your current skills?",ui\00_message\quest\q20020002.gmd,\quest\q20020002.arc,q20020002.arc,21,Gurdolin
 0,,"おい、ちょっとちょっと――
 耳澄まして聞いてみ？","Hey, hold on a second—
 listen closely.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,0,Arisen Corps Regimental Soldier
@@ -536,11 +536,11 @@ listen closely.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q2002000
 十中八九、魔物だよな？
 もしくは野盗の類か","You hear it coming from underground, right?
 Some kind of rustling sound—
-nine times out of ten, it's a monster, yeah?
+nine times out of ten, it’s a monster, yeah?
 Or maybe a bandit.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,1,Arisen Corps Regimental Soldier
 0,,"で、おれはひとっ走り応援を呼んでくるから
 あんたは中を調べといてくれ
-いいな？　","I'll run and get some backup,
+いいな？　","I’ll run and get some backup,
 so you check things out inside.
 Got it?",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,2,Arisen Corps Regimental Soldier
 0,,"おい、ちょっとちょっと――
@@ -551,16 +551,16 @@ listen carefully.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020
 十中八九、魔物だよな？
 もしくは野盗の類か","You can hear it from underground, right?
 That rustling sound—
-it's probably a monster,
+it’s probably a monster,
 or maybe some kind of bandit.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,4,Arisen Corps Regimental Soldier
 0,,"で、おれはひとっ走り応援を呼んでくるから
-あんたは中を調べといてくれ","I'll go fetch reinforcements,
+あんたは中を調べといてくれ","I’ll go fetch reinforcements,
 so you take a look inside.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,5,Arisen Corps Regimental Soldier
 0,,"おれのカンじゃ、たいして強くないだろうが
 あんたには荷が重いってこともある
-まあ、そのあたりは自己責任でな！","My gut says it's probably not that strong,
+まあ、そのあたりは自己責任でな！","My gut says it’s probably not that strong,
 but it still might be too much for you.
-Well, that's on you to judge!",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,6,Arisen Corps Regimental Soldier
+Well, that’s on you to judge!",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,6,Arisen Corps Regimental Soldier
 0,,"おい、ちょっとちょっと――
 耳澄まして聞いてみ？","Hey, hold on—
 listen closely.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,7,Arisen Corps Regimental Soldier
@@ -572,45 +572,45 @@ That rustling sound—
 almost certainly a monster,
 or maybe bandits.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,8,Arisen Corps Regimental Soldier
 0,,"で、おれはひとっ走り応援を呼んでくるから
-あんたは中を調べといてくれ","I'll dash off and call for backup,
+あんたは中を調べといてくれ","I’ll dash off and call for backup,
 so you investigate inside.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,9,Arisen Corps Regimental Soldier
 0,,"いやいやいや――無茶はするなよ
 俺のカンじゃ、すげえ強いのがいるはずだ
 唸り声や、なんかいやーな音も聞こえたし――
-行くなら覚悟決めてかかってくれよな？","No, no, no—don't do anything reckless.
-My instincts say there's something seriously strong down there.
+行くなら覚悟決めてかかってくれよな？","No, no, no—don’t do anything reckless.
+My instincts say there’s something seriously strong down there.
 I heard growling, and some really nasty sounds—
-if you're going in, be prepared.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,10,Arisen Corps Regimental Soldier
+if you’re going in, be prepared.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,10,Arisen Corps Regimental Soldier
 0,,"え？　倒しちまったのか？
 つまり、その程度の奴ってことか――
 チッ――自分でやっときゃ良かったな――","Huh? You beat it already?
-So that's all it amounted to—
-tch, should've handled it myself.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,11,Arisen Corps Regimental Soldier
+So that’s all it amounted to—
+tch, should’ve handled it myself.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,11,Arisen Corps Regimental Soldier
 0,,"うそ！？　倒しちまったのか？
 な、なんだよ、あんたなかなかやるんだな――
 あはは――自分で行かなくて良かったぜ","No way!? You really beat it?
-D-damn, you're pretty capable—
-haha, glad I didn't go myself.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,12,Arisen Corps Regimental Soldier
+D-damn, you’re pretty capable—
+haha, glad I didn’t go myself.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,12,Arisen Corps Regimental Soldier
 0,,"え！？　そんな強いのがいたのかよ！
 それなのによく無事で――
 ええっ！？　しかも倒しただって！？","What!? There was something that strong!?
 And you made it back alive—
 what!? You even defeated it!?",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,13,Arisen Corps Regimental Soldier
-0,,すげえよ――あんた、すげえよ！,"That's incredible—
-you're amazing!",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,14,Arisen Corps Regimental Soldier
+0,,すげえよ――あんた、すげえよ！,"That’s incredible—
+you’re amazing!",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,14,Arisen Corps Regimental Soldier
 0,,"ん？　どうして？
 怖じ気づいたのか？
 まあ、無理する必要はないけどな","Hm? Why is that?
 Did you get cold feet?
-Well, there's no need to force yourself.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,15,Arisen Corps Regimental Soldier
+Well, there’s no need to force yourself.",ui\00_message\quest\q20020003.gmd,\quest\q20020003.arc,q20020003.arc,15,Arisen Corps Regimental Soldier
 0,,ああ、丁度良かった,"Ah, perfect timing.",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,0,Lise
 0,,"とある遺跡を探索していたら
 大事な物を落としてしまって","While I was exploring a certain ruin,
 I ended up losing something important.",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,1,Lise
 0,,"あれがないと困ったことになっちゃうから――
 一緒に探してくれるでしょ？
-困った覚者はお互い助け合わなくちゃね","I'll be in real trouble without it—
-you'll help me look for it, right?
+困った覚者はお互い助け合わなくちゃね","I’ll be in real trouble without it—
+you’ll help me look for it, right?
 Arisen in trouble have to help each other.",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,2,Lise
 0,,ああ、丁度良かった,"Ah, perfect timing.",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,3,Lise
 0,,"とある遺跡を探索していたら
@@ -618,30 +618,30 @@ Arisen in trouble have to help each other.",ui\00_message\quest\q20020004.gmd,\q
 I ended up losing something important.",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,4,Lise
 0,,"あれがないと困ったことになっちゃうから――
 一緒に探してくれるでしょ？
-困った覚者はお互い助け合わなくちゃね","I'll be in real trouble without it—
-you'll help me look for it, right?
+困った覚者はお互い助け合わなくちゃね","I’ll be in real trouble without it—
+you’ll help me look for it, right?
 Arisen in trouble have to help each other.",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,5,Lise
 0,,"結構魔物がいるみたい
 準備はしっかり万全に！","It looks like there are quite a few monsters.
-Make sure you're fully prepared!",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,6,Lise
+Make sure you’re fully prepared!",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,6,Lise
 0,,ああ、丁度良かった,"Ah, perfect timing.",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,7,Lise
 0,,"とある遺跡を探索していたら
 大事な物を落としてしまったの","While I was exploring a certain ruin,
 I lost something important.",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,8,Lise
 0,,"あれがないと困ったことになっちゃうから――
 一緒に探してくれるでしょ？
-困った覚者はお互い助け合わなくちゃね","I'll be in real trouble without it—
-you'll help me search for it, right?
+困った覚者はお互い助け合わなくちゃね","I’ll be in real trouble without it—
+you’ll help me search for it, right?
 Arisen in trouble should help each other.",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,9,Lise
 0,,"強い魔物がウヨウヨいるから
 手に余るようなら断ってね","There are strong monsters swarming around,
-so if it's too much for you, don't be afraid to refuse.",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,10,Lise
+so if it’s too much for you, don’t be afraid to refuse.",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,10,Lise
 0,,"おつかれさま！
 そう、これこれ――ありがとう","Good work!
 Yes, this—this is it. Thank you!",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,11,Lise
 0,,"え？　魔物が寄ってきて大変？
 気のせいじゃないかな――","Huh? Monsters kept swarming and it was rough?
-Isn't that just your imagination?",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,12,Lise
+Isn’t that just your imagination?",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,12,Lise
 0,,"おつかれさま！
 そう、これこれ――ありがとう","Good work!
 Yes, this—this is it. Thank you!",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,13,Lise
@@ -656,23 +656,23 @@ Help me out again sometime!",ui\00_message\quest\q20020004.gmd,\quest\q20020004.
 Yes, this—this is it. Thank you!",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,16,Lise
 0,,"え？　魔物が寄ってきて大変？
 気のせいじゃないかなあ――","Huh? Monsters kept gathering and it was hard?
-I think you're just imagining it…",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,17,Lise
+I think you’re just imagining it…",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,17,Lise
 0,,"とにかく、ごくろうさま
 心から感謝してるわ
 本当に助かった――ありがとう！","Anyway, good work.
-I'm truly grateful from the bottom of my heart.
+I’m truly grateful from the bottom of my heart.
 You really helped me—thank you!",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,18,Lise
 0,,"なに？
 もちろん、わたしも今から探しに行くところ
 さあ、先に行って？","What?
-Of course I'm heading out to search too.
+Of course I’m heading out to search too.
 Go on ahead, will you?",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,19,Lise
 0,,"どうかリズ様のため
-よろしくお願いいたします","Please, for Lady Lise's sake,
+よろしくお願いいたします","Please, for Lady Lise’s sake,
 we humbly ask for your help.",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,20,Plum
 0,,"ありがとうございます
 ご無事で何よりでした","Thank you very much.
-I'm glad to see you returned safely.",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,21,Plum
+I’m glad to see you returned safely.",ui\00_message\quest\q20020004.gmd,\quest\q20020004.arc,q20020004.arc,21,Plum
 0,,"この遺跡のことは聞いたことがあるかな？
 かつては白竜様が翼を休める
 休息の神殿だったというが――はぁ","Have you heard of this ruin?
@@ -680,12 +680,12 @@ They say it was once a resting temple
 where the White Dragon would rest its wings—sigh.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,0,Arisen Corps Regimental Soldier
 0,,"荒れた今では魔物にとって良い環境らしくてな
 何度退治しても追い払っても
-また戻ってきて住みつきやがる","Now that it's fallen into ruin, it seems to be a perfect environment for monsters.
+また戻ってきて住みつきやがる","Now that it’s fallen into ruin, it seems to be a perfect environment for monsters.
 No matter how many times we defeat or drive them off,
 they just come back and settle in again.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,1,Arisen Corps Regimental Soldier
 0,,"そんなわけで
 討伐隊志願者もほとんどいない状態だ
-どうだろう――あんたに頼めないか？","That's why
+どうだろう――あんたに頼めないか？","That’s why
 there are hardly any volunteers for subjugation squads.
 What do you say—could I ask you to handle it?",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,2,Arisen Corps Regimental Soldier
 0,,"この遺跡のことは聞いたことがあるかな？
@@ -695,7 +695,7 @@ They say it was once a resting temple
 where the White Dragon would rest its wings—sigh.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,3,Arisen Corps Regimental Soldier
 0,,"荒れた今では魔物にとって良い環境らしくてな
 何度退治しても追い払っても
-また戻ってきて住みつきやがる","Now that it's fallen into ruin, it seems to be a good habitat for monsters.
+また戻ってきて住みつきやがる","Now that it’s fallen into ruin, it seems to be a good habitat for monsters.
 No matter how often we defeat or drive them away,
 they just return and make themselves at home.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,4,Arisen Corps Regimental Soldier
 0,,"そんなわけで
@@ -704,8 +704,8 @@ they just return and make themselves at home.",ui\00_message\quest\q20020005.gmd
 there are barely any volunteers for subjugation duty.
 What do you think—could I rely on you?",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,5,Arisen Corps Regimental Soldier
 0,,"もちろん、楽な仕事じゃないから
-相応の報酬を用意するよ","Of course, it won't be an easy job,
-so I'll prepare a fitting reward.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,6,Arisen Corps Regimental Soldier
+相応の報酬を用意するよ","Of course, it won’t be an easy job,
+so I’ll prepare a fitting reward.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,6,Arisen Corps Regimental Soldier
 0,,"この遺跡のことは聞いたことがあるかな？
 かつては白竜様が翼を休める
 休息の神殿だったというが――はぁ","Have you heard of this ruin?
@@ -713,51 +713,51 @@ They say it used to be a resting temple
 where the White Dragon rested its wings—sigh.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,7,Arisen Corps Regimental Soldier
 0,,"荒れた今では魔物にとって良い環境らしくてな
 何度退治しても追い払っても
-また戻ってきて住みつきやがる","Now it's become a favorable environment for monsters.
+また戻ってきて住みつきやがる","Now it’s become a favorable environment for monsters.
 No matter how many times we defeat or chase them off,
 they always come back and settle in again.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,8,Arisen Corps Regimental Soldier
 0,,"そんなわけで
 討伐隊志願者もほとんどいない状態だ
-どうだろう――あんたに頼めないか？","That's why
+どうだろう――あんたに頼めないか？","That’s why
 there are almost no volunteers for the subjugation squads.
 What do you say—could I ask you?",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,9,Arisen Corps Regimental Soldier
 0,,"はっきり言って、魔物はかなり強い
 どう猛、凶暴、凶悪で数も多い
 それでも良ければ――頼むよ","To be blunt, the monsters are very strong.
-They're savage, violent, vicious, and numerous.
-If you're still willing—please help us.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,10,Arisen Corps Regimental Soldier
+They’re savage, violent, vicious, and numerous.
+If you’re still willing—please help us.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,10,Arisen Corps Regimental Soldier
 0,,"ありがとう――ご苦労だったな
 また魔物が増えたらよろしく頼むよ","Thank you—good work.
-If the monsters increase again, I'll be counting on you.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,11,Arisen Corps Regimental Soldier
+If the monsters increase again, I’ll be counting on you.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,11,Arisen Corps Regimental Soldier
 0,,"しかし、このイタチごっこは
 いつまで繰り返されるんだろうな――","Still, I wonder
 how long this endless back-and-forth will continue—",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,12,Arisen Corps Regimental Soldier
 0,,"ありがとう――ご苦労だったな
 また魔物が増えたらよろしく頼むよ","Thank you—good work.
-If more monsters appear, I'll rely on you again.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,13,Arisen Corps Regimental Soldier
+If more monsters appear, I’ll rely on you again.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,13,Arisen Corps Regimental Soldier
 0,,"しかし、このイタチごっこは
 いつまで繰り返されるんだろうな――","But really,
 how long will this cat-and-mouse game go on—",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,14,Arisen Corps Regimental Soldier
 0,,"いやいや、せっかく戦ってくれたのに
 愚痴を聞かせちゃ申し訳ない
 すまなかった","No, no—you fought hard for us,
-and I shouldn't burden you with my complaints.
+and I shouldn’t burden you with my complaints.
 My apologies.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,15,Arisen Corps Regimental Soldier
 0,,"なんと――倒してくれたのか！？
 あんた、凄い腕前だな！","What—did you defeat them!?
-You've got incredible skill!",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,16,Arisen Corps Regimental Soldier
+You’ve got incredible skill!",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,16,Arisen Corps Regimental Soldier
 0,,"奴ら、またここに集まるだろうが
-あんたがいてくれれば安心だ","They'll probably gather here again,
-but as long as you're around, I feel at ease.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,17,Arisen Corps Regimental Soldier
-0,,その時はよろしく頼むよ！,"When that happens, I'll be counting on you!",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,18,Arisen Corps Regimental Soldier
+あんたがいてくれれば安心だ","They’ll probably gather here again,
+but as long as you’re around, I feel at ease.",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,17,Arisen Corps Regimental Soldier
+0,,その時はよろしく頼むよ！,"When that happens, I’ll be counting on you!",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,18,Arisen Corps Regimental Soldier
 0,,"無理はして欲しくないが――
-引き受けたからには――わかるだろ？","I don't want you to push yourself too hard, but—
+引き受けたからには――わかるだろ？","I don’t want you to push yourself too hard, but—
 since you accepted the job—you understand, right?",ui\00_message\quest\q20020005.gmd,\quest\q20020005.arc,q20020005.arc,19,Arisen Corps Regimental Soldier
 0,,"いいところに来てくれた――
 手を貸して欲しい","You came at the perfect time—
 I need your help.",ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,0,Vanessa
 0,,"物見の報告によると、砦北部の各地に
-多数、魔物の群れが現れたらしい","According to the scouts' reports,
+多数、魔物の群れが現れたらしい","According to the scouts’ reports,
 large numbers of monster groups have appeared
 in various locations north of the fort.",ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,1,Vanessa
 0,,"奴らが大挙して砦に向かってくると
@@ -787,11 +787,11 @@ and defeat them individually.",ui\00_message\quest\q20020006.gmd,\quest\q2002000
 手を貸して欲しい","You arrived at a good time—
 I need your help.",ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,8,Vanessa
 0,,"物見の報告によると、砦北部の各地に
-多数の、魔物の群れが現れたらしい","According to the scouts' reports,
+多数の、魔物の群れが現れたらしい","According to the scouts’ reports,
 numerous monster groups have appeared
 in various areas north of the fort.",ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,9,Vanessa
 0,,"すでに幾人かの精鋭を送り込んではみたが
-残念ながら被害が増すばかりだ","We've already sent in several elite units,
+残念ながら被害が増すばかりだ","We’ve already sent in several elite units,
 but unfortunately the damage has only continued to grow.",ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,10,Vanessa
 0,,"このままではこの砦は打ち破られ
 神殿すら蹂躙されかねない
@@ -803,7 +803,7 @@ we have no choice but to strike first and defeat them one by one!",ui\00_message
 0,,頼む、急いで向かってくれ！,"Please, hurry and head out!",ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,12,Vanessa
 0,,無事だったか！,You made it back safely!,ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,13,Vanessa
 0,,"報告は聞いている
-さすがレオに見込まれただけはあるな","I've heard the report.
+さすがレオに見込まれただけはあるな","I’ve heard the report.
 As expected of someone Leo placed his faith in.",ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,14,Vanessa
 0,,ありがとう――助かった,Thank you—this was a great help.,ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,15,Vanessa
 0,,無事だったか！,You made it back safely!,ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,16,Vanessa
@@ -814,10 +814,10 @@ but this time I thought the odds were against you.
 It seems I underestimated you.",ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,17,Vanessa
 0,,"すまなかった――そして、ありがとう
 おまえを見つけたレオがうらやましいよ","My apologies—and thank you.
-I'm envious of Leo for having found you.",ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,18,Vanessa
+I’m envious of Leo for having found you.",ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,18,Vanessa
 0,,良くぞ生きて戻ってきてくれた――,You did well to survive and return—,ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,19,Vanessa
 0,,"報告は聞いている――
-砦と神殿の窮地を救ってくれて感謝する","I've heard the report—
+砦と神殿の窮地を救ってくれて感謝する","I’ve heard the report—
 thank you for saving the fort and the temple in their hour of need.",ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,20,Vanessa
 0,,"おまえの実力は知っているが
 今回ばかりは分が悪いと思っていた
@@ -828,16 +828,16 @@ It seems I misjudged you.",ui\00_message\quest\q20020006.gmd,\quest\q20020006.ar
 希望を持つことができるだろう
 これからもよろしくたのむぞ","Seeing your hard-fought efforts,
 anyone would be able to hold hope in their heart.
-I'll be counting on you from here on as well.",ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,22,Vanessa
+I’ll be counting on you from here on as well.",ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,22,Vanessa
 0,,どの群れからでもいい、確実に殲滅してくれ,"Start with whichever group you like—
-just make sure they're completely wiped out.",ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,23,Vanessa
+just make sure they’re completely wiped out.",ui\00_message\quest\q20020006.gmd,\quest\q20020006.arc,q20020006.arc,23,Vanessa
 0,,"ダウ渓谷までの山道に魔物が増えている
 いざという時に備え、数を減らしておきたい","Monsters have been increasing along the mountain road to Dowe Valley.
 We want to thin their numbers in case of an emergency.",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,0,Arisen Corps Regimental Soldier
 0,,"さすがにちょっと目につくようになったもんでな
-まだそれほど深刻ではないが","They've started to become too noticeable.
-It's not critical yet, but—",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,1,Arisen Corps Regimental Soldier
-0,,というわけで、頼んだぞ,So I'm counting on you.,ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,2,Arisen Corps Regimental Soldier
+まだそれほど深刻ではないが","They’ve started to become too noticeable.
+It’s not critical yet, but—",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,1,Arisen Corps Regimental Soldier
+0,,というわけで、頼んだぞ,So I’m counting on you.,ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,2,Arisen Corps Regimental Soldier
 0,,"ダウ渓谷までの山道に魔物が増えている
 いざという時に備え
 今のうちになんとかしておきたい","Monsters are increasing along the mountain road to Dowe Valley.
@@ -845,8 +845,8 @@ To prepare for emergencies,
 we want to deal with it while we still can.",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,3,Arisen Corps Regimental Soldier
 0,,"最近、やや面倒なのが居付いてな
 放置しておくわけにもいかん","Recently, some particularly troublesome ones have settled in.
-We can't afford to leave them alone.",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,4,Arisen Corps Regimental Soldier
-0,,というわけで、頼んだぞ,So I'll leave it to you.,ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,5,Arisen Corps Regimental Soldier
+We can’t afford to leave them alone.",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,4,Arisen Corps Regimental Soldier
+0,,というわけで、頼んだぞ,So I’ll leave it to you.,ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,5,Arisen Corps Regimental Soldier
 0,,"ダウ渓谷までの山道に魔物が増えている
 いざという時に備え
 早いうちに手を打っておきたい","Monsters are increasing along the mountain road to Dowe Valley.
@@ -856,20 +856,20 @@ we want to take action early.",ui\00_message\quest\q20020007.gmd,\quest\q2002000
 居座ってしまってな
 輸送や移動の妨げになるのは間違いない","To make matters worse, some very powerful monsters
 have dug in there.
-They'll definitely interfere with transport and travel.",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,7,Arisen Corps Regimental Soldier
-0,,というわけで、頼んだぞ,So I'm counting on you.,ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,8,Arisen Corps Regimental Soldier
-0,,よし、ついでに西側の奴らも頼む,"Alright—while you're at it, take care of the ones on the west side too.",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,9,Arisen Corps Regimental Soldier
+They’ll definitely interfere with transport and travel.",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,7,Arisen Corps Regimental Soldier
+0,,というわけで、頼んだぞ,So I’m counting on you.,ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,8,Arisen Corps Regimental Soldier
+0,,よし、ついでに西側の奴らも頼む,"Alright—while you’re at it, take care of the ones on the west side too.",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,9,Arisen Corps Regimental Soldier
 0,,お疲れ様、思ったより早かったな,Good work—you were faster than I expected.,ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,10,Arisen Corps Regimental Soldier
 0,,"奴らは幾ら駆除しても湧き出てくる
 仕事は幾らでもあるから
 また気が向いたら来てくれ","No matter how many we eliminate, they just keep coming.
-There's always work to be done,
+There’s always work to be done,
 so come back again if you feel like it.",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,11,Arisen Corps Regimental Soldier
 0,,お疲れ様、思ったより早かったな,Good work—you were faster than I expected.,ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,12,Arisen Corps Regimental Soldier
 0,,"しばらく大丈夫だとは思うが
 仕事は幾らでもあるから
-また気が向いたら来てくれ","I think we'll be fine for a while,
-but there's always work to be done,
+また気が向いたら来てくれ","I think we’ll be fine for a while,
+but there’s always work to be done,
 so come back again if you feel like it.",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,13,Arisen Corps Regimental Soldier
 0,,お疲れ様、思ったより早かったな,Good work—you were faster than I expected.,ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,14,Arisen Corps Regimental Soldier
 0,,"それにしても、おかげで心配の種が
@@ -878,33 +878,33 @@ so come back again if you feel like it.",ui\00_message\quest\q20020007.gmd,\ques
 one of our worries is gone.
 Thank you for taking care of that!",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,15,Arisen Corps Regimental Soldier
 0,,"仕事は幾らでもあるから
-また気が向いたら来てくれ","There's always work to be done,
+また気が向いたら来てくれ","There’s always work to be done,
 so come back again if you feel like it.",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,16,Arisen Corps Regimental Soldier
 0,,"おいおい、任せたからには頼むぞ
 お前ができないなら、砦に応援を
-要請しなきゃならんからな","Hey now, if I'm entrusting this to you, I'm counting on you.
-If you can't handle it,
-we'll have to call for reinforcements from the fort.",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,17,Arisen Corps Regimental Soldier
+要請しなきゃならんからな","Hey now, if I’m entrusting this to you, I’m counting on you.
+If you can’t handle it,
+we’ll have to call for reinforcements from the fort.",ui\00_message\quest\q20020007.gmd,\quest\q20020007.arc,q20020007.arc,17,Arisen Corps Regimental Soldier
 0,,"ここから北へ抜けた所で
 なにやら不穏な動きがあると
 調査隊より報告があってな
-オーク共か、ならず者かは不明だが","We've received a report from the survey team
-that there's some unsettling activity
+オーク共か、ならず者かは不明だが","We’ve received a report from the survey team
+that there’s some unsettling activity
 just north of here.
-Whether it's orcs or bandits isn't clear.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,0,Arisen Corps Regimental Soldier
+Whether it’s orcs or bandits isn’t clear.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,0,Arisen Corps Regimental Soldier
 0,,"手を打つなら早い方がいいように思う
 すまんが、様子を見に行ってきてほしい","It seems best to act quickly.
-Sorry, but I'd like you to go check it out.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,1,Arisen Corps Regimental Soldier
+Sorry, but I’d like you to go check it out.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,1,Arisen Corps Regimental Soldier
 0,,"もし可能なら、排除も頼む
-自信がなければ無理にとは言わないが","If possible, I'd like you to eliminate them.
-If you're not confident, I won't force you.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,2,Arisen Corps Regimental Soldier
+自信がなければ無理にとは言わないが","If possible, I’d like you to eliminate them.
+If you’re not confident, I won’t force you.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,2,Arisen Corps Regimental Soldier
 0,,"ここから北へ抜けた所で
 なにやら不穏な動きがあると
 調査隊より報告があってな
-オーク共か、ならず者かは不明だが","We've received a report from the survey team
-that there's some unsettling activity
+オーク共か、ならず者かは不明だが","We’ve received a report from the survey team
+that there’s some unsettling activity
 just north of here.
-Whether it's orcs or bandits isn't clear.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,3,Arisen Corps Regimental Soldier
+Whether it’s orcs or bandits isn’t clear.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,3,Arisen Corps Regimental Soldier
 0,,"どうにもキナ臭い、妙な事態になる前に
 早く芽をつまなければ
 もう少し正確な情報も要る――
@@ -918,24 +918,24 @@ eliminate them if you can.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.a
 0,,"ここから北へ抜けた所で
 なにやら不穏な動きがあると
 調査隊より報告があってな
-オーク共か、ならず者かは不明だが","We've received a report from the survey team
-that there's some unsettling activity
+オーク共か、ならず者かは不明だが","We’ve received a report from the survey team
+that there’s some unsettling activity
 just north of here.
-Whether it's orcs or bandits isn't clear.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,6,Arisen Corps Regimental Soldier
+Whether it’s orcs or bandits isn’t clear.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,6,Arisen Corps Regimental Soldier
 0,,"まずい事に
 強力な魔物が現れたらしい情報もあった
 そんな奴らが南下してきたら大変だ！
 すまんが、様子を見に行ってきてほしい","Worse yet, there are reports
 that powerful monsters have appeared.
-If they head south, it'll be disastrous!
+If they head south, it’ll be disastrous!
 Sorry, but I need you to go check it out.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,7,Arisen Corps Regimental Soldier
 0,,"無理にとは言わない
 だが、難しいかもしれないが
-できるだけ足止めをしてくれないか","I won't force you.
-But even if it's difficult,
+できるだけ足止めをしてくれないか","I won’t force you.
+But even if it’s difficult,
 could you delay them as much as possible?",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,8,Arisen Corps Regimental Soldier
 0,,"戻ったか！
-待っていたぞ、どうだった？","You're back!
+待っていたぞ、どうだった？","You’re back!
 I was waiting—how did it go?",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,9,Arisen Corps Regimental Soldier
 0,,"――なるほど、そんな奴らが
 集まっていたのか","—I see…
@@ -943,10 +943,10 @@ so that kind of group had gathered.",ui\00_message\quest\q20020008.gmd,\quest\q2
 0,,"その場しのぎかもしれないが
 何もやらないよりはマシだろう
 力を貸してくれて感謝する","It may only be a temporary fix,
-but it's better than doing nothing.
+but it’s better than doing nothing.
 Thank you for lending your strength.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,11,Arisen Corps Regimental Soldier
 0,,"戻ったか
-待っていたぞ、どうだった？","You're back.
+待っていたぞ、どうだった？","You’re back.
 I was waiting—how did it go?",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,12,Arisen Corps Regimental Soldier
 0,,"――なるほど、それほどの奴らが
 集まっていたとは","—I see…
@@ -954,11 +954,11 @@ to think so many of them had gathered.",ui\00_message\quest\q20020008.gmd,\quest
 0,,"おそらく危機は未然に防げたのだろうな
 まだ予断は許さないが、ひとまず良かった
 力を貸してくれて感謝する","We probably managed to avert the crisis before it happened.
-We can't let our guard down yet, but for now, that's good.
+We can’t let our guard down yet, but for now, that’s good.
 Thank you for your help.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,14,Arisen Corps Regimental Soldier
 0,,"おお戻ったか
 待っていたぞ、無事だったか！
-どうなっていた？","Oh, you're back!
+どうなっていた？","Oh, you’re back!
 I was waiting—are you alright!?
 What was the situation?",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,15,Arisen Corps Regimental Soldier
 0,,"――なんと！
@@ -969,81 +969,81 @@ than we imagined—",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q200
 0,,"だがそれにしても、そのような事態をも
 収めてしまうとは恐れ入るよ
 力を貸してくれて、本当に感謝する","Even so, to have brought such a situation under control—
-I'm truly impressed.
+I’m truly impressed.
 Thank you sincerely for lending your strength.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,17,Arisen Corps Regimental Soldier
 0,,"もし手におえない状況なら
 手を出さずに戻ってくることだ","If the situation is beyond your ability,
-don't engage—just come back.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,18,Arisen Corps Regimental Soldier
-0,,今、無理をする必要は無いぞ,There's no need to push yourself right now.,ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,19,Arisen Corps Regimental Soldier
+don’t engage—just come back.",ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,18,Arisen Corps Regimental Soldier
+0,,今、無理をする必要は無いぞ,There’s no need to push yourself right now.,ui\00_message\quest\q20020008.gmd,\quest\q20020008.arc,q20020008.arc,19,Arisen Corps Regimental Soldier
 0,,"お前か
-こんな所に来るとは物好きだな","It's you.
-You're quite the odd one, coming to a place like this.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,0,Arisen Corps Regimental Soldier
+こんな所に来るとは物好きだな","It’s you.
+You’re quite the odd one, coming to a place like this.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,0,Arisen Corps Regimental Soldier
 0,,"物好きな連中なら、この先に大勢いるぞ
-言葉は通じない奴らだがな","If you're looking for oddballs, there are plenty ahead.
-Though they're not the kind you can talk to.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,1,Arisen Corps Regimental Soldier
+言葉は通じない奴らだがな","If you’re looking for oddballs, there are plenty ahead.
+Though they’re not the kind you can talk to.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,1,Arisen Corps Regimental Soldier
 0,,"これも覚者の使命の一つには違いない
 奴らを倒す為に力を貸してくれ
 このまま墓地で大人しくしていてもらうと
-しよう","This must also be one of an Arisen's duties.
+しよう","This must also be one of an Arisen’s duties.
 Lend us your strength to defeat them.
-Let's have them remain quietly
+Let’s have them remain quietly
 in the graveyard.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,2,Arisen Corps Regimental Soldier
 0,,"お前か
 こんな所に来るとは物好きだな","You.
-You're quite the odd one, coming to a place like this.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,3,Arisen Corps Regimental Soldier
+You’re quite the odd one, coming to a place like this.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,3,Arisen Corps Regimental Soldier
 0,,"物好きな連中なら、この先に大勢いるぞ
-言葉は通じない奴らだがな","If you're looking for oddballs, there are plenty ahead.
-Though they're not the kind you can reason with.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,4,Arisen Corps Regimental Soldier
+言葉は通じない奴らだがな","If you’re looking for oddballs, there are plenty ahead.
+Though they’re not the kind you can reason with.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,4,Arisen Corps Regimental Soldier
 0,,"これも覚者の使命の一つには違いない
 奴らを倒す為に力を貸してくれ
 地上に出られてはかなわん、奴らには
-墓地に居続けてもらわなければ","This must also be one of an Arisen's duties.
+墓地に居続けてもらわなければ","This must also be one of an Arisen’s duties.
 Lend us your strength to defeat them.
-We can't allow them to reach the surface—
+We can’t allow them to reach the surface—
 they must remain in the graveyard.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,5,Arisen Corps Regimental Soldier
 0,,"お前か
 こんな所に来るとは物好きだな","You.
-You're quite the odd one, coming to a place like this.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,6,Arisen Corps Regimental Soldier
+You’re quite the odd one, coming to a place like this.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,6,Arisen Corps Regimental Soldier
 0,,"物好きな連中なら、この先に大勢いるぞ
 言葉は通じない奴らだがな","If you want oddballs, there are plenty further in.
-They're not the sort you can talk to.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,7,Arisen Corps Regimental Soldier
+They’re not the sort you can talk to.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,7,Arisen Corps Regimental Soldier
 0,,"これも覚者の使命の一つには違いない
-奴らを倒す為に力を貸してくれ","This must also be one of an Arisen's duties.
+奴らを倒す為に力を貸してくれ","This must also be one of an Arisen’s duties.
 Lend us your strength to defeat them.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,8,Arisen Corps Regimental Soldier
 0,,"だが、油断するなよ
 奴らは手強い
 ひとつ間違えば、俺たちがこのまま
-地下墓地に永住する羽目になるぞ","But don't let your guard down.
-They're tough.
-One wrong move, and we'll end up
+地下墓地に永住する羽目になるぞ","But don’t let your guard down.
+They’re tough.
+One wrong move, and we’ll end up
 living in the catacombs permanently.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,9,Arisen Corps Regimental Soldier
-0,,おお、もう倒してきたのか？,Oh? You've already defeated them?,ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,10,Arisen Corps Regimental Soldier
+0,,おお、もう倒してきたのか？,Oh? You’ve already defeated them?,ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,10,Arisen Corps Regimental Soldier
 0,,"これも覚者の使命、とは言ったが
 どうせなら日の当たる場所で
-思い切り戦いたいものだな","I did say it was an Arisen's duty, but
+思い切り戦いたいものだな","I did say it was an Arisen’s duty, but
 if I had the choice,
-I'd rather fight somewhere under the sun.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,11,Arisen Corps Regimental Soldier
-0,,おお、もう倒してきたのか？,Oh? You've already taken care of them?,ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,12,Arisen Corps Regimental Soldier
+I’d rather fight somewhere under the sun.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,11,Arisen Corps Regimental Soldier
+0,,おお、もう倒してきたのか？,Oh? You’ve already taken care of them?,ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,12,Arisen Corps Regimental Soldier
 0,,"これも覚者の使命、とは言ったが
 どうせなら日の当たる場所で
-思い切り戦いたいものだな","I did say it was an Arisen's duty, but
+思い切り戦いたいものだな","I did say it was an Arisen’s duty, but
 honestly,
-I'd prefer to fight in the daylight.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,13,Arisen Corps Regimental Soldier
+I’d prefer to fight in the daylight.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,13,Arisen Corps Regimental Soldier
 0,,"とりあえずは、奴らを日の下に
 出さなかったことで良しとするか","For now,
-I suppose it's enough that we kept them
+I suppose it’s enough that we kept them
 from reaching the surface.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,14,Arisen Corps Regimental Soldier
-0,,おお、もう倒してきたのか？,Oh? You've already defeated them?,ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,15,Arisen Corps Regimental Soldier
+0,,おお、もう倒してきたのか？,Oh? You’ve already defeated them?,ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,15,Arisen Corps Regimental Soldier
 0,,"これも覚者の使命、とは言ったが
 どうせなら日の当たる場所で
-思い切り戦いたいものだな","I did say it was an Arisen's duty, but
-if I'm honest,
-I'd rather fight somewhere the sun shines.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,16,Arisen Corps Regimental Soldier
+思い切り戦いたいものだな","I did say it was an Arisen’s duty, but
+if I’m honest,
+I’d rather fight somewhere the sun shines.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,16,Arisen Corps Regimental Soldier
 0,,"ともあれ
 お互いここの骨にならずにすんで何よりだ","In any case,
-I'm glad neither of us ended up as bones here.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,17,Arisen Corps Regimental Soldier
+I’m glad neither of us ended up as bones here.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,17,Arisen Corps Regimental Soldier
 0,,"しかし、何も墓の中に
-住みつく事はないだろうに","there's no reason for them
+住みつく事はないだろうに","there’s no reason for them
 to go and live inside graves.",ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,18,Arisen Corps Regimental Soldier
 0,,いい迷惑だな,What a nuisance.,ui\00_message\quest\q20020009.gmd,\quest\q20020009.arc,q20020009.arc,19,Arisen Corps Regimental Soldier
 0,,ん？　覚者か？,Hm? An Arisen?,ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,0,Lightly-Equipped Soldier
@@ -1051,7 +1051,7 @@ to go and live inside graves.",ui\00_message\quest\q20020009.gmd,\quest\q2002000
 この地下室にある物を取ってきてくれねえか？","Right—let me ask you for a hand.
 Could you retrieve something from this basement?",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,1,Lightly-Equipped Soldier
 0,,"まぁな、タダとは言わんぜ
-覚者ならこれぐらい楽なもんだろ？","Of course, it's not for free.
+覚者ならこれぐらい楽なもんだろ？","Of course, it’s not for free.
 For an Arisen, this should be easy enough, right?",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,2,Lightly-Equipped Soldier
 0,,ん？　覚者か？,Hm? An Arisen?,ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,3,Lightly-Equipped Soldier
 0,,"いい所にきやがった！
@@ -1060,9 +1060,9 @@ For an Arisen, this should be easy enough, right?",ui\00_message\quest\q20020010
 アンタに手を貸してもらおう
 この地下室にある物を取ってきてくれねえか？",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,4,Lightly-Equipped Soldier
 0,,"もちろん、タダとは言わんぜ
-多少面倒かもしれねぇが、相応の礼はするさ","Of course, it won't be for free.
+多少面倒かもしれねぇが、相応の礼はするさ","Of course, it won’t be for free.
 It might be a bit of a hassle,
-but I'll give you a fitting reward.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,5,Lightly-Equipped Soldier
+but I’ll give you a fitting reward.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,5,Lightly-Equipped Soldier
 0,,ん？　覚者か？,Hm? An Arisen?,ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,6,Lightly-Equipped Soldier
 0,,"こりゃあ幸運だ！
 アンタに手を貸してもらおう
@@ -1070,41 +1070,42 @@ but I'll give you a fitting reward.",ui\00_message\quest\q20020010.gmd,\quest\q2
 Let me ask you for a hand—
 could you retrieve something from this basement?",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,7,Lightly-Equipped Soldier
 0,,"さすがにタダとは言わんぜ
-納得できるくらいの礼はさせてもらうからよ！","I won't ask you to do it for free.
-I'll make sure the reward is worth it!",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,8,Lightly-Equipped Soldier
+納得できるくらいの礼はさせてもらうからよ！","I won’t ask you to do it for free.
+I’ll make sure the reward is worth it!",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,8,Lightly-Equipped Soldier
 0,,"よし、読み通りだな
 アンタならやれると信じてたぜ","Alright, just as I thought.
 I knew you could handle it.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,9,Lightly-Equipped Soldier
 0,,"コイツは確かに預かった
-礼は届けておくから確認しておいてくれ","I've definitely received it.
-I'll send the reward along, so be sure to check.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,10,Lightly-Equipped Soldier
-0,,また縁があったら会おうぜ,"If fate allows it, we'll meet again.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,11,Lightly-Equipped Soldier
+礼は届けておくから確認しておいてくれ","I’ve definitely received it.
+I’ll send the reward along, so be sure to check.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,10,Lightly-Equipped Soldier
+0,,また縁があったら会おうぜ,"If fate allows it, we’ll meet again.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,11,Lightly-Equipped Soldier
 0,,"わりぃ、助かったぜ
 アンタならやれると信じてたぜ","Sorry about that—you really helped me out.
 I knew I could count on you.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,12,Lightly-Equipped Soldier
 0,,"コイツは確かに預かった
-礼は届けておくから確認しておいてくれ",,ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,13,Lightly-Equipped Soldier
+礼は届けておくから確認しておいてくれ","I’ve received this for certain.
+I’ll have your reward delivered, so make sure to check it.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,13,Lightly-Equipped Soldier
 0,,"じゃあな！
 また縁があったらよろしく頼むぜ","See you!
-If our paths cross again, I'll be counting on you.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,14,Lightly-Equipped Soldier
+If our paths cross again, I’ll be counting on you.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,14,Lightly-Equipped Soldier
 0,,"よぉし、よく取り戻してくれた！
 アンタならやれると信じてたぜ","Alright! You recovered it nicely!
 I knew you could do it.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,15,Lightly-Equipped Soldier
 0,,"コイツは確かに預かった
-礼は届けておくから確認しておいてくれ","I've received it without question.
-I'll send the reward, so check it later.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,16,Lightly-Equipped Soldier
+礼は届けておくから確認しておいてくれ","I’ve received it without question.
+I’ll send the reward, so check it later.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,16,Lightly-Equipped Soldier
 0,,"いやぁー、本当助かったぜ！
 ありがとな！","Man, you really saved me!
 Thanks a lot!",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,17,Lightly-Equipped Soldier
 0,,また会ったらヨロシクな！！,"If we meet again, take care!!",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,18,Lightly-Equipped Soldier
 0,,"おいおい、アンタににゃ期待してるんだぜ
-ガッカリさせないでくれよ","Hey, hey—I'm counting on you.
-Don't let me down.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,19,Lightly-Equipped Soldier
+ガッカリさせないでくれよ","Hey, hey—I’m counting on you.
+Don’t let me down.",ui\00_message\quest\q20020010.gmd,\quest\q20020010.arc,q20020010.arc,19,Lightly-Equipped Soldier
 0,,"砦の北から東の小塔へ抜ける
 地下通路があるのは知っているか？
 旧騎士団の連絡路だ","Do you know about the underground passage
 that runs from the north of the fort to the eastern small tower?
-It's an old Knight Order communication route.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,0,Arisen Corps Regimental Soldier
+It’s an old Knight Order communication route.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,0,Arisen Corps Regimental Soldier
 0,,"少人数でダウ渓谷へ向かうには、
 この地下通路を使用しているのだが――","When heading to Dowe Valley with a small group,
 we use this underground passage, but—",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,1,Arisen Corps Regimental Soldier
@@ -1117,7 +1118,7 @@ Head out now.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.
 地下通路があるのは知っているか？
 旧騎士団の連絡路だ","Do you know about the underground passage
 that runs from the north of the fort to the eastern small tower?
-It's an old Knight Order communication route.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,4,Arisen Corps Regimental Soldier
+It’s an old Knight Order communication route.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,4,Arisen Corps Regimental Soldier
 0,,"少人数でダウ渓谷へ向かうには、
 この地下通路を使用しているのだが――","When traveling to Dowe Valley with few people,
 we use this underground passage, but—",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,5,Arisen Corps Regimental Soldier
@@ -1134,7 +1135,7 @@ Head out now.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.
 地下通路があるのは知っているか？
 旧騎士団の連絡路だ","Do you know about the underground passage
 from the north of the fort to the eastern small tower?
-It's an old Knight Order communication route.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,8,Arisen Corps Regimental Soldier
+It’s an old Knight Order communication route.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,8,Arisen Corps Regimental Soldier
 0,,"少人数でダウ渓谷へ向かうには、
 この地下通路を使用しているのだが――","When heading to Dowe Valley with a small group,
 we use this underground passage, but—",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,9,Arisen Corps Regimental Soldier
@@ -1150,37 +1151,37 @@ Head out now.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.
 手間を取らせたな","Well done!
 Sorry for the trouble.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,12,Arisen Corps Regimental Soldier
 0,,"これからも頼らせてもらいたい
-よろしくお願いする","I'd like to keep relying on you from here on.
-I'm counting on you.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,13,Arisen Corps Regimental Soldier
+よろしくお願いする","I’d like to keep relying on you from here on.
+I’m counting on you.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,13,Arisen Corps Regimental Soldier
 0,,"よくやってくれた！！
 おかげで悩みの種が一つ減ったよ","You did great!!
 Thanks to you, one of my worries is gone.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,14,Arisen Corps Regimental Soldier
 0,,"これからも頼らせてもらいたい
-よろしくお願いする","I'd like to keep relying on you from here on.
-I'm counting on you.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,15,Arisen Corps Regimental Soldier
+よろしくお願いする","I’d like to keep relying on you from here on.
+I’m counting on you.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,15,Arisen Corps Regimental Soldier
 0,,"よくやってくれた！！
 同じ覚者として誇りに思う","Well done!!
-As a fellow Arisen, I'm proud of you.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,16,Arisen Corps Regimental Soldier
+As a fellow Arisen, I’m proud of you.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,16,Arisen Corps Regimental Soldier
 0,,"これで、通路を閉鎖する必要はないだろう
 あの連絡路が使えないとなると
 相当面倒だからな","With this done, there should be no need to seal off the passage.
 If that communication route became unusable,
 it would be a serious inconvenience.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,17,Arisen Corps Regimental Soldier
 0,,"これからも頼らせてもらいたい
-よろしくお願いする","I'd like to keep relying on you from here on.
-I'm counting on you.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,18,Arisen Corps Regimental Soldier
+よろしくお願いする","I’d like to keep relying on you from here on.
+I’m counting on you.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,18,Arisen Corps Regimental Soldier
 0,,"今そちらには、我々の手は割けない
-どうか頼んだぞ","We don't have the manpower to send over there right now.
-Please, I'm counting on you.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,19,Arisen Corps Regimental Soldier
+どうか頼んだぞ","We don’t have the manpower to send over there right now.
+Please, I’m counting on you.",ui\00_message\quest\q20020011.gmd,\quest\q20020011.arc,q20020011.arc,19,Arisen Corps Regimental Soldier
 0,,あぁ――なんだ、おマイらは！,Ah—what the hell are you lot!?,ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,0,Zuhl
 0,,"おれは、おれは――
 うん？　なんだ、頭がハッキリしないがまぁいい――","I—I am—
-Huh? What's this… my head's not clear, but whatever—",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,1,Zuhl
+Huh? What’s this… my head’s not clear, but whatever—",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,1,Zuhl
 0,,やることは分かっているからなっ！,I know exactly what I need to do!,ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,2,Zuhl
-0,,まずは、軽くおマイらをみな殺しよ！,"First, I'll casually slaughter every last one of you!",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,3,Zuhl
+0,,まずは、軽くおマイらをみな殺しよ！,"First, I’ll casually slaughter every last one of you!",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,3,Zuhl
 0,,"な、なんだとォ――！？
 おれは不死身だろうにッ――！","W-what did you say!?
-I'm supposed to be immortal—!",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,4,Zuhl
+I’m supposed to be immortal—!",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,4,Zuhl
 0,,"ああッ！　ちょうどいいところに来てくれた！
 助かったぁ――","Ah! You came at just the right time!
 You saved me—",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,5,Dikka
@@ -1188,21 +1189,21 @@ You saved me—",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q2002500
 《第三のアーク》で怪しい動きがあると神殿から
 調査依頼が入ったんだけど、派遣された隊士が
 戻ってこないんだよ！","To be honest, this is a situation I can only consult someone like you about.
-The temple sent a request saying there's suspicious activity
+The temple sent a request saying there’s suspicious activity
 at the Third Ark, but the soldiers who were dispatched
-haven't come back!",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,6,Dikka
+haven’t come back!",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,6,Dikka
 0,,"どうか、彼らの様子を見て来てくれないかな――
 そしてそれらしい魔物がいたら、討伐を頼みたいんだ","Could you go check on what happened to them—
-and if you find any suspicious monsters, I'd like you to defeat them.",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,7,Dikka
+and if you find any suspicious monsters, I’d like you to defeat them.",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,7,Dikka
 0,,"オレがいってもきっと――
-ああ！　嫌な予感しかしないからさ","If I went myself, I'm sure—
-ah! I've got nothing but bad feelings about it.",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,8,Dikka
+ああ！　嫌な予感しかしないからさ","If I went myself, I’m sure—
+ah! I’ve got nothing but bad feelings about it.",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,8,Dikka
 0,,"こんなこと頼めるのは君くらいなんだ
-本当頼むよ","You're the only one I can ask to do this.
-I'm really begging you.",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,9,Dikka
+本当頼むよ","You’re the only one I can ask to do this.
+I’m really begging you.",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,9,Dikka
 0,,"第三アークの怪しい気配を、調べて来てくれよ
 白竜神殿の港から、船を出してもらえるはずだからさ","Go investigate the suspicious presence at the Third Ark.
-You should be able to get a ship from the White Dragon Temple's harbor.",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,10,Dikka
+You should be able to get a ship from the White Dragon Temple’s harbor.",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,10,Dikka
 0,,"ああ、そうか――調査隊は手遅れだったか――
 まずはありがとう、そんな恐ろしい魔物を
 退治してくれたとはね","Ah… I see—the investigation team was already beyond saving…
@@ -1210,12 +1211,12 @@ First of all, thank you.
 To think you defeated such a terrifying monster.",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,11,Dikka
 0,,"――で、続けていうのも心苦しいんだけどさ
 実は調べてほしいのはもうひとつあって――","—and I hate to pile this on you right after that, but
-there's actually one more thing I'd like you to investigate—",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,12,Dikka
+there’s actually one more thing I’d like you to investigate—",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,12,Dikka
 0,,"《メルゴダ護政区》でも妙な気配があるようなんだ
 ちょうど次の調査隊を組む所だったんだけど
-今回のようになるに決まってる！","It seems there's a strange presence in the Mergoda Ward as well.
+今回のようになるに決まってる！","It seems there’s a strange presence in the Mergoda Ward as well.
 We were just about to assemble the next investigation team, but
-it's bound to turn out just like last time!",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,13,Dikka
+it’s bound to turn out just like last time!",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,13,Dikka
 0,,"だからさ、頼むよ
 もう一度調査に君の力を貸してほしいんだ","So please—
 I want you to lend your strength to another investigation.",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,14,Dikka
@@ -1223,27 +1224,27 @@ I want you to lend your strength to another investigation.",ui\00_message\quest\
 0,,"ちょうど次の調査隊を組む所だったんだけど
 今回のようになるに決まってる！
 だから、もう一度君の力を貸してほしいんだ","We were just about to form the next investigation team, but
-it's guaranteed to end up like this again!
+it’s guaranteed to end up like this again!
 So I want you to lend your strength once more.",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,16,Dikka
 0,,"え！　《メルゴダ護政区》にいたのは
 あのズールだって！？","What!? The one in the Mergoda Ward
 was that Zuhl!?",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,17,Dikka
 0,,"それは、君に行ってもらって正解だったよ
 俺達じゃむざむざ殺されにいくようなものだったな","Sending you was absolutely the right call.
-If it had been us, we'd have been walking straight to our deaths.",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,18,Dikka
+If it had been us, we’d have been walking straight to our deaths.",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,18,Dikka
 0,,"とにかく、ありがとう！
 頼りっぱなしにならないよう、俺たちも鍛えないとな","Anyway, thank you!
-We can't keep relying on you forever—we need to train ourselves too.",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,19,Dikka
+We can’t keep relying on you forever—we need to train ourselves too.",ui\00_message\quest\q20025002.gmd,\quest\q20025002.arc,q20025002.arc,19,Dikka
 0,,"やあ、観光かい？
 ――冗談さ、そんなはずないよね
 キミも神殿のお宝を求めてきたんだろう","Hey there, sightseeing?
 —Just kidding, of course not.
-You came here for the temple's treasures too, right?",ui\00_message\quest\q20025010.gmd,\quest\q20025010.arc,q20025010.arc,0,Ludovika
+You came here for the temple’s treasures too, right?",ui\00_message\quest\q20025010.gmd,\quest\q20025010.arc,q20025010.arc,0,Ludovika
 0,,"神殿とは名ばかりで、魔物の巣窟になっていたとはね
  ――という訳でキミ！
-トレジャーハンター同士、協力しようじゃないか","A temple in name only—it's turned into a den of monsters.
+トレジャーハンター同士、協力しようじゃないか","A temple in name only—it’s turned into a den of monsters.
 —So then, my friend!
-As fellow treasure hunters, why don't we work together?",ui\00_message\quest\q20025010.gmd,\quest\q20025010.arc,q20025010.arc,1,Ludovika
+As fellow treasure hunters, why don’t we work together?",ui\00_message\quest\q20025010.gmd,\quest\q20025010.arc,q20025010.arc,1,Ludovika
 0,,"どうやらキミは腕が立ちそうだから――
 うん、《浄水区》の魔物討伐をお願いしていいかな？
 あそこから魔物が湧き出しているみたいだから ","You look pretty capable—
@@ -1253,8 +1254,8 @@ It seems monsters are pouring out from there.",ui\00_message\quest\q20025010.gmd
 0,,"キミが魔物を抑えてくれている間、
 私はお宝が無いか辺りを探ってみるよ
 もちろん報酬は弾む――悪くない契約だろう？","While you keep the monsters in check,
-I'll look around for any treasure.
-Of course, I'll pay well—not a bad deal, right?",ui\00_message\quest\q20025010.gmd,\quest\q20025010.arc,q20025010.arc,3,Ludovika
+I’ll look around for any treasure.
+Of course, I’ll pay well—not a bad deal, right?",ui\00_message\quest\q20025010.gmd,\quest\q20025010.arc,q20025010.arc,3,Ludovika
 0,,"やってきてくれたのか！
 私もなんとか、神殿内を探ることができたよ
 残念だけどガラクタばかりさ","You came through!
@@ -1268,7 +1269,7 @@ Thank you—",ui\00_message\quest\q20025010.gmd,\quest\q20025010.arc,q20025010.a
 0,,"なに、トレジャーハンターではなく覚者だって？
 へぇ――
 だとしても、人助けが仕事なんだろう？
-《浄水区》へ行って、私を助けてくれ","What, you're not a treasure hunter but an Arisen?
+《浄水区》へ行って、私を助けてくれ","What, you’re not a treasure hunter but an Arisen?
 Huh—
 even so, helping people is your job, right?
 Go to the Purification District and help me.",ui\00_message\quest\q20025010.gmd,\quest\q20025010.arc,q20025010.arc,6,Ludovika
@@ -1279,12 +1280,12 @@ I took you for an Arisen—
 ah, so I was right.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,0,Weary Harpy
 0,,"はい、いかにもわたしは魔物です
 でも、争いはもうたくさん――","Yes, I am indeed a monster.
-But I've had enough of fighting—",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,1,Weary Harpy
+But I’ve had enough of fighting—",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,1,Weary Harpy
 0,,"と言いますのも、まもなく
 子供が生まれるのです","You see, before long,
 my child will be born.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,2,Weary Harpy
 0,,"ところが巣の材料が
-まったく手に入らなくて――","However, I can't obtain
+まったく手に入らなくて――","However, I can’t obtain
 any materials for the nest—",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,3,Weary Harpy
 0,,"どうでしょう――
 材料を探していただけませんか？","So please—
@@ -1296,7 +1297,7 @@ I took you for an Arisen—
 ah, I was correct.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,5,Weary Harpy
 0,,"はい、いかにもわたしは魔物です
 でも、争いはもうたくさん――","Yes, I am indeed a monster.
-But I've had enough of fighting—",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,6,Weary Harpy
+But I’ve had enough of fighting—",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,6,Weary Harpy
 0,,"と言いますのも、まもなく
 子供が生まれるのです","You see, before long,
 my child will be born.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,7,Weary Harpy
@@ -1304,7 +1305,7 @@ my child will be born.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q
 材料を探していただけませんか？","So please—
 would you help me look for the materials?",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,8,Weary Harpy
 0,,"それなりに大変なことなので
-心苦しいのですが――","It's quite a difficult request,
+心苦しいのですが――","It’s quite a difficult request,
 and I feel terrible asking—",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,9,Weary Harpy
 0,,"そこのあなた――
 覚者と見ましたが――
@@ -1313,12 +1314,12 @@ I took you for an Arisen—
 ah, just as I thought.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,10,Weary Harpy
 0,,"はい、いかにもわたしは魔物です
 でも、争いはもうたくさん――","Yes, I am indeed a monster.
-But I've had enough of fighting—",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,11,Weary Harpy
+But I’ve had enough of fighting—",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,11,Weary Harpy
 0,,"と言いますのも、まもなく
 子供が生まれるのです","You see, before long,
 my child will be born.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,12,Weary Harpy
 0,,"ところが巣の材料が
-まったく手に入らなくて――","However, I can't get
+まったく手に入らなくて――","However, I can’t get
 any materials for the nest—",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,13,Weary Harpy
 0,,"どうでしょう――
 材料を探していただけませんか？","So please—
@@ -1330,38 +1331,38 @@ and there will likely be many monsters getting in the way.",ui\00_message\quest\
 どうかお引き受けください","I know this will be extremely difficult,
 but please, I beg you to accept.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,16,Weary Harpy
 0,,"すっかりお世話になってしまいましたね
-ありがとうございます","You've taken such good care of me.
+ありがとうございます","You’ve taken such good care of me.
 Thank you very much.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,17,Weary Harpy
 0,,"生まれてくる子には、あなたにだけは
 襲いかかることのないように
-言い聞かせますね","I'll make sure to tell my unborn child
+言い聞かせますね","I’ll make sure to tell my unborn child
 never to attack you,
 no matter what.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,18,Weary Harpy
 0,,"すっかりお世話になってしまいましたね
-ありがとうございます","You've taken such good care of me.
+ありがとうございます","You’ve taken such good care of me.
 Thank you very much.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,19,Weary Harpy
 0,,"生まれてくる子には
 あなたにだけは
 襲いかかることのないように――","To my unborn child,
-I'll make sure
+I’ll make sure
 they never attack you—",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,20,Weary Harpy
 0,,"孫の代にも申し伝えるように
-言い聞かせておきますからね","I'll make sure the message is passed down
+言い聞かせておきますからね","I’ll make sure the message is passed down
 even to my grandchildren.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,21,Weary Harpy
 0,,"すっかりお世話になってしまいましたね
-ありがとうございます","You've taken such good care of me.
+ありがとうございます","You’ve taken such good care of me.
 Thank you very much.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,22,Weary Harpy
 0,,"生まれてくる子には
 あなたにだけは
 襲いかかることのないように――","To my unborn child,
-I'll make sure
+I’ll make sure
 they never attack you—",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,23,Weary Harpy
 0,,"七代先の子孫にまで申し伝えるように
-言い聞かせておきますからね","I'll make sure it's passed down
+言い聞かせておきますからね","I’ll make sure it’s passed down
 even to descendants seven generations from now.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,24,Weary Harpy
 0,,"材料は見つかりませんか？
 わたしもかなり探したのですが――","Have you found the materials?
-I've searched quite a bit myself, but—",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,25,Weary Harpy
+I’ve searched quite a bit myself, but—",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,25,Weary Harpy
 0,,"おお――ありがとうございます！
 まずはお礼を申し上げます","Oh—thank you very much!
 First of all, please accept my gratitude.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,26,Weary Harpy
@@ -1377,41 +1378,41 @@ Please, I beg you.",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q2003
 0,,"助けてください！
 あの魔物、まったく話が通じないんです！
 倒してください！","Help me!
-That monster won't listen to a word I say!
+That monster won’t listen to a word I say!
 Please, defeat it!",ui\00_message\quest\q20030000.gmd,\quest\q20030000.arc,q20030000.arc,30,Weary Harpy
 0,,"おお、覚者よ
 良いところに来た","Oh, Arisen.
-You've come at just the right time.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,0,August
+You’ve come at just the right time.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,0,August
 0,,"実は珍しい食材があると聞いて
 ここまで来たのだが
 この先、何やら魔物の気配がする","I heard there was a rare ingredient here,
 so I came all this way,
-but there's a troubling monster presence ahead.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,1,August
+but there’s a troubling monster presence ahead.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,1,August
 0,,"どうだ、貴殿――
 わたしに褒められたくはないか？","Well then, sir—
 would you not like to earn my praise?",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,2,August
 0,,"おお、覚者よ
 良いところに来た","Oh, Arisen.
-You've arrived at a fine moment.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,3,August
+You’ve arrived at a fine moment.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,3,August
 0,,"実は珍しい食材があると聞いて
 ここまで来たのだが
 この先、何やら魔物の気配がする","I heard there was a rare ingredient here,
 so I came all this way,
-but there's an ominous monster presence ahead.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,4,August
+but there’s an ominous monster presence ahead.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,4,August
 0,,"どうだ、貴殿――
 わたしに褒められたくはないか？","Well then, sir—
 would you care to be praised by me?",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,5,August
 0,,"多少は苦労するだろうが
 謝礼はその分上乗せするぞ","It will take some effort,
-but I'll increase the reward accordingly.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,6,August
+but I’ll increase the reward accordingly.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,6,August
 0,,"おお、覚者よ
 良いところに来た","Oh, Arisen.
-You've come at just the right time.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,7,August
+You’ve come at just the right time.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,7,August
 0,,"実は珍しい食材があると聞いて
 ここまで来たのだが
 この先、何やら魔物の気配がする","I heard there was a rare ingredient here,
 so I came all this way,
-but there's a monster presence ahead.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,8,August
+but there’s a monster presence ahead.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,8,August
 0,,"どうだ、貴殿――
 わたしに褒められたくはないか？","Well then, sir—
 would you like my praise?",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,9,August
@@ -1423,13 +1424,13 @@ I would prepare a fine funeral and grave for you.",ui\00_message\quest\q20030001
 Hmm—well, I suppose this will do.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,11,August
 0,,"よし、ご苦労だったな
 謝礼は後で送らせよう","Alright, good work.
-I'll send the reward later.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,12,August
+I’ll send the reward later.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,12,August
 0,,"ほう、これか
 ふむ――これはなかなか――","Oh? This is it?
 Hmm—this is quite something—",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,13,August
 0,,"よし、ご苦労だったな
 謝礼は後で送らせよう","Alright, good work.
-I'll send the reward later.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,14,August
+I’ll send the reward later.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,14,August
 0,,"ほう、これか
 ふむ――これは素晴らしい――
 おお――ヨダレが出るわ","Oh? This is it?
@@ -1437,29 +1438,29 @@ Hmm—this is splendid—
 oh—my mouth is watering.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,15,August
 0,,"よし、ご苦労だったな
 この功績に見合う謝礼を後で送らせよう","Excellent work.
-I'll send a reward worthy of this achievement later.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,16,August
+I’ll send a reward worthy of this achievement later.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,16,August
 0,,"まだかな？
 こんなところに長居はしたくないのだが","Is it not done yet?
-I'd rather not linger in a place like this.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,17,August
+I’d rather not linger in a place like this.",ui\00_message\quest\q20030001.gmd,\quest\q20030001.arc,q20030001.arc,17,August
 0,,"おや？　そこいくあなたは覚者かな
 少し話を聞いてもらえないだろうか","Oh? You there—are you an Arisen?
 Might I ask you to hear me out for a moment?",ui\00_message\quest\q20030002.gmd,\quest\q20030002.arc,q20030002.arc,0,Christoph
 0,,"この古い古い城の中には、当然だが
-古い時代のものが沢山あってね――","Inside this very old castle, as you'd expect,
+古い時代のものが沢山あってね――","Inside this very old castle, as you’d expect,
 there are many artifacts from ancient times—",ui\00_message\quest\q20030002.gmd,\quest\q20030002.arc,q20030002.arc,1,Christoph
 0,,"それを、適当で結構なんだが
-見つくろってここに持ってきてくれないか？","It doesn't have to be anything specific,
+見つくろってここに持ってきてくれないか？","It doesn’t have to be anything specific,
 but could you select some and bring them back here?",ui\00_message\quest\q20030002.gmd,\quest\q20030002.arc,q20030002.arc,2,Christoph
 0,,"もちろん礼はするさ
 ああ、売り払ったりはしないよ
-純粋に、研究が目的なんだ","Of course I'll reward you.
-Ah, I won't sell them off—
+純粋に、研究が目的なんだ","Of course I’ll reward you.
+Ah, I won’t sell them off—
 this is purely for research purposes.",ui\00_message\quest\q20030002.gmd,\quest\q20030002.arc,q20030002.arc,3,Christoph
 0,,"おや？　そこいくあなたは覚者かな
 少し話を聞いてもらえないだろうか","Oh? You there—are you an Arisen?
 Could you spare a moment to listen?",ui\00_message\quest\q20030002.gmd,\quest\q20030002.arc,q20030002.arc,4,Christoph
 0,,"この古い古い城の中には、当然だが
-古い時代のものが沢山あってね――","Inside this very old castle, as you'd expect,
+古い時代のものが沢山あってね――","Inside this very old castle, as you’d expect,
 there are many relics from ancient times—",ui\00_message\quest\q20030002.gmd,\quest\q20030002.arc,q20030002.arc,5,Christoph
 0,,"それを、目についただけかき集めて
 ここに持ってきてくれないか？","Could you gather whatever catches your eye
@@ -1473,7 +1474,7 @@ It would be terrible if anything happened to the materials.",ui\00_message\quest
 少し話を聞いてもらえないだろうか","Oh? You there—are you an Arisen?
 May I ask for a moment of your time?",ui\00_message\quest\q20030002.gmd,\quest\q20030002.arc,q20030002.arc,8,Christoph
 0,,"この古い古い城の中には、当然だが
-古い時代のものが沢山あってね――","Inside this very old castle, as you'd expect,
+古い時代のものが沢山あってね――","Inside this very old castle, as you’d expect,
 there are many items from ancient times—",ui\00_message\quest\q20030002.gmd,\quest\q20030002.arc,q20030002.arc,9,Christoph
 0,,"それを、片っ端から手当たり次第
 ここに持ってきてくれないか？","Could you bring back everything you find,
@@ -1481,54 +1482,54 @@ one after another?",ui\00_message\quest\q20030002.gmd,\quest\q20030002.arc,q2003
 0,,"中は魔物の巣窟らしいから
 しっかりと準備をしてから行ってくれ
 それと、史料が血で汚れないよう気をつけてくれよ","It seems the inside is a den of monsters,
-so make sure you're well prepared before going.
+so make sure you’re well prepared before going.
 And please be careful not to stain the materials with blood.",ui\00_message\quest\q20030002.gmd,\quest\q20030002.arc,q20030002.arc,11,Christoph
 0,,"ほう――ほうほう――
 良い物が手に入った
 これはなかなかだ！","Oh—oh ho—
-I've obtained something good.
+I’ve obtained something good.
 This is quite impressive!",ui\00_message\quest\q20030002.gmd,\quest\q20030002.arc,q20030002.arc,12,Christoph
 0,,"おっと――これはなかなか――
 うん、貴重な史料が手に入った
 頭を下げたかいがあったというものだね","Oh—this is quite something—
-Yes, I've acquired some valuable documents.
+Yes, I’ve acquired some valuable documents.
 It was worth bowing my head for this.",ui\00_message\quest\q20030002.gmd,\quest\q20030002.arc,q20030002.arc,13,Christoph
 0,,"おお！　これは！？　素晴らしい資料だ！
-こんなものが残っていたとは！","Oh! What's this!? These are magnificent records!
+こんなものが残っていたとは！","Oh! What’s this!? These are magnificent records!
 To think something like this still remained!",ui\00_message\quest\q20030002.gmd,\quest\q20030002.arc,q20030002.arc,14,Christoph
 0,,"――こうしてはいられない！
-さっそく研究の続きに戻らなければ――！","—I can't stand around like this!
+さっそく研究の続きに戻らなければ――！","—I can’t stand around like this!
 I must return to my research at once—!",ui\00_message\quest\q20030002.gmd,\quest\q20030002.arc,q20030002.arc,15,Christoph
 0,,"いやぁ――成果が楽しみだよ
-ほら、早く城の中へ行ってくれ","Ah—I can't wait to see the results.
+ほら、早く城の中へ行ってくれ","Ah—I can’t wait to see the results.
 Now then, hurry and head back into the castle.",ui\00_message\quest\q20030002.gmd,\quest\q20030002.arc,q20030002.arc,16,Christoph
 0,,"――あんた、白竜神殿の覚者だろ？
-ここには何で来たの？　任務？","—Hey, you're an Arisen of the White Dragon Temple, right?
+ここには何で来たの？　任務？","—Hey, you’re an Arisen of the White Dragon Temple, right?
 What brought you here? A mission?",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,0,Urda
 0,,"――と、知りつつ誘ってみるんだけどさ
-城内の魔物、退治してくれない？","—I know the answer already, but I'll ask anyway.
+城内の魔物、退治してくれない？","—I know the answer already, but I’ll ask anyway.
 Could you deal with the monsters inside the castle?",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,1,Urda
 0,,"ここ、もうちょい探検したいんだけど
 魔物が強すぎてまいってたのよ
 ――頼むわ","I want to explore a bit more here,
 but the monsters are way too strong—I was at my limit.
-—I'm begging you.",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,2,Urda
+—I’m begging you.",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,2,Urda
 0,,"――あんた、白竜神殿の覚者だろ？
-ここには何で来たの？　任務？","—Hey, you're an Arisen of the White Dragon Temple, right?
+ここには何で来たの？　任務？","—Hey, you’re an Arisen of the White Dragon Temple, right?
 What brought you here? A mission?",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,3,Urda
 0,,"――と、知りつつ誘ってみるんだけどさ
-城内の魔物、退治してくれない？","—I know already, but I'll ask anyway.
+城内の魔物、退治してくれない？","—I know already, but I’ll ask anyway.
 Could you defeat the monsters inside the castle?",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,4,Urda
 0,,"ここ、もうちょい探検したいんだけど
 魔物が強すぎてまいってたのよ
 ――頼むわ","I want to explore a bit more here,
-but the monsters are too strong—I couldn't handle it.
-—I'm counting on you.",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,5,Urda
+but the monsters are too strong—I couldn’t handle it.
+—I’m counting on you.",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,5,Urda
 0,,"まあ、手こずるかも知れないけど
 何とかできるでしょ？　覚者だし","Well, you might struggle a bit,
 but you can handle it, right? You are an Arisen after all.",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,6,Urda
 0,,"――あんた、白竜神殿の覚者だろ？
-ここには何で来たの？　任務？","—Hey, you're an Arisen of the White Dragon Temple, right?
+ここには何で来たの？　任務？","—Hey, you’re an Arisen of the White Dragon Temple, right?
 What brought you here? A mission?",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,7,Urda
 0,,"――と、知りつつ誘ってみるんだけどさ
 城内の魔物、退治してくれない？","—I know the answer already, but still—
@@ -1545,7 +1546,7 @@ is just… exhausting, right?",ui\00_message\quest\q20030003.gmd,\quest\q2003000
 正直あんたでも辛いかも――だけど","Well, the monsters are really strong, so
 honestly, even you might have a hard time—but still.",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,11,Urda
 0,,へぇ、やるじゃん！,"Heh, not bad at all!",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,12,Urda
-0,,もし魔物が増えたら、その時はまた頼むわ,"If more monsters show up, I'll ask you again.",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,13,Urda
+0,,もし魔物が増えたら、その時はまた頼むわ,"If more monsters show up, I’ll ask you again.",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,13,Urda
 0,,"なに、もう倒したの？
 さすが覚者！　やるじゃん","What, you already defeated them?
 As expected of an Arisen! Nice work!",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,14,Urda
@@ -1554,16 +1555,16 @@ As expected of an Arisen! Nice work!",ui\00_message\quest\q20030003.gmd,\quest\q
 もっと時間かかると思ってたわ","Sorry, sorry.
 Honestly, I underestimated you.
 I thought it would take much longer.",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,15,Urda
-0,,もし魔物が増えたら、その時はまた頼むわ,"If more monsters appear, I'll ask you again.",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,16,Urda
+0,,もし魔物が増えたら、その時はまた頼むわ,"If more monsters appear, I’ll ask you again.",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,16,Urda
 0,,"えっ！　もう倒したって、それ本気？
 うっそ信じらんない――","Huh!? You already beat them—seriously?
-No way, I can't believe it—",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,17,Urda
+No way, I can’t believe it—",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,17,Urda
 0,,"覚者ってほんとに強いんじゃん！
 もっとだるいかと思ってたわ","Arisen really are strong!
 I thought this would be way more of a pain.",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,18,Urda
 0,,"ありがとね、あんたすごいよ
-もし魔物が増えたら、また頼むわ","Thanks—you're amazing.
-If more monsters show up, I'll ask you again.",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,19,Urda
+もし魔物が増えたら、また頼むわ","Thanks—you’re amazing.
+If more monsters show up, I’ll ask you again.",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,19,Urda
 0,,"あ、やっぱ無理？
 やめてもいいよ","Ah, is it too much after all?
 You can quit if you want.",ui\00_message\quest\q20030003.gmd,\quest\q20030003.arc,q20030003.arc,20,Urda
@@ -1583,7 +1584,7 @@ Thus, I would like your help recovering them.",ui\00_message\quest\q20030004.gmd
 0,,"北西に行くと、古い建物がある
 貴殿はその中の物を頼む
 それらしい物があれば持ち帰ってくれ","To the northwest, there is an old building.
-I ask that you handle what's inside.
+I ask that you handle what’s inside.
 If you find anything that seems relevant, bring it back.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,3,Gerd
 0,,"わたしは建物の外を探して回る
 魔物が多いはずだからな
@@ -1614,11 +1615,11 @@ There should be many monsters.",ui\00_message\quest\q20030004.gmd,\quest\q200300
 0,,"建物内の魔物はそうでもないだろうが――
 いや、なんとも言えんな
 そこそこ強いと考えた方がいい","The monsters inside the building may not be too bad—
-no, it's hard to say.
+no, it’s hard to say.
 You should assume they are fairly strong.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,10,Gerd
 0,,"しかしまあ、貴殿なら問題はないだろう
 では、あとで落ち合おう","Still, for someone like you, it should be no problem.
-We'll meet up later.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,11,Gerd
+We’ll meet up later.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,11,Gerd
 0,,"おお、貴殿は――
 もしや、時間はあるか？
 ならば、手を貸してほしい","Oh, sir—
@@ -1635,7 +1636,7 @@ Thus, I would like your help retrieving them.",ui\00_message\quest\q20030004.gmd
 0,,"北西に行くと古い建物がある
 貴殿はその中の物を頼む
 それらしい物があれば持ち帰ってくれ","To the northwest there is an old building.
-I ask you to handle what's inside.
+I ask you to handle what’s inside.
 If you find anything suitable, bring it back.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,15,Gerd
 0,,"わたしは建物の外を探して回る
 魔物が多いはずだからな","I will search around outside the building.
@@ -1643,11 +1644,11 @@ There should be many monsters.",ui\00_message\quest\q20030004.gmd,\quest\q200300
 0,,"建物内の魔物はそうでもないだろうが――
 いや、なんとも言えんな
 かなり強いと考えた方がいいかもしれない","The monsters inside may not be too bad—
-no, it's hard to say.
-It might be best to assume they're quite strong.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,17,Gerd
+no, it’s hard to say.
+It might be best to assume they’re quite strong.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,17,Gerd
 0,,"用心怠りなく、頼むぞ
-では、あとで落ち合おう","Stay vigilant—I'm counting on you.
-We'll meet up later.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,18,Gerd
+では、あとで落ち合おう","Stay vigilant—I’m counting on you.
+We’ll meet up later.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,18,Gerd
 0,,おお――その旗を持ち帰ってくれたのか！？,Oh—did you bring back that flag!?,ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,19,Gerd
 0,,"あの建物は古い時代からの騎士団詰め所でな
 ある夜、オークどもの襲撃を受けて
@@ -1655,7 +1656,7 @@ We'll meet up later.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20
 そんな逸話を持つ場所なのだ","That building was a Knight Order outpost from ancient times.
 One night, it was attacked by orcs
 and fell into ruin, costing many lives.
-It's a place with such a grim history.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,20,Gerd
+It’s a place with such a grim history.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,20,Gerd
 0,,"わたしが団長を目指したのはその夜からだ
 あの時わたしは若く、力も無かった","From that night on, I resolved to become a commander.
 At the time, I was young and powerless.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,21,Gerd
@@ -1673,7 +1674,7 @@ and neglected their own training.",ui\00_message\quest\q20030004.gmd,\quest\q200
 あのような急襲ごときで惨敗を喫することもなく
 仲間も死なずにすんだだろう","I wanted to correct that, somehow.
 Had we emphasized training and discipline day to day,
-we wouldn't have suffered such a crushing defeat from a mere surprise attack,
+we wouldn’t have suffered such a crushing defeat from a mere surprise attack,
 and our comrades might have lived.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,23,Gerd
 0,,"騎士団は変わった――
 その報告をしたくてここに来たというわけだ
@@ -1682,7 +1683,7 @@ and our comrades might have lived.",ui\00_message\quest\q20030004.gmd,\quest\q20
 that is why I came here, to report it.
 We will take back the flag you recovered
 and lay it to rest in their memory.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,24,Gerd
-0,,では、世話になったな,"Well then, thank you for all you've done.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,25,Gerd
+0,,では、世話になったな,"Well then, thank you for all you’ve done.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,25,Gerd
 0,,おお――その旗を持ち帰ってくれたのか！？,Oh—did you bring back that flag!?,ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,26,Gerd
 0,,"あの建物はかつて騎士団の詰め所でな
 ある夜、オークどもの襲撃を受けて
@@ -1716,7 +1717,7 @@ Ah—I could hear sounds coming from the building.",ui\00_message\quest\q2003000
 0,,"かなり激しい戦闘だったようだな
 もちろん、礼はちゃんとさせてもらうよ
 その奮闘ぶりに報いるようにな","It seems the fighting was quite fierce.
-Of course, I'll reward you properly,
+Of course, I’ll reward you properly,
 in recognition of your valiant effort.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,32,Gerd
 0,,おお――その旗を持ち帰ってくれたのか！？,Oh—did you bring back that flag!?,ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,33,Gerd
 0,,"あの建物はかつて騎士団の詰め所でな
@@ -1742,8 +1743,8 @@ and neglected self-improvement.",ui\00_message\quest\q20030004.gmd,\quest\q20030
 その報告をしたくてここに来たというわけだ
 貴殿が取り返してくれた旗を持ち帰って
 弔ってもらうとしよう","The Knight Order has changed—
-that's why I came here to report it.
-We'll take back the flag you recovered
+that’s why I came here to report it.
+We’ll take back the flag you recovered
 and lay it to rest.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,37,Gerd
 0,,"では、世話になったな
 ああ、建物から漏れてきた音が聞こえた","Well then, thank you for your help.
@@ -1751,11 +1752,11 @@ Ah—I heard sounds leaking out from the building.",ui\00_message\quest\q2003000
 0,,"敵は相当手強かったようだな
 もちろん、礼はちゃんとさせてもらうよ
 その奮闘ぶりに報いるようにな","The enemy must have been quite formidable.
-Of course, I'll see that you're properly rewarded,
+Of course, I’ll see that you’re properly rewarded,
 befitting your efforts.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,39,Gerd
 0,,"何も見つからないようであれば
-無理は禁物だ","If you can't find anything,
-don't push yourself.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,40,Gerd
+無理は禁物だ","If you can’t find anything,
+don’t push yourself.",ui\00_message\quest\q20030004.gmd,\quest\q20030004.arc,q20030004.arc,40,Gerd
 0,,"あ、アンタ！
 ちょうどイイ所に来てくれたぜ","Hey, you!
 You came at just the right time!",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,0,Bandit
@@ -1766,7 +1767,7 @@ those annoying monsters were roaming around,
 and I ended up here while trying to escape.",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,1,Bandit
 0,,"頼むぜ、片っ端から倒してくれ！
 礼はちゃんとするからよ！","Please, take them all out!
-I'll make sure you're properly rewarded!",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,2,Bandit
+I’ll make sure you’re properly rewarded!",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,2,Bandit
 0,,"おおっ、アンタ！
 ちょうどイイ所に来てくれたぜ","Oh! You!
 You came at just the right moment!",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,3,Bandit
@@ -1777,7 +1778,7 @@ there were these terrifying monsters wandering around,
 and I ended up here while running away.",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,4,Bandit
 0,,"頼むぜ、なんとかしてくれ！
 死ぬよりゃマシだ！　礼はちゃんとするからよ！","Please, do something about it!
-Anything's better than dying! I'll reward you, I swear!",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,5,Bandit
+Anything’s better than dying! I’ll reward you, I swear!",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,5,Bandit
 0,,"うおおおおっ、アンタッ！
 た、助かった！！
 ホントイイ所に来てくれたぜ！！","Wooooah—you!!
@@ -1792,10 +1793,10 @@ and I ended up here while fleeing.",ui\00_message\quest\q20030005.gmd,\quest\q20
 ほんとどうしようもなかったんだ！
 ぜってぇ礼はちゃんとするからよ！","Please, do something about it!
 I seriously had no way out!
-I swear I'll reward you properly!",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,8,Bandit
+I swear I’ll reward you properly!",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,8,Bandit
 0,,"おぉ、戻ったのか
 なかなかやるな、アンタ
-じゃあこれで！","Oh, you're back.
+じゃあこれで！","Oh, you’re back.
 Not bad at all.
 Here you go, then!",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,9,Bandit
 0,,"――なんだよ
@@ -1803,56 +1804,56 @@ Here you go, then!",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q2003
 忘れてる訳ねぇだろ","—What?
 You mean the reward, right?
 You think I forgot?",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,10,Bandit
-0,,まぁどうせ、ここで拾った物だからな,"Well, it's something I picked up here anyway.",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,11,Bandit
+0,,まぁどうせ、ここで拾った物だからな,"Well, it’s something I picked up here anyway.",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,11,Bandit
 0,,"おぉ、戻ったのか
 大した腕だな、アンタ
-じゃあこれで！","Oh, you're back.
-You've got some serious skill.
+じゃあこれで！","Oh, you’re back.
+You’ve got some serious skill.
 Here you go!",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,12,Bandit
 0,,"――なんだよ
 分かってるよ、礼の事だろ？
 忘れてる訳ねぇだろ","—What?
-You're talking about the reward, right?
-Of course I didn't forget.",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,13,Bandit
+You’re talking about the reward, right?
+Of course I didn’t forget.",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,13,Bandit
 0,,"まぁどうせ、ここで拾った物だけどな
 なんの為にここに忍び込んだんだよ俺ぁ
-はぁー、生きてるからこそ出る愚痴だよな","Well, it's just something I picked up here anyway.
+はぁー、生きてるからこそ出る愚痴だよな","Well, it’s just something I picked up here anyway.
 Why did I even sneak in here in the first place…
 sigh—complaints like this only come from still being alive, huh.",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,14,Bandit
 0,,"おぉ、戻ったのか！
 すっげぇ腕だな、アンタ！！
 正直感動したぜ、あんなのをどうにか
-しちまうなんてよ！！","Oh, you're back!
-You're insanely skilled!!
-Honestly, I'm impressed—
+しちまうなんてよ！！","Oh, you’re back!
+You’re insanely skilled!!
+Honestly, I’m impressed—
 taking down something like that!!",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,15,Bandit
 0,,"いやぁほんとすごいぜ！！
 英雄だよ！　さすが覚者だ！！
-じゃあこれで！","Man, you're incredible!!
-A true hero—just what I'd expect from an Arisen!!
+じゃあこれで！","Man, you’re incredible!!
+A true hero—just what I’d expect from an Arisen!!
 Here you go!",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,16,Bandit
 0,,――――――,,ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,17,Bandit
 0,,"――なんだよ
 分かってるよ、礼の事だろ？
 忘れてる訳ねぇだろ","—What is it?
-I know, you're talking about the reward, right?
+I know, you’re talking about the reward, right?
 You think I forgot?",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,18,Bandit
 0,,"ったく、ちゃっかりしてやがるぜ
 褒めちぎったら誤魔化せるかと
 思ったのによ
-まぁどうせ、ここで拾った物だけどな","Jeez, you're a sly one.
+まぁどうせ、ここで拾った物だけどな","Jeez, you’re a sly one.
 I thought I could smooth it over
 by praising you a bit.
-Well, it's something I picked up around here anyway.",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,19,Bandit
+Well, it’s something I picked up around here anyway.",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,19,Bandit
 0,,"頼むぜ、何とかしてくれよ
-無事戻れないと礼もできないぜ","I'm begging you, do something about it.
-If I don't make it back safe, I can't even give you a reward.",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,20,Bandit
+無事戻れないと礼もできないぜ","I’m begging you, do something about it.
+If I don’t make it back safe, I can’t even give you a reward.",ui\00_message\quest\q20030005.gmd,\quest\q20030005.arc,q20030005.arc,20,Bandit
 0,,ったく、あの石頭が！,Damn that hardheaded fool!,ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,0,Lightly-Equipped Soldier
 0,,"関所の取り締まりが厳しくなりやがって
 このままじゃ運び屋商売あがったりだ！
 神殿やテルに仕入れにも行けやしない","The checkpoint inspections have gotten stricter.
 At this rate, my courier business is finished!
-I can't even go stock up at the temple or Tel.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,1,Lightly-Equipped Soldier
+I can’t even go stock up at the temple or Tel.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,1,Lightly-Equipped Soldier
 0,,"頼む、なぁアンタ
 俺の代わりに関所の向こうにいって、いくつか品を
 調達してきちゃあくれねぇか？","Please, hey—you.
@@ -1862,9 +1863,9 @@ and procure a few items for me?",ui\00_message\quest\q20030006.gmd,\quest\q20030
 0,,ったく、あの石頭が！,Damn that blockhead!,ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,4,Lightly-Equipped Soldier
 0,,"関所の取り締まりが厳しくなりやがって
 このままじゃ運び屋商売あがったりだ！
-神殿やテルに仕入れにも行けやしない","The checkpoint's gotten way stricter.
+神殿やテルに仕入れにも行けやしない","The checkpoint’s gotten way stricter.
 If this keeps up, my courier business is done for!
-I can't even go get supplies from the temple or Tel.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,5,Lightly-Equipped Soldier
+I can’t even go get supplies from the temple or Tel.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,5,Lightly-Equipped Soldier
 0,,"頼む、なぁアンタ
 俺の代わりに関所の向こうにいって、いくつか品を
 調達してきちゃあくれねぇか？","Please, listen—
@@ -1874,28 +1875,28 @@ and gather a few items for me.",ui\00_message\quest\q20030006.gmd,\quest\q200300
 ノンビリしてる場合じゃないんだ","An Arisen can pass through the checkpoint, right?
 This is no time to be taking it slow.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,7,Lightly-Equipped Soldier
 0,,"ちょっと物取りだかが出るって話だが
-大丈夫だよな？　覚者なら","I've heard there might be some thieves along the way,
-but you'll be fine, right? You're an Arisen.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,8,Lightly-Equipped Soldier
+大丈夫だよな？　覚者なら","I’ve heard there might be some thieves along the way,
+but you’ll be fine, right? You’re an Arisen.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,8,Lightly-Equipped Soldier
 0,,ったく、あの石頭が！,Damn that stubborn fool!,ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,9,Lightly-Equipped Soldier
 0,,"関所の取り締まりが厳しくなりやがって
 このままじゃ運び屋商売あがったりだ！
 神殿やテルに仕入れにも行けやしない","The checkpoint inspections have tightened up.
 At this rate, my courier business is finished!
-I can't even go stock up at the temple or Tel.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,10,Lightly-Equipped Soldier
+I can’t even go stock up at the temple or Tel.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,10,Lightly-Equipped Soldier
 0,,"頼む、なぁアンタ
 俺の代わりに関所の向こうにいって、いくつか品を
-調達してきちゃあくれねぇか？","Please, I'm begging you—
+調達してきちゃあくれねぇか？","Please, I’m begging you—
 go beyond the checkpoint in my place
 and procure some items.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,11,Lightly-Equipped Soldier
 0,,"関所は覚者なら通れるんだろ？
 ノンビリしてる場合じゃないんだ","An Arisen can get through the checkpoint, right?
-This isn't the time to slack off.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,12,Lightly-Equipped Soldier
+This isn’t the time to slack off.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,12,Lightly-Equipped Soldier
 0,,"今は道中が相当物騒らしいと聞いたが
 大丈夫だよな？　覚者なら","I hear the roads are pretty dangerous right now,
-but you'll be fine, won't you? You're an Arisen.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,13,Lightly-Equipped Soldier
+but you’ll be fine, won’t you? You’re an Arisen.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,13,Lightly-Equipped Soldier
 0,,"おお、早いな
 もう調達してきてくれたのか！","Oh, that was fast.
-You've already gotten the supplies?",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,14,Lightly-Equipped Soldier
+You’ve already gotten the supplies?",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,14,Lightly-Equipped Soldier
 0,,これで村の奴らにも顔向けできるぜ,Now I can finally show my face to the folks in the village.,ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,15,Lightly-Equipped Soldier
 0,,"おお、早いな
 もう調達してきてくれたのか！","Oh, that was quick.
@@ -1905,40 +1906,40 @@ You already brought them back?",ui\00_message\quest\q20030006.gmd,\quest\q200300
 I owe you one!",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,17,Lightly-Equipped Soldier
 0,,"おお、早いな
 なら、ついでにもう一つ頼みがある","Oh, that was fast.
-In that case, I've got one more favor to ask.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,18,Lightly-Equipped Soldier
+In that case, I’ve got one more favor to ask.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,18,Lightly-Equipped Soldier
 0,,"通行許可証を手に入れてくれ
 アンタならできるだろ？
 覚者なら頼んだぜ","Get me a travel permit.
 You can do it, right?
-I'm counting on you as an Arisen.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,19,Lightly-Equipped Soldier
+I’m counting on you as an Arisen.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,19,Lightly-Equipped Soldier
 0,,"はい？
 通行許可証が欲しいですって？","Huh?
 You want a travel permit?",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,20,Kittredge
 0,,"あぁ、ジンゲンの運び屋ですか
 最近こないと思ったらそういう事だったのですね","Ah, a courier for Jingen, is it?
-I was wondering why he hadn't come around lately—so that's why.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,21,Kittredge
+I was wondering why he hadn’t come around lately—so that’s why.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,21,Kittredge
 0,,"一応、推薦状だけ書いてあげましょう
 これを関所のジョシュに渡してください
-どうなるかは彼次第ですが","I'll write you a letter of recommendation, at least.
+どうなるかは彼次第ですが","I’ll write you a letter of recommendation, at least.
 Give this to Josh at the checkpoint.
 What happens next will depend on him.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,22,Kittredge
 0,,"どうした？
-これは――推薦状？","What's this?
+これは――推薦状？","What’s this?
 This is—a letter of recommendation?",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,23,Josh
-0,,運び屋の身分を、キトリッジが保証すると？,Kittridge is vouching for the courier's status?,ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,24,Josh
+0,,運び屋の身分を、キトリッジが保証すると？,Kittridge is vouching for the courier’s status?,ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,24,Josh
 0,,"――しかたない
 奴が言うなら、信用おける人物なのだろう
 ほら、これを持って行け","—Very well.
 If he says so, then the man must be trustworthy.
 Here, take this.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,25,Josh
-0,,神殿の物流が滞るのはまずいしな,It wouldn't do for the temple's logistics to grind to a halt.,ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,26,Josh
+0,,神殿の物流が滞るのはまずいしな,It wouldn’t do for the temple’s logistics to grind to a halt.,ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,26,Josh
 0,,"おぉ！　手に入れてくれたのか！
 半信半疑だったんだが、さすがは覚者だぜ","Oh! You got it for me!?
 I had my doubts, but as expected of an Arisen.",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,27,Lightly-Equipped Soldier
 0,,アンタに頼んで正解だった,Asking you was the right call.,ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,28,Lightly-Equipped Soldier
 0,,"しっかりやってくれよ
 アンタ覚者なんだろ？","Do a proper job, alright?
-You're an Arisen, aren't you?",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,29,Lightly-Equipped Soldier
+You’re an Arisen, aren’t you?",ui\00_message\quest\q20030006.gmd,\quest\q20030006.arc,q20030006.arc,29,Lightly-Equipped Soldier
 0,,"やぁ、あんた！
 いい所に来てくれたな
 ちょっとばかしオレの話を聞いてくれよ","Hey, you!
@@ -1948,4 +1949,4 @@ Could you listen to me for a bit?",ui\00_message\quest\q20030007.gmd,\quest\q200
 最近魔物が入り込んだみたいでさ
 色々うるさいんだよね","You know the well behind my house?
 Seems monsters have gotten inside recently.
-They're making all sorts of noise.",ui\00_message\quest\q20030007.gmd,\quest\q20030007.arc,q20030007.arc,1,Chester
+They’re making all sorts of noise.",ui\00_message\quest\q20030007.gmd,\quest\q20030007.arc,q20030007.arc,1,Chester
