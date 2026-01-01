@@ -1,30 +1,30 @@
 0,,"覚者さま、嬉しいけど――
 これじゃ、<COL b92828><NAME ITEM></COL>足りないよ
 <COL b92828><VAL> 個</COL>貰えるまで
-我慢して待ってますね","Arisen, I’m happy, but— this isn’t enough <COL b92828><NAME ITEM></COL>. 
-I’ll be patient and wait until I get <COL b92828><VAL> units</COL>.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,10
+我慢して待ってますね","Arisen, I'm happy, but— this isn't enough <COL b92828><NAME ITEM></COL>. 
+I'll be patient and wait until I get <COL b92828><VAL> units</COL>.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,10
 0,,"実は、覚者様に見せたいものがあるんです！
-しばらく外を散歩してきてください！","Actually, there’s something I want to show you, Arisen!
+しばらく外を散歩してきてください！","Actually, there's something I want to show you, Arisen!
 Could you go take a little walk outside for a while?",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,11
 0,,"覚者さま――
 本当にぼくがお傍にいなくて――いいんですか？","Arisen—
 are you really okay with me not being by your side?",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,12
 0,,"覚者さま、今日の調子はいかがですか？
 ぼくはとっても元気ですよ！","Arisen, how are you feeling today?
-I’m doing great!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,13
+I'm doing great!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,13
 0,,"覚者さま、とっても良い天気です！
-ね、外に行きましょうよ！","Arisen, it’s such nice weather!
-Hey, let’s go outside!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,14
+ね、外に行きましょうよ！","Arisen, it's such nice weather!
+Hey, let's go outside!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,14
 0,,"連れているポーンよりも覚者さまがすごく強いと
 ポーンの経験量がたくさん増える――みたいです
-ってことは、すぐ強くなれちゃいますね！　すごい！","If the Arisen is way stronger than the pawn they’re with,
+ってことは、すぐ強くなれちゃいますね！　すごい！","If the Arisen is way stronger than the pawn they're with,
 the pawn gains a lot more experience—or so I heard.
-That means we’ll get strong really fast! Amazing!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,15
+That means we'll get strong really fast! Amazing!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,15
 0,,"覚者さま、お出かけですか？
 わぁい、今日は何が見られるんだろう
 たのしみだなぁ！","Arisen, are we going out?
-Yay, I wonder what we’ll get to see today—
-I’m excited!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,16
+Yay, I wonder what we'll get to see today—
+I'm excited!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,16
 0,,"お帰りなさい、覚者さま！
 ごはんにしますか？　おふろにしますか？
 それとも――座ってのんびりしちゃいます？","Welcome back, Arisen!
@@ -42,7 +42,7 @@ Wanting to stay in a safe room forever—
 am I really a pawn?",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,19
 0,,"覚者さま、お耳を貸してください！
 あのね――ぼく、覚者さまのポーンでよかったです！","Arisen, please listen for a moment!
-Um—you know—I’m really glad I’m your pawn!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,20
+Um—you know—I'm really glad I'm your pawn!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,20
 0,,"ポーンは戦うための存在だって
 そう思ってたけど――
 ぼくをこんなすてきなお部屋に入れてくださって
@@ -58,7 +58,7 @@ I just wanted to see what it was like to be called!",ui\00_message\pawn\talk\sta
 0,,"ねぇねぇ、覚者さま
 ぼく――ううん、なんでもないです！
 覚者さまの笑顔を見たら、元気になっちゃいました！","Hey, Arisen—
-I—no, it’s nothing!
+I—no, it's nothing!
 Seeing your smile made me feel better!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,24
 0,,"あっ！　ちょうど今、次は覚者さまと
 どこに行きたいかな、って考えてたんです","Ah! Just now, I was thinking about
@@ -72,22 +72,22 @@ sometimes I want to relax in the room too.",ui\00_message\pawn\talk\stage\featur
 0,,"あっ、覚者さま！　どこに行くんですか？
 ぼくも連れて行ってくれますよね？
 お留守番は嫌ですよ！","Ah, Arisen! Where are you going?
-You’ll take me with you, right?
-I don’t want to stay behind!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,28
+You'll take me with you, right?
+I don't want to stay behind!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,28
 0,,"今日もお出かけですか？
 この前みたいに怪我、しないでくださいね
 ぼくと約束ですよ","Are we going out again today?
-Please don’t get hurt like last time, okay?
+Please don't get hurt like last time, okay?
 Promise me.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,29
 0,,"はい、覚者様！
 ぼくはここにいます","Yes, Arisen!
-I’m right here.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,30
+I'm right here.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,30
 0,,"ふふふ、覚者さま！　くすぐったいです！
 でも――覚者さまの手って、温かいですね","Hehehe, Arisen! That tickles!
 But—your hands are warm.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,31
 0,,"覚者さま、ぼくはずっとここにいますよ
-慌てなくても、大丈夫ですからね","Arisen, I’ll stay right here forever.
-No need to rush—everything’s okay.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,32
+慌てなくても、大丈夫ですからね","Arisen, I'll stay right here forever.
+No need to rush—everything's okay.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,32
 0,,"なんと昨日、お庭にグリフィンが来てたんです
 仲良くなれたから、いーっぱい遊んじゃいました！
 あやしてあげると安心するみたいですよ
@@ -101,53 +101,53 @@ You should try it too, Arisen!",ui\00_message\pawn\talk\stage\feature9001\person
 反応してくれるかはわからないけど――","How to get along with animals? Hmm—
 maybe try doing something toward the garden?
 Like using an emote?
-I’m not sure if they’ll react, though—",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,34
+I'm not sure if they'll react, though—",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,34
 0,,"一緒に冒険に行ったり
 クラフトを任されたりすると
 覚者さまのこと、もっともっと
 わかるような気がします！","When we go adventuring together
-or I’m entrusted with crafting,
+or I'm entrusted with crafting,
 I feel like I understand you better and better,
 Arisen!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,35
 0,,"レスタニアンパペットがあれば
 お留守番で寂しいとき、
 一緒に遊んで待てるんだけどなぁ――","If I had a Lestanian Puppet,
-I could play with it while waiting when I’m lonely at home—",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,36
+I could play with it while waiting when I'm lonely at home—",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,36
 0,,"クラフトする時は
 任せるポーンを間違えないでくださいね！
 ぼくらポーンにも、得意なことと
 苦手なことがありますから","When crafting,
-please don’t choose the wrong pawn!
-Even we pawns have things we’re good at
-and things we’re bad at.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,37
+please don't choose the wrong pawn!
+Even we pawns have things we're good at
+and things we're bad at.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,37
 0,,"神殿の外でも
 戦技の切り替えができるそうですよ！
 便利ですね！","Apparently you can switch combat skills
 even outside the temple!
-That’s convenient!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,38
+That's convenient!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,38
 0,,"覚者さまみたいに
 気持ちを体で表現できるようになりたくて
 いつもこっそり見てるんです！","I want to express my feelings with my body like you do, Arisen,
-so I’m always secretly watching you!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,39
+so I'm always secretly watching you!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,39
 0,,"ねぇ、覚者さま――気付いてないかもしれないけど
 ぼくがたくさん色んなものを見られるのは
 覚者さまのおかげだって、すっごく感謝してるんです","Hey, Arisen—you might not notice, but
-I’m really thankful that I get to see so many things
+I'm really thankful that I get to see so many things
 because of you.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,40
 0,,"覚者さまも、隣にいるポーンが
 かっこ悪かったら嫌ですよね？
-だからぼく、見た目には結構気を付けてるんです","You wouldn’t like it 
+だからぼく、見た目には結構気を付けてるんです","You wouldn't like it 
 if the pawn next to you looked lame, right?
-That’s why I pay a lot of attention to my appearance.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,41
+That's why I pay a lot of attention to my appearance.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,41
 0,,"ねぇねぇ覚者さま！
 《鍛錬の小部屋》、使ってますか？
 えへへ――ぼくが覚者さまのために
 毎日お掃除してるんですよー！","Hey, Arisen!
 Do you use the Training Room?
 Hehe—I clean it every day just for you!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,42
-0,,さあ、行きましょう！,"Come on, let’s go!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,43
-0,,お願い聞いてくれないんですか？,Won’t you listen to my request?,ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,44
-0,,早くいきましょう！,Let’s hurry!,ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,45
+0,,さあ、行きましょう！,"Come on, let's go!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,43
+0,,お願い聞いてくれないんですか？,Won't you listen to my request?,ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,44
+0,,早くいきましょう！,Let's hurry!,ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,45
 0,,"わーい！　ありがとうございます！
 いつくださるんですか？！
 もしかして、今ですか？　早く早くー","Yay! Thank you so much!
@@ -156,52 +156,52 @@ Is it now? Now?! Hurry, hurry!",ui\00_message\pawn\talk\stage\feature9001\person
 0,,"えー！
 そうですか――しかたないですけど――
 うぅ――覚者さまのケチ","Eeh!
-I see—well, I guess it can’t be helped—
-ugh—Arisen, you’re so stingy.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,47
+I see—well, I guess it can't be helped—
+ugh—Arisen, you're so stingy.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,47
 0,,"わーい！　ぼくにくれるんですよね？
-ありがとうございます！","Yay! You’re giving it to me, right?
+ありがとうございます！","Yay! You're giving it to me, right?
 Thank you!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,48
 0,,"ねぇ覚者さま、お願いしたアレはまだですか？
 ぼく、ずっと楽しみにしてるんです！","Hey Arisen, is that thing I asked for ready yet?
-I’ve been looking forward to it the whole time!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,49
+I've been looking forward to it the whole time!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,49
 0,,"覚者さま、おかえりなさい！
 ウェアをお洗濯しておきました
 たぶん大丈夫だと思うんですけど――
 濡れてたらごめんなさい！","Welcome back, Arisen!
 I washed your clothes.
-I think they’re fine, but—
-sorry if they’re still damp!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,50
+I think they're fine, but—
+sorry if they're still damp!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,50
 0,,"覚者さま、おかえりなさい！
 お掃除とか、お洗濯とか、がんばったんです
 ねぇ、えらいですか？
 へへ――だってぼく、パートナーポーンですから！","Welcome back, Arisen!
 I worked really hard cleaning and doing laundry.
 Hey, am I good?
-Hehe—it’s because I’m your partner pawn!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,51
+Hehe—it's because I'm your partner pawn!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,51
 0,,"覚者さまって――いつか竜になっちゃうんですか？
 そうしたら――ぼくたちポーンは
 どこへ行っちゃうんでしょう？
 ぼくのこと、忘れちゃったりしないですよね――？","Arisen—will you become a dragon someday?
 If that happens—where will we pawns go?
-You won’t forget me, right…?",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,52
+You won't forget me, right…?",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,52
 0,,"ねぇねぇ、ぼくってもう人みたいだと思いませんか？
 へへ――いつも覚者さまを観察していましたからね
-いろんな表現だってできるんですよ！","Hey, don’t you think I’m kind of like a human now?
-Hehe—I’ve been watching you all the time, Arisen,
+いろんな表現だってできるんですよ！","Hey, don't you think I'm kind of like a human now?
+Hehe—I've been watching you all the time, Arisen,
 so I can express myself in lots of ways!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,53
 0,,"覚者さまが一番好きな食べもの――
 ぼくもいっしょに楽しんでみたいなぁ
 最近、覚者さまや人が楽しむものに
 興味があるんです！","Your favorite food, Arisen—
 I want to enjoy it together with you.
-Lately, I’ve been interested in the things
+Lately, I've been interested in the things
 you and humans enjoy!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,54
 0,,"ぼく、もっと覚者さまと色んなところへ行ったり
 色んなものを見たりしたいんです！
 ――ん？　何だか今、人間みたいなこと
 言っちゃいましたね","I want to go to lots of places with you
 and see lots of things, Arisen!
-—Huh? That sounded kind of human, didn’t it?",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,55
+—Huh? That sounded kind of human, didn't it?",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,55
 0,,"ねぇねぇ覚者さま、ぼく本を読んだんです！
 えっと、確か――植物さんは、お肉や皮、野菜とか
 人間も大好きなものを食べておおきくなるんだって
@@ -214,15 +214,15 @@ Uh, and then—sorry, I forgot the rest!",ui\00_message\pawn\talk\stage\feature9
 クランに入ってるなら、ちゃんと毎日派遣したほうが
 いいんだって、この前他の覚者が言ってましたよ！","Arisen, you can always send me out
 as part of a pawn expedition, okay?
-If you’re in a clan, another Arisen said
+If you're in a clan, another Arisen said
 you should send them out every day!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,57
 0,,"ねぇ、覚者さま
 あれが欲しいとか、ここに行きたいとか――
 ぼくが言ったらわがままだと思いますか？
 わがままでも――嫌いにならないでくださいね","Hey, Arisen—
 if I say I want this or want to go there,
-do you think I’m being selfish?
-Even if I am—please don’t hate me.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,58
+do you think I'm being selfish?
+Even if I am—please don't hate me.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,58
 0,,"ダンジョンで、たまに落ちてる紙切れ――
 集めてみたら、どんなことが書いてるんでしょうか？
 覚者さま、読んだら教えてくださいね！","Those scraps of paper you sometimes find in dungeons—
@@ -230,18 +230,18 @@ what do you think is written on them?
 Arisen, tell me if you read them!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,59
 0,,"本当ですか！？　やったぁ、お出かけだ！
 たまには戦わないお出かけもいいですよね
-それじゃ早く行きましょうよ、覚者さま！","Really?! Yay, we’re going out!
+それじゃ早く行きましょうよ、覚者さま！","Really?! Yay, we're going out!
 Going out without fighting is nice sometimes too, right?
-Then let’s hurry, Arisen!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,60
+Then let's hurry, Arisen!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,60
 0,,"うーん、覚者さまはお嫌なのかぁ
 それじゃあ――覚者さまも喜ぶような場所を
-探しておきますね！","Hmm, you don’t like it?
-Then—I’ll look for a place
-that you’ll like too, Arisen!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,61
+探しておきますね！","Hmm, you don't like it?
+Then—I'll look for a place
+that you'll like too, Arisen!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,61
 0,,"あれ、覚者さま――行かないんですか？
 あ、忘れ物しないように準備してるんですね
-覚者さま、えらい、えらい！","Huh, Arisen—aren’t we going?
-Oh, you’re getting ready so you don’t forget anything.
+覚者さま、えらい、えらい！","Huh, Arisen—aren't we going?
+Oh, you're getting ready so you don't forget anything.
 Good job, Arisen, good job!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,62
 0,,"わーい、とっても楽しかったです！
 ぼく、いつもの冒険よりこっちの方が好きかも――
@@ -253,7 +253,7 @@ just kidding!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\
 Thank you for calling me, Arisen!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,64
 0,,"あの――
 じつは、覚者さまに聞いてみたいことがあって――","Er...
-Actually, there’s something I want to ask you, Arisen.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,65
+Actually, there's something I want to ask you, Arisen.",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,65
 0,,"ぼくの戦い、いつも見ていてどう思うかなって
 もっとこうしてほしい、っていうのがあれば
 聞いてみたいな、と思って――","I keep wondering what you think when you see me fight.
@@ -266,7 +266,7 @@ Thank you!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_
 えへへ、わかりました！
 このままがんばってみます！","I-is that so?
 Hehe, okay!
-I’ll keep doing my best like this!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,68
+I'll keep doing my best like this!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,68
 0,,"<VAL>――
 ですか？
 ぼくは、どうすればいいんですか――？","<VAL>—
@@ -303,26 +303,26 @@ will make me more helpful, right?",ui\00_message\pawn\talk\stage\feature9001\per
 Arisen, is there anything else you can teach me?",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,74
 0,,"覚者さまの思ったとおり戦えるように
 ぼくがんばりますから！
-また、いろいろ教えてくださいね！","I’ll do my best so I can fight the way you want, Arisen!
+また、いろいろ教えてくださいね！","I'll do my best so I can fight the way you want, Arisen!
 Please teach me lots more!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,75
 0,,"わぁ！　ぼくのこと呼んでくれたんですね
 ぼく、覚者さまに教えてもらうこと
 がんばって実行しますから――
 これからも、ベルを鳴らしてお話してくださいね！","Wow! You called for me!
-I’ll do my best to put into practice
+I'll do my best to put into practice
 everything you teach me, Arisen—
 so please keep ringing the bell and talking with me!",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,76
 0,,"わぁ――それじゃ、これから
 <VAL>は
 ぼくにおまかせしてくれるんですか？","Wow—then from now on,
-you’ll leave <VAL>
+you'll leave <VAL>
 up to me?",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,77
 0,,"そっか――それじゃ、これから
 <VAL>のなかでも
 <VAL>のときの行動は
 ぼくにおまかせしてくれるんですか？","I see—then from now on,
 within <VAL>,
-you’ll leave what I do during <VAL>
+you'll leave what I do during <VAL>
 up to me?",ui\00_message\pawn\talk\stage\feature9001\persona06.gmd,\pw_talk\pt_feature9001_persona06.arc,pt_feature9001_persona06.arc,78
 0,,"そっか――それじゃ、ぼくはこれから
 <VAL>には、
@@ -339,7 +339,7 @@ my communication skills have improved!",ui\00_message\pawn\talk\stage\feature900
 0,,"覚者様に従ってきたおかげで
 俺の意思疎通力が上がったんです！","Thanks to following you, Arisen,
 my communication skills have improved!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,2
-0,,覚者様、これからもよろしくお願いしますよ！,"Arisen, I’m counting on you from here on out!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,3
+0,,覚者様、これからもよろしくお願いしますよ！,"Arisen, I'm counting on you from here on out!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,3
 0,,"巷で流行ってるって噂の髪型にしてみたんですが――
 へへ、気恥ずかしいですねこりゃ
 どうでしょう？","I tried out that hairstyle people say is trendy lately—
@@ -350,8 +350,8 @@ What do you think?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_
 ま、これは一時的なもんなんで、ちゃんとした
 セットは《美容院》に行く必要があるそうですがね","Hearing that makes it feel worth the effort to dress up!
 Well, this is just temporary, though—
-apparently I’ll need to go to the Barber for a proper set.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,5
-0,,覚者様がそう言うんなら、仕方ねえや,"If that’s what you say, Arisen, then I guess it can’t be helped.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,6
+apparently I'll need to go to the Barber for a proper set.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,5
+0,,覚者様がそう言うんなら、仕方ねえや,"If that's what you say, Arisen, then I guess it can't be helped.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,6
 0,,"覚者様、もし余ってたらでいいんですが――
 <COL b92828><NAME ITEM>を<VAL> 個</COL>いただけませんかね
 いえ、本当に余ってたらで構いませんぜ","Arisen, if there is any you can afford to spare...
@@ -360,28 +360,28 @@ Only if you really have some extra ones to spare.",ui\00_message\pawn\talk\stage
 0,,"覚者様――！　
 ありがてぇ、恩に着ますぜ！","Arisen—!
 Much obliged, I owe you one!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,8
-0,,ま、世の中そう上手くはいかねえやな,"Well, guess things don’t always go that smoothly.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,9
+0,,ま、世の中そう上手くはいかねえやな,"Well, guess things don't always go that smoothly.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,9
 0,,"いやぁ、<COL b92828><NAME ITEM></COL>はありがたいんですがね――
 <COL b92828><VAL> 個</COL>にはちょいとばかし足りねぇみたいです","Well, I appreciate the <COL b92828><NAME ITEM></COL>, but— 
-looks like it’s a bit short of <COL b92828><VAL> units</COL>.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,10
+looks like it's a bit short of <COL b92828><VAL> units</COL>.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,10
 0,,"覚者様、ちょいとばかし散歩してきちゃどうです？
 帰ってこられた時、すごいものをお見せしやすぜ","Arisen, how about taking a short walk?
-When you get back, I’ll show you something amazing.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,11
+When you get back, I'll show you something amazing.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,11
 0,,"俺、何かやらかしちまいましたかね――
 本当に俺をパートナーポーンから外すんですか？","Did I mess something up—?
 Are you really removing me as your partner pawn?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,12
-0,,覚者様、ご機嫌いかがです？,"Arisen, how’re you feeling?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,13
+0,,覚者様、ご機嫌いかがです？,"Arisen, how're you feeling?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,13
 0,,覚者様、今日もいい天気ですぜ！,"Arisen, another fine day today!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,14
 0,,"己よりずっと強い覚者に連れられたポーンってのは
 速く成長していくらしいですぜ
 主を手本に励んだ結果ってやつですかね","Pawns traveling with an Arisen way stronger than themselves
 apparently grow faster.
-Guess it’s the result of striving after one’s master.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,15
+Guess it's the result of striving after one's master.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,15
 0,,"どうも、覚者様！
 さっそく冒険に出るんですかい？
 こりゃ待ちきれねえや！","Hey there, Arisen!
 Heading out on an adventure already?
-Man, I can’t wait!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,16
+Man, I can't wait!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,16
 0,,"お帰りなさい、覚者様！
 じゃ、飯にしますか？
 それとも風呂の方がいいですかね？","Welcome back, Arisen!
@@ -392,33 +392,33 @@ Or how about a bath?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\p
 Combat or otherwise—anything you need.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,18
 0,,"ずっと戦場でのお供だけしていくもんだとばかり――
 へへ、ゆっくり暮らすってのもいいもんですね！
-部屋の中に入れてくださったこと、感謝しますぜ！","I always thought I’d just be following you on the battlefield—
-heh, living slowly isn’t bad either!
+部屋の中に入れてくださったこと、感謝しますぜ！","I always thought I'd just be following you on the battlefield—
+heh, living slowly isn't bad either!
 Thanks for letting me into the room!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,19
 0,,"俺ぁ、ポーンであることに不満なんて持った事ないね
 全力で敵ぶん殴って、お役に立って――
-覚者様が元気に笑っていてくだされば満足なんです","I’ve never had any complaints about being a pawn.
+覚者様が元気に笑っていてくだされば満足なんです","I've never had any complaints about being a pawn.
 If I can smash enemies and be useful—
 seeing you smile is all I need, Arisen.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,20
 0,,"こんな――ポーンの俺を部屋に入れていいんですか？
 そりゃぁ、ありがてぇんですが――
 なんかこう、申し訳ねぇような気持ちになります","Is it really okay to let a pawn like me into your room?
-I’m grateful, sure, but—
-it makes me feel kind of guilty, y’know?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,21
+I'm grateful, sure, but—
+it makes me feel kind of guilty, y'know?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,21
 0,,"うぉ！
 な、なんです覚者様","Whoa!
 W-what is it, Arisen?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,22
 0,,"なんです、覚者様
 そう何度も呼ばなくても
 俺は逃げたり居なくなったりしませんぜ","What is it, Arisen?
-You don’t need to call me so many times—
-I’m not gonna run off or disappear.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,23
+You don't need to call me so many times—
+I'm not gonna run off or disappear.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,23
 0,,"変ですかね？
 ポーンの俺に、覚者様の気持ちが
 分かる気がするだなんて――
 いや、柄にもないこと言っちまいましたね","Is that strange?
 A pawn like me feeling like I understand you, Arisen—
-nah, that’s not like me to say.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,24
+nah, that's not like me to say.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,24
 0,,"おっ、ちょうど今覚者様の事を考えてたんですよ
 あれ―――
 俺、何か変な事言いましたかい？","Ah! I was just thinking about you, Arisen.
@@ -428,7 +428,7 @@ Did I say something wrong?",ui\00_message\pawn\talk\stage\feature9001\persona07.
 くすぐってえや覚者様！
 急に何するんです、腹がよじれちまいそうだ","Hahaha!
 That tickles, Arisen!
-What’re you doing all of a sudden—my sides are killing me!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,26
+What're you doing all of a sudden—my sides are killing me!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,26
 0,,"覚者様、たまには休むことも大事ですぜ
 いざという時、わずかな疲れが
 命運を左右するもんです","Arisen, resting once in a while is important too.
@@ -439,20 +439,20 @@ can decide life or death.",ui\00_message\pawn\talk\stage\feature9001\persona07.g
 さてと、俺も覚者様に置いて行かれないうちに
 支度しちまわねぇとな！","Heading out already?
 yaaaawn—
-Guess I’d better get ready before you leave me behind!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,28
+Guess I'd better get ready before you leave me behind!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,28
 0,,"今日もどっか行くんですかね？
 しっかり食って、精つけといてくださいよ","Going somewhere again today?
 Make sure you eat well and keep your strength up.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,29
 0,,"へい、覚者様
 安心してください
-どこにいたって、俺がちゃあんと背中を守りますよ","Yeah, Arisen, don’t worry.
-No matter where we are, I’ll watch your back.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,30
+どこにいたって、俺がちゃあんと背中を守りますよ","Yeah, Arisen, don't worry.
+No matter where we are, I'll watch your back.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,30
 0,,"うお、どうしたんですかい
-暖を取るなら、俺なんかより良い物があるでしょうに","Whoa, what’s wrong?
+暖を取るなら、俺なんかより良い物があるでしょうに","Whoa, what's wrong?
 If you want warmth, there are better things than me, right?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,31
 0,,"覚者様、来るなと言われればお待ちします
-来いと言われるまで、いつまででも待ってますぜ","If you tell me not to come, I’ll wait.
-I’ll wait as long as it takes until you say otherwise.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,32
+来いと言われるまで、いつまででも待ってますぜ","If you tell me not to come, I'll wait.
+I'll wait as long as it takes until you say otherwise.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,32
 0,,"この間、ちっこいグリフィンが庭に来てまして
 これが可愛いヤツでね――
 ちょっとあやしてやると、安心したようで――
@@ -463,8 +463,8 @@ you should try it too, Arisen.",ui\00_message\pawn\talk\stage\feature9001\person
 0,,"本能ってやつで感じ取っちまうのかなあ
 動物とたまには触れ合ってみようかと思ったんですが
 俺が呼んでも手ェ振っても、何故か怖がられるんです
-覚者様のエモートなら、何か違うのかねえ","Maybe it’s instinct or something.
-I thought I’d try interacting with animals sometimes, but
+覚者様のエモートなら、何か違うのかねえ","Maybe it's instinct or something.
+I thought I'd try interacting with animals sometimes, but
 they get scared no matter how I wave or call.
 Maybe your emotes work differently, Arisen.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,34
 0,,"俺らポーンは、頼まれたクラフトをこなしたり
@@ -476,12 +476,12 @@ and going on adventures together.",ui\00_message\pawn\talk\stage\feature9001\per
 うーん、確か流行りのぬいぐるみでしたっけ
 名前くらいなら聞いたこたぁあるが、
 なにしろ俺には縁のないもんですからね","A Lestanian Puppet?
-Hmm, that’s one of those trendy dolls, right?
-I’ve heard the name, at least,
-but it’s not really my world.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,36
+Hmm, that's one of those trendy dolls, right?
+I've heard the name, at least,
+but it's not really my world.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,36
 0,,"適当なポーンにクラフトを
 やらせちゃいないでしょうね？
-ポーンにも得手不得手があるもんなんです","You’re not just assigning crafting
+ポーンにも得手不得手があるもんなんです","You're not just assigning crafting
 to any random pawn, right?
 Even pawns have strengths and weaknesses.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,37
 0,,"そうだ、神殿の外でも
@@ -489,8 +489,8 @@ Even pawns have strengths and weaknesses.",ui\00_message\pawn\talk\stage\feature
 even outside the temple?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,38
 0,,"覚者様みてえに感情を
 体で表現できたらなぁと思って
-最近、観察させてもらってるんでさ","Lately I’ve been watching you, Arisen,
-thinking how nice it’d be to express emotions with my body like you do.
+最近、観察させてもらってるんでさ","Lately I've been watching you, Arisen,
+thinking how nice it'd be to express emotions with my body like you do.
 ",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,39
 0,,"俺らポーンは、覚者様に連れられて初めて
 目的を持って冒険することができるんです
@@ -498,74 +498,74 @@ thinking how nice it’d be to express emotions with my body like you do.
 俺を選んでくださって、本当に感謝してるんですぜ？","We pawns only get a true purpose
 when an Arisen leads us on adventure.
 The purpose of protecting you—
-I’m truly grateful you chose me, Arisen.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,40
+I'm truly grateful you chose me, Arisen.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,40
 0,,"俺が隣にいても覚者様が恥ずかしくないように
 これでも結構気使ってるんですぜ？
-特に髪型なんかはなぁ","I try pretty hard so you won’t be embarrassed
+特に髪型なんかはなぁ","I try pretty hard so you won't be embarrassed
 having me at your side, you know?
 Especially when it comes to my hair.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,41
 0,,"覚者様、《鍛錬の小部屋》は使ってますかい？
 実はアレ、俺が掃除――い、いやなんでもねえや","Arisen, do you use the Training Room?
-Actually, I’m the one who cleans it—
+Actually, I'm the one who cleans it—
 n-no, never mind.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,42
-0,,さあ、行きましょう！,"Come on, let’s go!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,43
-0,,お願い聞いてくれないんですか？,Won’t you hear me out?,ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,44
-0,,早くいきましょう！,Let’s hurry!,ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,45
+0,,さあ、行きましょう！,"Come on, let's go!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,43
+0,,お願い聞いてくれないんですか？,Won't you hear me out?,ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,44
+0,,早くいきましょう！,Let's hurry!,ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,45
 0,,"ありがてぇことです、覚者様
 そう急ぐこともねぇんで――
 おとなしく待ってますよ","Much obliged, Arisen.
 No need to rush—
-I’ll wait patiently.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,46
+I'll wait patiently.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,46
 0,,"そうですかい――
 ま、冗談で言ってみたってやつです
 そう気にしねえでくださいよ","Is that so—
 ah, I was just joking.
-Don’t worry about it.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,47
+Don't worry about it.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,47
 0,,"覚者様――これ、俺に？
 本当にくださるなんて、夢みてぇですよ","Arisen—this is for me?
-I can’t believe you’d really give it to me—it’s like a dream.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,48
+I can't believe you'd really give it to me—it's like a dream.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,48
 0,,"覚者様、例のアレ――まだですかい？
 いえ、急いでる訳じゃねぇんですがね","Arisen, that thing we talked about—still not yet?
-I’m not rushing you, of course.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,49
+I'm not rushing you, of course.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,49
 0,,"おかえりなせぇ、覚者様
 ウェアの洗濯――しておいたんですが
 こんなもんでいいんですかね？
 見よう見まねで悪いんですが――不器用なもんで","Welcome back, Arisen.
 I washed your clothes—
 is this okay?
-I just copied what I saw—sorry, I’m not very handy.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,50
+I just copied what I saw—sorry, I'm not very handy.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,50
 0,,"おかえりなせぇ、覚者様
 家事はあんまり得意じゃねぇんですが――
 装備の手入れだけは、完璧だと思いますぜ！","Welcome back, Arisen.
-I’m not great at housework, but—
-I’m confident the equipment maintenance is perfect!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,51
+I'm not great at housework, but—
+I'm confident the equipment maintenance is perfect!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,51
 0,,"この調子で行けば、覚者様が竜になられる日も
 そう遠くねえかもしれませんぜ
 ――竜になっちまっても、俺は覚者様のポーンです
 それを、少しでも覚えていてもらえたら――","At this rate, the day you become a dragon
 might not be far off, Arisen.
-Even if that happens, I’ll still be your pawn—
+Even if that happens, I'll still be your pawn—
 I just hope you remember that, even if barely.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,52
 0,,"これでもかなり、人に近付いたと思うんですがね
 いかがです？
 それもこれも、覚者様をずっと観察して覚えたんです
-――本当に、感謝でいっぱいでして","I think I’ve gotten pretty close to being human—
+――本当に、感謝でいっぱいでして","I think I've gotten pretty close to being human—
 what do you think?
-It’s all thanks to watching you all this time, Arisen.
-I’m truly full of gratitude.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,53
+It's all thanks to watching you all this time, Arisen.
+I'm truly full of gratitude.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,53
 0,,"人間が楽しむ酒――ってもんに興味があるんですがね
 正直、身体には悪いし味はへんてこに感じてね
 俺が人間だったら、覚者様と一杯酌み交わして
-楽しめたのかねぇ","I’ve been curious about alcohol, the stuff humans enjoy.
-Honestly, it’s bad for the body and tastes strange to me.
-If I were human, maybe I could’ve shared a drink with you, Arisen.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,54
+楽しめたのかねぇ","I've been curious about alcohol, the stuff humans enjoy.
+Honestly, it's bad for the body and tastes strange to me.
+If I were human, maybe I could've shared a drink with you, Arisen.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,54
 0,,"俺は――覚者様もそう望んでくれるなら、ですがね
 覚者様といろんな景色や物を見たいと思ってるんです
 へ、ポーンの身で一丁前なこと言っちまって
 すみませんね","I—well, only if you want the same, Arisen—
-I’d like to see lots of sights and things with you.
+I'd like to see lots of sights and things with you.
 Heh, sorry for saying something so big
-when I’m just a pawn.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,55
+when I'm just a pawn.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,55
 0,,"覚者様、ご存知ですかい？
 骨がたくさん埋まってる、戦場跡地なんかにゃ
 花畑なんかを作ると、綺麗に育つんだそうですぜ
@@ -577,60 +577,60 @@ It was written in a book I read yesterday.",ui\00_message\pawn\talk\stage\featur
 0,,"覚者様、もしクランに入ってるなら
 毎日ポーン遠征隊を派遣しなきゃ、損ってもんですぜ
 俺らも目いっぱい探索して、お宝を
-山ほど持ち帰りたいってやる気満々なんですから","Arisen, if you’re in a clan,
-you’d be losing out if you didn’t send out the pawn expedition every day.
-We’re fired up to explore to the fullest
+山ほど持ち帰りたいってやる気満々なんですから","Arisen, if you're in a clan,
+you'd be losing out if you didn't send out the pawn expedition every day.
+We're fired up to explore to the fullest
 and bring back heaps of treasure.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,57
 0,,"ポーンに""やりたいこと""なんてありゃしません
 ――と思っていたんですが、そうでもないみたいで
 もし、何かうっかりお願いしちまっても
-怒らねぇでくれますかい？","I always thought pawns didn’t have things they “wanted to do”—
-but maybe that’s not entirely true.
+怒らねぇでくれますかい？","I always thought pawns didn't have things they "wanted to do"—
+but maybe that's not entirely true.
 If I end up asking for something without thinking,
-you won’t get mad, will you?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,58
+you won't get mad, will you?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,58
 0,,"どうやら、たまにダンジョンで見かけるあの紙切れは
 何かの一部みたいですね――
 そうとわかれば、全部集めるしかねぇよなぁ！","Seems those scraps of paper you sometimes see in dungeons
 are parts of something.
-If that’s the case, then we’ve got no choice but to collect them all!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,59
+If that's the case, then we've got no choice but to collect them all!",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,59
 0,,"覚者様がそう言うんなら、ぜひとも行きましょうや
-出発は――いつでもいいですぜ","If that’s what you say, Arisen, then let’s go by all means.
+出発は――いつでもいいですぜ","If that's what you say, Arisen, then let's go by all means.
 We can depart—whenever you like.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,60
 0,,"俺と写真を撮るのがお嫌なんですかい？
 それともその場所が気にくわねぇとか――？
-なら――別の場所を仕入れてきますぜ","You don’t want to take a picture with me?
-Or is it that you don’t like the location?
-Then—I’ll find us another spot.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,61
+なら――別の場所を仕入れてきますぜ","You don't want to take a picture with me?
+Or is it that you don't like the location?
+Then—I'll find us another spot.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,61
 0,,"おや――行かないんですかい？
 出かける気が変わったわけじゃないなら
-ここでお待ちしてますぜ","Oh—aren’t we going?
-If you haven’t changed your mind about going out,
-I’ll wait right here.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,62
+ここでお待ちしてますぜ","Oh—aren't we going?
+If you haven't changed your mind about going out,
+I'll wait right here.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,62
 0,,"たまにはのんびりすんのも、悪くないですね
-撮った写真、捨てねえでくださいよ？","Taking it easy once in a while isn’t bad.
-Don’t throw away the photos we took, okay?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,63
+撮った写真、捨てねえでくださいよ？","Taking it easy once in a while isn't bad.
+Don't throw away the photos we took, okay?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,63
 0,,"俺をお呼びになったんですかい？
 もの好きな覚者様だなぁ――いや
 ありがてえことで","You called for me?
-You’re a strange one, Arisen—
-no, I mean, I’m grateful.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,64
+You're a strange one, Arisen—
+no, I mean, I'm grateful.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,64
 0,,"あー、実は――
 覚者様に伺わねぇと、って思ってたことが
 あるんですがね","Uh, actually—
-there’s something I’ve been meaning to ask you, Arisen.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,65
+there's something I've been meaning to ask you, Arisen.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,65
 0,,"俺の戦い方、覚者様から見て
 ちょっと荒すぎねえか、とか――
 その、意見が聞きてえんです","From your point of view, Arisen,
 is my fighting style maybe a bit too rough—
-I’d like to hear your opinion.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,66
+I'd like to hear your opinion.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,66
 0,,"そいつはありがたい――
-ぜひ、聞かせてくだせえ","That’d be much appreciated—
+ぜひ、聞かせてくだせえ","That'd be much appreciated—
 please, let me hear it.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,67
 0,,"そうですかい――
 覚者様がそうおっしゃるんなら
 もう少しこの戦い方を続けてみようかねぇ","I see—
-if that’s what you say, Arisen,
-I’ll keep fighting this way a bit longer.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,68
+if that's what you say, Arisen,
+I'll keep fighting this way a bit longer.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,68
 0,,"<VAL>――
 ですかい
 そいつは、どうすりゃいいんですかい","<VAL>—
@@ -661,26 +661,26 @@ I should act <VAL>-wise?",ui\00_message\pawn\talk\stage\feature9001\persona07.gm
 0,,"覚者様、他に言っておきてえことは
 ありますかい？","Arisen, is there anything else you want to say?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,74
 0,,"いやぁ――本当に、感謝の言葉もねえですよ
-今日頂いた話、無駄にはしませんぜ","Man—really, I don’t have words for my thanks.
-I won’t waste what you told me today.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,75
+今日頂いた話、無駄にはしませんぜ","Man—really, I don't have words for my thanks.
+I won't waste what you told me today.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,75
 0,,"こう改まって向かい合うと、なんだか照れるなァ――
 覚者様、呼んでくださってありがとうございます
 これからも、俺に言いてえことがあったら
 いつでもベルを鳴らしてくだせえ、飛んできますから","Facing you like this formally makes me a bit embarrassed—
 thank you for calling me, Arisen.
-If there’s ever anything you want to tell me,
-just ring the bell—I’ll come running.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,76
+If there's ever anything you want to tell me,
+just ring the bell—I'll come running.",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,76
 0,,"へぇ――そんなら
 これから<VAL>は
 俺に任せてくれるってことですかい？","Huh—then from now on,
-you’ll leave <VAL>
+you'll leave <VAL>
 up to me?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,77
 0,,"へぇ――そんならこれから
 <VAL>について
 <VAL>に対する行動は
 俺に任せてくれるってことですかい？","Huh—then from now on,
 for <VAL>,
-you’ll leave my actions toward <VAL>
+you'll leave my actions toward <VAL>
 up to me?",ui\00_message\pawn\talk\stage\feature9001\persona07.gmd,\pw_talk\pt_feature9001_persona07.arc,pt_feature9001_persona07.arc,78
 0,,"へぇ――そんなら俺は
 <VAL>に対しては、
@@ -699,48 +699,48 @@ my communication skills!",ui\00_message\pawn\talk\stage\feature9001\persona08.gm
 0,,マスター、これからもよろしくお願いしますね,"Master, please continue to look after me from now on.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,3
 0,,"マスター、なにか気が付かない？
 うふふ――髪型を変えてみたの
-ねぇ、どうかしら？","Master, don’t you notice anything?
+ねぇ、どうかしら？","Master, don't you notice anything?
 Hehe—I tried changing my hairstyle. Well? What do you think?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,4
 0,,"ふふ、嬉しいわ
 もしあたしがずっとこの髪型でいる事をお望みなら
 《美容院》に行く必要があるみたいよ――
-ちゃんとセットしないと、長くは持たないの","Hehe, I’m happy.
+ちゃんとセットしないと、長くは持たないの","Hehe, I'm happy.
 If you want me to keep this hairstyle permanently,
-it seems we’ll need to go to the Salon—
-without proper styling, it won’t last long.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,5
+it seems we'll need to go to the Salon—
+without proper styling, it won't last long.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,5
 0,,そう――残念だわ,I see—how unfortunate.,ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,6
 0,,"マスター、あたし――
 もっとあなた好みになるために、
 <COL b92828><NAME ITEM><VAL> 個</COL>が必要だと思うの――
 ね、いただけないかしら？","Master, I—
 I think that in order to become more to your liking,
-I’ll need <COL b92828><NAME ITEM><VAL> units</COL>. 
-Won’t you give them to me?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,7
+I'll need <COL b92828><NAME ITEM><VAL> units</COL>. 
+Won't you give them to me?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,7
 0,,"嬉しいわマスター！ ありがとう
-もっともっと尽くすから、期待してくださいね","I’m so happy, Master! Thank you.
-I’ll devote myself even more, so please look forward to it.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,8
+もっともっと尽くすから、期待してくださいね","I'm so happy, Master! Thank you.
+I'll devote myself even more, so please look forward to it.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,8
 0,,"そう――
 ううん、いいわ
 気にしないで、言ってみただけですもの","I see—
-no, it’s fine.
-Don’t worry about it, I was just saying it aloud.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,9
+no, it's fine.
+Don't worry about it, I was just saying it aloud.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,9
 0,,"マスター、決して無理して欲しい訳ではないのよ
 だけど、<COL b92828><NAME ITEM></COL>が足りないみたいなの
-<COL b92828><VAL> 個</COL>揃うまで、待っているわね","Master, I don’t want you to overdo it at all. 
-It just seems we’re short on <COL b92828><NAME ITEM></COL>. 
-I’ll wait until we have <COL b92828><VAL> units</COL>.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,10
+<COL b92828><VAL> 個</COL>揃うまで、待っているわね","Master, I don't want you to overdo it at all. 
+It just seems we're short on <COL b92828><NAME ITEM></COL>. 
+I'll wait until we have <COL b92828><VAL> units</COL>.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,10
 0,,"ねぇ、少しだけ外を散歩してきてもらえないかしら
 帰ってきたマスターにお見せしたいものがあるの
 ――きっと驚くわ","Hey, could you go for a short walk outside?
-There’s something I want to show you when you come back—
-I’m sure it’ll surprise you.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,11
+There's something I want to show you when you come back—
+I'm sure it'll surprise you.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,11
 0,,"あたしのお世話はもう要らない――
-マスター、本当にそれでいいの？","You don’t need me to look after you anymore—
-Master, are you sure that’s really okay?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,12
+マスター、本当にそれでいいの？","You don't need me to look after you anymore—
+Master, are you sure that's really okay?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,12
 0,,マスター、ご機嫌いかが？,"Master, how are you feeling?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,13
 0,,"マスター、今日も良い天気ね
 気持ちはいいけれど――
-外に出ると日に焼けちゃいそう","Master, it’s nice weather again today.
+外に出ると日に焼けちゃいそう","Master, it's nice weather again today.
 It feels lovely, but—
 going outside might get us sunburned.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,14
 0,,"覚者がポーンよりも遥かにお強い場合
@@ -749,7 +749,7 @@ going outside might get us sunburned.",ui\00_message\pawn\talk\stage\feature9001
 the pawn gains more experience.
 It must be because they want to be able to protect their master sooner.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,15
 0,,"マスター、もう行くのね？
-いいわ――あなたは私が必ず守る","Master, you’re leaving already?
+いいわ――あなたは私が必ず守る","Master, you're leaving already?
 Very well—I will protect you, without fail.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,16
 0,,"お帰りなさい、マスター
 先にご飯がいいかしら？
@@ -760,23 +760,23 @@ Or perhaps a bath?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_
 なんでも言いつけてね
 あたしは必ず応えるわ","What is it, Master?
 Tell me anything you wish—
-I’ll be sure to answer.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,18
+I'll be sure to answer.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,18
 0,,"あなたとこうやって平和を楽しめるのも、
 あたしが覚者に付き従うポーンだから――だなんて
 なんだか皮肉ね、マスター","That I can enjoy peaceful moments like this with you
-only because I’m a pawn who follows an Arisen—
-it feels a bit ironic, doesn’t it, Master?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,19
+only because I'm a pawn who follows an Arisen—
+it feels a bit ironic, doesn't it, Master?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,19
 0,,"ポーンのことを哀れに思う人もいるようだけど――
 マスターといられることが
 あたしには一番の幸せだもの
 羨ましがられてもいいくらい満たされてるわ","Some people may pity pawns, but—
 being with you is my greatest happiness.
-I’m fulfilled enough to be envied.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,20
+I'm fulfilled enough to be envied.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,20
 0,,"いいの？
 こんな素敵な部屋に入れていただいて――
 うふふ、ポーンにとっては最高の贅沢だわ","Is it really okay?
 Letting me into such a lovely room—
-hehe, it’s the greatest luxury for a pawn.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,21
+hehe, it's the greatest luxury for a pawn.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,21
 0,,"――あっ
 な、なんです？マスター","—Ah!
 W-what is it, Master?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,22
@@ -786,50 +786,50 @@ W-what is it, Master?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\
 ね、遠慮しないで","Yes, Master.
 I exist for you, after all.
 You can talk to me as much as you like—
-come on, don’t hold back.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,23
+come on, don't hold back.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,23
 0,,"マスターのキモチ――
 なんだか少し、分かってきた気がするだなんて
-ふふ、うぬぼれかしらね","Master’s feelings—
-sometimes I feel like I’m starting to understand them.
-Hehe… maybe that’s just my conceit.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,24
+ふふ、うぬぼれかしらね","Master's feelings—
+sometimes I feel like I'm starting to understand them.
+Hehe… maybe that's just my conceit.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,24
 0,,"あら―――
 今、マスターの事を考えていたの
 ふふ、本当はいつだって
 マスターのことばかり考えてるのよ","Oh—
 I was just thinking about you, Master.
 Hehe, to tell the truth,
-I’m always thinking about you.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,25
+I'm always thinking about you.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,25
 0,,"やだ――ふふふ
 ダメよ、マスター","Oh my—hehehe.
 No, Master.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,26
 0,,"今日も戦いに出かけるの？
 いえ――ただ、あたしはあなたが心配なのよ
 少しは休んでくれると安心できるんだけど――","Are you heading out to fight again today?
-No—it’s just that I worry about you.
-I’d feel better if you rested a little, that’s all.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,27
+No—it's just that I worry about you.
+I'd feel better if you rested a little, that's all.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,27
 0,,"もう出発するのね！
 ええ、すぐに準備するわ
-――待っていてくださいね？","You’re leaving already!
-Alright, I’ll get ready right away—
+――待っていてくださいね？","You're leaving already!
+Alright, I'll get ready right away—
 please wait for me, okay?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,28
 0,,"今日も行くのね――
-無理はしないでくださいね","You’re going again today—
-please don’t push yourself.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,29
+無理はしないでくださいね","You're going again today—
+please don't push yourself.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,29
 0,,"ええ、マスター
 あたしはここにいますから、安心して","Yes, Master.
-I’m right here, so rest easy.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,30
+I'm right here, so rest easy.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,30
 0,,"ふふ、どうしたの？
 あなたみたいな強い覚者でも
-人恋しくなる時があるのね――","Hehe, what’s wrong?
+人恋しくなる時があるのね――","Hehe, what's wrong?
 Even a strong Arisen like you
-gets lonely sometimes, don’t you?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,31
+gets lonely sometimes, don't you?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,31
 0,,"マスター、あたしはずっとここで待っているわ
-あなたのためになら、ずっと、ね――","Master, I’ll be waiting here forever.
-If it’s for you—forever.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,32
+あなたのためになら、ずっと、ね――","Master, I'll be waiting here forever.
+If it's for you—forever.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,32
 0,,"ね、聞いたらきっとびっくりするわよ
 なんと、庭に小さなグリフィンが来ていたの！
 子供みたいだったからあやしてあげたら
-とっても可愛くて――また来ないかしら","You’ll be surprised when you hear this—
+とっても可愛くて――また来ないかしら","You'll be surprised when you hear this—
 a small griffin came to the garden!
 It was like a child, and when I played with it,
 it was adorable—will it come again, I wonder?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,33
@@ -839,7 +839,7 @@ it was adorable—will it come again, I wonder?",ui\00_message\pawn\talk\stage\f
 きっと返してくれるわ","Hey, how about playing with the garden animals sometimes,
 instead of monsters?
 If you put your feelings into an emote, Master,
-I’m sure they’ll respond.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,34
+I'm sure they'll respond.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,34
 0,,"あたしにクラフトをさせたり
 一緒に冒険につれていったりしてほしいの
 あなたのこと、もっともっと知りたいから――","I want you to let me do crafting,
@@ -851,48 +851,48 @@ I want to know you more and more—",ui\00_message\pawn\talk\stage\feature9001\p
 お部屋にあったら――素敵だと思わない？","Hey, Master.
 I saw one of those recently popular Restanian Puppets the other day.
 It was so cute!
-Wouldn’t it be lovely to have one in the room?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,36
+Wouldn't it be lovely to have one in the room?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,36
 0,,"クラフトをさせる時、任せるポーンを間違えないでね
 ポーンにも得意な事や苦手な事があるの―――
 みんなが幸せになれる選択をしてくださいね","When you assign crafting, be careful not to choose the wrong pawn.
-Even pawns have things they’re good at and bad at—
+Even pawns have things they're good at and bad at—
 please make choices that let everyone be happy.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,37
 0,,"神殿の外でも
 戦技の切り替えができるんですって
 便利そうだと思いません？","They say you can switch combat skills
 even outside the temple.
-Doesn’t that sound convenient?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,38
+Doesn't that sound convenient?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,38
 0,,"マスター、あなたのように感情を体で
 表現できるのって、とても素敵よ
 あたしもできたらなと思って
 おそばで勉強させてもらってるわ","Master, the way you express your emotions with your whole body
 is truly wonderful.
 I wish I could do that too,
-so I’ve been studying by watching you closely.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,39
+so I've been studying by watching you closely.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,39
 0,,"ふと恐ろしくなるの
 マスター、あなたがいなかったら私は――
 あたしは、何者でもなく、どこにも
 いなかったんじゃないかってね","Sometimes I suddenly feel afraid.
-Master, if you hadn’t been there—
-I feel like I wouldn’t have been anyone at all,
+Master, if you hadn't been there—
+I feel like I wouldn't have been anyone at all,
 or anywhere at all.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,40
 0,,"マスターの顔に泥を塗らないように
 見た目には気を使ってるんですよ
 特に髪型にはね――気付いてくれていたら嬉しいわ","I pay close attention to my appearance
-so I won’t bring shame to you, Master.
+so I won't bring shame to you, Master.
 Especially my hairstyle—
-I’d be happy if you noticed.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,41
+I'd be happy if you noticed.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,41
 0,,"マスター、《鍛錬の小部屋》はお好き？
 あそこはね、毎日あたしがお掃除しているの
 あなたの事を想って、ね","Master, do you like the Training Room?
 I clean it every single day, you know—
 thinking of you while I do.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,42
-0,,さあ、行きましょう！,"Alright, let’s go!",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,43
-0,,お願い聞いてくれないんですか？,Won’t you listen to my request?,ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,44
-0,,早くいきましょう！,Let’s hurry!,ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,45
+0,,さあ、行きましょう！,"Alright, let's go!",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,43
+0,,お願い聞いてくれないんですか？,Won't you listen to my request?,ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,44
+0,,早くいきましょう！,Let's hurry!,ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,45
 0,,"うふふ――ありがとう、マスター
 あたしは待ってるから、いつでもいいわ","Hehe—thank you, Master.
-I’ll be waiting, so anytime is fine.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,46
+I'll be waiting, so anytime is fine.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,46
 0,,"そう――？　残念だわ
 気が変わったら、教えてくださいね","I see… how unfortunate.
 If you change your mind, please let me know.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,47
@@ -900,12 +900,12 @@ If you change your mind, please let me know.",ui\00_message\pawn\talk\stage\feat
 あたしのお願いを聞いてくださってありがとう
 とっても嬉しいわ","Oh—are you really sure, Master?
 Thank you for listening to my request.
-I’m truly happy.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,48
+I'm truly happy.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,48
 0,,"ねぇマスター、お忘れじゃないかしら？
 お願いしてたあの品――
-いえ、覚えてくれてるならいいの","Hey, Master, you haven’t forgotten, have you?
+いえ、覚えてくれてるならいいの","Hey, Master, you haven't forgotten, have you?
 That item I asked for—
-no, it’s fine if you remember.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,49
+no, it's fine if you remember.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,49
 0,,"お帰りなさい、マスター
 ウェアをお洗濯しておきましたからね
 ――あたしに触られたくなかったかしら？","Welcome back, Master.
@@ -920,28 +920,28 @@ Shall I—massage your shoulders next?",ui\00_message\pawn\talk\stage\feature900
 あたしたちのこと――覚えていてくれる？
 たとえ竜になったとしても――
 やだ！　あたしったら変なこと言ってごめんなさいね","Hey, Master…
-you’ll remember us, won’t you?
+you'll remember us, won't you?
 Even if you become a dragon—
-Oh no! I’m sorry for saying something strange.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,52
+Oh no! I'm sorry for saying something strange.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,52
 0,,"ねぇ、あたしもずいぶん人らしくなったと思わない？
 ずっとマスターのことを観察し続けて
 たくさんの表現を覚えたおかげよ――
-おそばに置いてくださって、本当に感謝してるわ","Hey, don’t you think I’ve become quite human-like?
-It’s because I’ve kept watching you, Master,
+おそばに置いてくださって、本当に感謝してるわ","Hey, don't you think I've become quite human-like?
+It's because I've kept watching you, Master,
 and learned so many ways of expression—
-I’m truly grateful you keep me by your side.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,53
+I'm truly grateful you keep me by your side.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,53
 0,,"あたしと向かい合って食事をする気分って
 どうなの、マスター？
 あたしは一緒に食事を楽しんだりできないから――
 最近、少し気になってるの","How does it feel
 to eat a meal facing me, Master?
-I can’t really enjoy meals together with you, so—
-it’s been on my mind lately.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,54
+I can't really enjoy meals together with you, so—
+it's been on my mind lately.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,54
 0,,"世界は広いものね――まだマスターと行っていない
 場所や、見ていないものがたくさんあるでしょう？
 そういうものを、もっと見て回りたいって思うの
 ――こういう考えって、何ていうのかしら","The world is vast—there are surely many places
-we haven’t gone to yet, and many things we haven’t seen.
+we haven't gone to yet, and many things we haven't seen.
 I find myself wanting to see more of them with you.
 —What do you call thoughts like that, I wonder?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,55
 0,,"ねぇマスター、昨日書物で読んだんです
@@ -954,10 +954,10 @@ I hope this knowledge proves useful someday.",ui\00_message\pawn\talk\stage\feat
 0,,"マスター、もしクランに入っているなら
 ポーン遠征隊を毎日派遣するといいそうよ
 あたしも、マスターと離れるのは寂しいけれど――
-頑張ってお宝を見つけてきますから","Master, if you’re in a clan,
-they say it’s good to dispatch pawn expeditions every day.
-It’s lonely to be away from you, but—
-I’ll do my best to find treasures.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,57
+頑張ってお宝を見つけてきますから","Master, if you're in a clan,
+they say it's good to dispatch pawn expeditions every day.
+It's lonely to be away from you, but—
+I'll do my best to find treasures.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,57
 0,,"マスター、あのね――
 あたしがリムストーン以外のものを
 欲しがったら、どう思う？
@@ -968,39 +968,39 @@ Would you think— A pawn has no place asking for that?",ui\00_message\pawn\talk
 0,,"マスターも、気付いているでしょう？
 ダンジョンでたまに見かける、怪しい紙切れ――
 きっと何かの一部だと思うの
-ああいうのって、なんだかワクワクするわね","You’ve noticed too, haven’t you, Master?
+ああいうのって、なんだかワクワクするわね","You've noticed too, haven't you, Master?
 Those suspicious scraps of paper you sometimes see in dungeons—
-I think they’re parts of something larger.
-Things like that are strangely exciting, aren’t they?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,59
+I think they're parts of something larger.
+Things like that are strangely exciting, aren't they?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,59
 0,,"本当？　嬉しいわ、マスター
-準備は出来ているから、いつでも出発できますよ","Really? I’m happy, Master.
-I’m ready, so we can depart anytime.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,60
+準備は出来ているから、いつでも出発できますよ","Really? I'm happy, Master.
+I'm ready, so we can depart anytime.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,60
 0,,"駄目なの――？
 お気に召さなかったのね、分かったわ
-別の場所を探しておきますね","It’s no good…?
-I see, it didn’t suit your taste.
-I’ll look for another place.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,61
+別の場所を探しておきますね","It's no good…?
+I see, it didn't suit your taste.
+I'll look for another place.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,61
 0,,"あらマスター、行かないの？
 ふふ、わかってるわ
-準備は大切ですものね、待っているわ","Oh my, Master, you’re not going?
+準備は大切ですものね、待っているわ","Oh my, Master, you're not going?
 Hehe, I understand.
-Preparation is important—I’ll wait.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,62
+Preparation is important—I'll wait.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,62
 0,,"あたし、写真写り悪くなかったかしら――
 だけどこうしてのんびりするのも
-たまには良いものね","I didn’t look bad in the photos, did I?
+たまには良いものね","I didn't look bad in the photos, did I?
 Still, relaxing like this
 is nice once in a while.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,63
 0,,"お声がけくださったのね
 ありがとうございます、マスター","You called for me—
 thank you, Master.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,64
-0,,実は、マスターに伺いたいことがあるの,"Actually, there’s something I’d like to ask you, Master.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,65
+0,,実は、マスターに伺いたいことがあるの,"Actually, there's something I'd like to ask you, Master.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,65
 0,,"今の私の戦い方、どう思われるか――
 本音をお聞かせ願えないかしら？","What do you think of my current fighting style—
 could you tell me your honest opinion?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,66
 0,,ご指導お願いします――お手柔らかにね,"Please instruct me—be gentle, okay?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,67
 0,,"わかりました
 それじゃあ、今のままでいいのね","Understood.
-Then it’s fine to keep things as they are.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,68
+Then it's fine to keep things as they are.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,68
 0,,"<VAL>について？
 ええ、ぜひ聞かせてくださいな","About <VAL>?
 Yes, please tell me.",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,69
@@ -1044,14 +1044,14 @@ I want to become more to your liking in battle too—",ui\00_message\pawn\talk\s
 0,,"わかったわ――それじゃあ今度から
 <VAL>は
 お任せしてくださるのね？","I understand—so from now on,
-you’ll leave <VAL>
+you'll leave <VAL>
 up to me?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,77
 0,,"わかったわ――それじゃあ今度から
 <VAL>について
 <VAL>に対する行動は
 お任せしてくださるのね？","I understand—so from now on,
 regarding <VAL>,
-you’ll leave my actions toward <VAL> up to me?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,78
+you'll leave my actions toward <VAL> up to me?",ui\00_message\pawn\talk\stage\feature9001\persona08.gmd,\pw_talk\pt_feature9001_persona08.arc,pt_feature9001_persona08.arc,78
 0,,"わかったわ――それじゃあ今度から
 <VAL>に対しては、
 <VAL>の使用頻度を
