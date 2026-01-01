@@ -871,36 +871,36 @@ will be left to my judgment?",ui\00_message\pawn\talk\stage\feature9001\persona0
 <VAL>ことが必要なのですね！","Understood—then with respect to <VAL>,
 it is necessary to adjust
 the usage frequency of <VAL> to <VAL>!",ui\00_message\pawn\talk\stage\feature9001\persona03.gmd,\pw_talk\pt_feature9001_persona03.arc,pt_feature9001_persona03.arc,79
-0,,我が主、本日は私から戦技をご提案する,"Master, today I propose a new combat technique.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,0
+0,,我が主、本日は私から戦技をご提案する,"My lord, today I propose a new combat technique.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,0
 0,,"主に従う日々により
-私の意思疎通力が向上した","My days of following Master have improved my
-communication skills.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,1
+私の意思疎通力が向上した","Through my days in service to my lord, 
+my communication skills have improved.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,1
 0,,"主に従う日々により
-私の意思疎通力が向上した","My days of following Master have improved my
-communication skills.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,2
-0,,主よ、これからもよろしくお願い申し上げたい,"Master, I humbly request your continued favor.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,3
+私の意思疎通力が向上した","Through my days in service to my lord, 
+my communication skills have improved.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,2
+0,,主よ、これからもよろしくお願い申し上げたい,"My lord, I humbly request your continued favor.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,3
 0,,"髪型を流行の形に変更した
 主の嗜好との合致を確認したいが、如何か？","I have altered my hairstyle to match current trends.
 I wish to confirm whether it aligns with your preferences—how is it?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,4
 0,,"予測通り――承知した
 主がこの髪型の継続を望むのなら
 《美容院》で髪型を変更する必要があるようだ
-――私の意志は主と共にある","As predicted—acknowledged.
-Master, if you wish to retain this hairstyle,
-it may be necessary to visit the Salon.
-—My will is aligned with yours.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,5
-0,,再考の必要あり――承知した,Reevaluation required—acknowledged.,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,6
-0,,我が主よ、<COL b92828><NAME ITEM><VAL> 個</COL>頂戴したく,"Master, I humbly request <COL b92828><NAME ITEM><VAL> units</COL>.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,7
+――私の意志は主と共にある","As expected— understood.
+If my lord wishes to retain this hairstyle,
+a visit to the Salon will be necessary.
+My will is aligned with yours.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,5
+0,,再考の必要あり――承知した,Further consideration is required— understood.,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,6
+0,,我が主よ、<COL b92828><NAME ITEM><VAL> 個</COL>頂戴したく,"My lord, I humbly request <VAL> units of <COL b92828><NAME ITEM></COL>.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,7
 0,,此度の厚遇、お礼申し上げる,I express my gratitude for your generous consideration.,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,8
 0,,――承知した,Acknowledged.,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,9
 0,,"我が主よ、<COL b92828><NAME ITEM></COL>が不足している
-<COL b92828><VAL> 個</COL>のご用意を――","Master, <COL b92828><NAME ITEM></COL> is insufficient. 
-Please prepare <COL b92828><VAL> units</COL>—",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,10
+<COL b92828><VAL> 個</COL>のご用意を――","My lord, <COL b92828><NAME ITEM></COL> is in short supply.
+Please provide <COL b92828><VAL> units</COL>.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,10
 0,,"我が主よ、しばしの外出を要請する
 披露物の準備に時間を要する","Master, I request a brief outing.
 Preparation of the item to be presented requires time.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,11
 0,,パートナーを解除――本当に問題はないか？,To dissolve our partnership—are you certain this is acceptable?,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,12
-0,,本日も、我が主の健康に問題無し,"Master, you are in good health today.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,13
+0,,本日も、我が主の健康に問題無し,My lord you are in good health today.,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,13
 0,,本日の降水確率10％、晴れ時々曇り,"Today has a 10% chance of rain, sunny with occasional clouds.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,14
 0,,"ポーンの強さが覚者より大幅に劣っていると、
 ポーンが積める戦いの経験量が増加する
@@ -908,8 +908,8 @@ Preparation of the item to be presented requires time.",ui\00_message\pawn\talk\
 the pawn gains increased combat experience.
 —However, the reverse drastically reduces experience gain.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,15
 0,,"出発準備は完了済み
-いつでも戦闘態勢への移行が可能","Travel preparations are complete and
-we're ready for combat at any time.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,16
+いつでも戦闘態勢への移行が可能","All preparations for departure are complete;
+we're ready to go into combat at any time.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,16
 0,,――食事、入浴ともに全て準備完了,—Meals and bathing are fully prepared.,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,17
 0,,――――？,——?,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,18
 0,,"安心は、油断という毒になり得る
@@ -987,7 +987,7 @@ I personally maintain the Training Room.",ui\00_message\pawn\talk\stage\feature9
 0,,"聞き入れていただけるとは
 感謝する――","That you would listen—
 I am grateful—",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,46
-0,,了解した――,Acknowledged—,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,47
+0,,了解した――,Acknowledged.,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,47
 0,,"こ、これが――？
 ――感謝する","Th-this is—?
 —I am grateful.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,48
@@ -1045,58 +1045,59 @@ how does an Arisen feel, I wonder?",ui\00_message\pawn\talk\stage\feature9001\pe
 they are likely fragments of books.
 I advise collecting them when found.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,59
 0,,"了解した――
-出発はいつでも可能","Acknowledged—
-departure is possible at any time.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,60
+出発はいつでも可能","Understood—
+ready to depart at any time.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,60
 0,,"了解した――
-すぐに別案を用意しよう","Acknowledged—
-I will prepare an alternative plan immediately.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,61
+すぐに別案を用意しよう","Understood.
+I will arrange an alternative plan at once.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,61
 0,,"――主よ、準備に手間取っている様子
-出発は中止だろうか？","—My lord, it appears preparations are delayed.
-Is the departure to be canceled?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,62
-0,,意義深き行楽であった――,It was a meaningful outing—,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,63
+出発は中止だろうか？","My lord, your preparations seem to be taking time. 
+Has the departure been canceled?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,62
+0,,意義深き行楽であった――,It was a meaningful excursion.,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,63
 0,,機会をいただき、感謝する,I am grateful for the opportunity.,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,64
 0,,"日々の戦闘において、我が戦術に
 疑問が生じた
-主に伺いたい","During daily combat, doubts have arisen
-regarding my tactics.
+主に伺いたい","In the course of my daily battles,
+doubts have arisen regarding my tactics.
 I wish to consult you, my lord.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,65
 0,,"我が戦術において――
-何か改善箇所はあるだろうか？","Regarding my tactics—
-are there any points for improvement?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,66
+何か改善箇所はあるだろうか？","Regarding my tactics...
+Are there any points wanting for improvement?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,66
 0,,指導、感謝する,Thank you for the guidance.,ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,67
 0,,"承知した
 今しばらく、現戦術を継続する","Understood.
-I will continue with the current tactics for the time being.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,68
+I will maintain the current tactics for the time being.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,68
 0,,"<VAL>に
-関してか――伺おう","Regarding <VAL>, then—
-I shall ask.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,69
+関してか――伺おう","So it's about <VAL>, then.
+I'm listening.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,69
 0,,"――それでは
 <VAL>については
 <VAL>
-問題ないだろうか？","—Then, regarding <VAL>,
-<VAL>—
-would that pose no issue?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,70
+問題ないだろうか？","Well then—, 
+Regarding <VAL>,
+would <VAL> pose no issue?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,70
 0,,"――それでは
 <VAL>に対しては
 <VAL>の使用頻度を<VAL>
-この指針で、問題ないだろうか？","—Then, with respect to <VAL>,
-adjust the usage frequency of <VAL> to <VAL>.
-Would this guideline be acceptable?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,71
+この指針で、問題ないだろうか？","Well then—
+Regarding <VAL>,
+the frequency of <VAL> ought to <VAL>.
+Would this approach be acceptable?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,71
 0,,"――それでは今度から
 <VAL>ことの
 <VAL>は、より<VAL>
-この指針で、問題ないだろうか？","—Then, from now on,
-for <VAL>,
-make <VAL> more <VAL>.
-Would this guideline be acceptable?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,72
+この指針で、問題ないだろうか？","Then, from now on,
+regarding <VAL>,
+<VAL> will <VAL>.
+Would this approach be acceptable?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,72
 0,,"――それでは私は
 これから<VAL>
-問題ないだろうか？","—Then, shall I from now on
+問題ないだろうか？","Then, shall I from now on
 <VAL>?
 Would that be acceptable?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,73
 0,,"承知した
 ――他には何か？","Understood.
-—Is there anything else?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,74
+Is there anything else?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,74
 0,,"我が主よ、指導感謝する
 ――またよろしく頼む","My lord, I am grateful for your guidance.
 —I look forward to your continued favor.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,75
@@ -1109,21 +1110,23 @@ guidance from my lord is both the best and the fastest.
 By using the call bell henceforth, combat guidance remains possible.",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,76
 0,,"――それでは
 <VAL>は
-自己判断に任せると？","—Then,
+自己判断に任せると？","In this case,
 <VAL>
-is to be left to personal judgment?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,77
+is to be left to my own judgment?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,77
 0,,"――それでは
 <VAL>について
 <VAL>に対する行動は
-我が判断に任せると？","—Then, regarding <VAL>,
-actions toward <VAL>
+我が判断に任せると？","In this case, 
+regarding <VAL>,
+actions taken against <VAL>
 are to be left to my judgment?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,78
 0,,"――それでは
 <VAL>に対しては
 <VAL>の使用頻度を<VAL>
-この指針で、問題ないだろうか？","—Then, with respect to <VAL>,
-adjust the usage frequency of <VAL> to <VAL>.
-Would this guideline be acceptable?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,79
+この指針で、問題ないだろうか？","Well then—
+Regarding <VAL>,
+the frequency of <VAL> ought to <VAL>.
+Would this approach be acceptable?",ui\00_message\pawn\talk\stage\feature9001\persona04.gmd,\pw_talk\pt_feature9001_persona04.arc,pt_feature9001_persona04.arc,79
 0,,覚者殿、今日は私から戦技のご提案を致しましょう,"Arisen, today I will make a combat technique
 proposal.",ui\00_message\pawn\talk\stage\feature9001\persona05.gmd,\pw_talk\pt_feature9001_persona05.arc,pt_feature9001_persona05.arc,0
 0,,"覚者殿、貴方様にお仕えしてきたおかげで
