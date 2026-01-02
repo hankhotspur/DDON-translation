@@ -836,231 +836,389 @@ Haste is ill-advised!",ui\00_message\quest\q60000101.gmd,\quest\q60000101.arc,q6
 can now be undertaken.",ui\00_message\quest\q60000101.gmd,\quest\q60000101.arc,q60000101.arc,11,Seneka
 0,,白竜神殿のセネカに話しかけましょう,Talk to Seneka at the White Dragon Temple.,ui\00_message\quest\q60000101.gmd,\quest\q60000101.arc,q60000101.arc,12,Seneka
 0,,"《ハイデル地下霊廟》へ挑むのだな
-なら貴君に深部の調査を頼めないだろうか",,ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,0,Alfred
+なら貴君に深部の調査を頼めないだろうか","So, you intend to challenge the Hidell Catacombs.
+In that case, might I ask you to investigate its deepest reaches?",ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,0,Alfred
 0,,"すでに知っているかもしれないが
 テルはここしばらく謎の疫病に
-苦しめられている","As you may already know
-Tell has been suffering from a mysterious plague
-for some time now",ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,1,Alfred
+苦しめられている","You may already be aware of this, but
+Tel has, for some time now,
+been suffering from a mysterious plague.",ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,1,Alfred
 0,,"あそこにこそ、疫病の原因があるのでは
-ないかとわたしは踏んでいるのだ",,ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,2,Alfred
+ないかとわたしは踏んでいるのだ","I suspect that the true cause of the plague
+lies there.",ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,2,Alfred
 0,,"実は、過去に村である事件が起きてな――
 それと深く関わるのが、ハイデル教会の
-司祭だったのだ",,ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,3,Alfred
+司祭だったのだ","In fact, an incident once occurred in the village—
+and at the heart of it was a priest
+of the Hidell Church.",ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,3,Alfred
 0,,"もうひとつ、奥にハイデルにとって脅威となりうる
-危険な魔物がいればその対処も頼みたい",,ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,4,Alfred
+危険な魔物がいればその対処も頼みたい","One more thing. If there are any dangerous monsters 
+deeper within that could pose a threat to Hidell, 
+I would ask that you deal with them as well.",ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,4,Alfred
 0,,"霊廟調査を成し得たならば、
 貴君の名声はさらに広まると保証しよう
-よろしく頼む",,ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,5,Alfred
+よろしく頼む","If your investigation of the catacombs bears fruit,
+I can guarantee your renown will spread even further.
+I am counting on you.",ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,5,Alfred
 0,,"――おお、《ハイデル地下霊廟》を調査して
 くれたのだな！
-様子はどうだった？",,ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,6,Alfred
+様子はどうだった？","Oh, so you really did investigate the Hidell Catacombs!
+How were things down there?",ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,6,Alfred
 0,,"――なんと、潜んでいた魔物を退治して
 くれたのだな。感謝する
 そしてそうか――霊廟の深部は
-さらに別の封印が施されていたというのか",,ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,7,Alfred
+さらに別の封印が施されていたというのか","Well now... You even defeated the monsters lurking there.
+You have my thanks.
+And I see— so the deeper reaches of the catacombs
+were sealed with yet another ward.",ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,7,Alfred
 0,,"分かった、わたしのほうでも霊廟深部について
-引き続き調べてみよう",,ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,8,Alfred
+引き続き調べてみよう","I understand. I will continue investigating 
+the depths of the catacombs on my end as well.",ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,8,Alfred
 0,,"古いエリアマスターが閉ざした場所ならば
 記録がどこかに残っているかもしれん
-手掛かりがつかめれば、また連絡しよう",,ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,9,Alfred
+手掛かりがつかめれば、また連絡しよう","If that place was sealed off by a former Area Master,
+there may be records of it preserved somewhere.
+If I manage to find any leads, I will contact you again.",ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,9,Alfred
 0,,"そうそう、最後にもうひとつ
 《エリア情報》のことでいい報せがある
-後でもう一度その件で話しかけてくれ",,ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,10,Alfred
+後でもう一度その件で話しかけてくれ","Ah, right, just one more thing.
+I have some good news about the Area Information.
+Come speak to me again later about it.",ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,10,Alfred
 0,,"おお、そう言えば貴君
-《ハイデル地下霊廟》の調査の方はどうだ？",,ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,11,Alfred
+《ハイデル地下霊廟》の調査の方はどうだ？","Oh, that reminds me.
+How is the investigation of the Hidell Catacombs going?",ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,11,Alfred
 0,,"急ぐ必要はない、貴君の任務の合間を見て
-対応してくれれば十分だ",,ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,12,Alfred
+対応してくれれば十分だ","There's no need to rush.
+You handle it when you can find the time to spare,
+and that will be enough.",ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,12,Alfred
 0,,"疫病の原因調査は、これまでに多くの
 覚者が挑んだが、未だ解決には遠い
-くれぐれも身の安全を第一にしてくれ",,ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,13,Alfred
+くれぐれも身の安全を第一にしてくれ","Many Arisen have taken on the task of 
+investigating the cause of the plague so far,
+but a solution is still out of reach.
+Above all else, be sure to put your own safety first.",ui\00_message\quest\q60010001.gmd,\quest\q60010001.arc,q60010001.arc,13,Alfred
 0,,"では、《ハイデル地下霊廟　深部》調査の前に
-手帳から得た情報を話しておこう",,ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,0,Alfred
+手帳から得た情報を話しておこう","Before you investigate the depths of the Hidell Catacombs,
+let me share the information we've gathered from this journal.",ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,0,Alfred
 0,,"《開かずの路》で見つけた
 先代の手帳には、例の事件の詳細が
-記されていたのだ",,ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,1,Alfred
+記されていたのだ","My predecessor's journal was found along the Blocked Passage,
+and details of that incident were written down on it.",ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,1,Alfred
 0,,"どうも村人に邪教崇拝と糾弾されていたのは
 司祭メンヴィル本人ではなく、その妻だったそうだ
 否定したが迫害に耐えられず
-妻は自ら命を絶ってしまった",,ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,2,Alfred
+妻は自ら命を絶ってしまった","As it would seem, it was not Priest Menville himself who was
+accused by the villagers of being a heretical cultist, but his wife.
+Though she denied the accusations, she could not endure the persecution,
+and ultimately took her own life.",ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,2,Alfred
 0,,"その直後に司祭は姿を消した――
-呪いの言葉を残し、霊廟の奥へとな",,ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,3,Alfred
+呪いの言葉を残し、霊廟の奥へとな","Not long after, the priest vanished—
+leaving behind a curse, and heading deep into the mausoleum.",ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,3,Alfred
 0,,"先代はその件に深く関わっていた
 司祭を追い、復讐を恐れて
-霊廟深部を封鎖したのだ",,ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,4,Alfred
+霊廟深部を封鎖したのだ","My predecessor was deeply involved in the matter.
+Fearing the priest's pursuit and his vengeance,
+he sealed off the depths of the mausoleum.",ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,4,Alfred
 0,,"女を死なせ、司祭を生きたまま閉じ込めた
-後ろめたさからか、手帳にはこうあったよ",,ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,5,Alfred
-0,,"""後世に、私達の罪を遺すことを許してほしい 勇気ある者よ、もしあの男がテルに 災いをもたらした時は、どうか――""",,ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,6,Alfred
+後ろめたさからか、手帳にはこうあったよ","Perhaps out of guilt for playing a part in the woman's death
+and sealing the priest inside while he still lived,
+he wrote these words in his journal.",ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,5,Alfred
+0,,"""後世に、私達の罪を遺すことを許してほしい 勇気ある者よ、もしあの男がテルに 災いをもたらした時は、どうか――""","""To future generations, please forgive us for leaving our sins behind.
+O courageous one... if that man should bring calamity upon Tel,
+then please—""",ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,6,Alfred
 0,,"――面倒をかけてばかりだが、この通りだ
 どうか貴君の力でテルの闇を
-突きとめてくれ",,ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,7,Alfred
+突きとめてくれ","We have done nothing but trouble you, but that's how it is.
+Please, by your strength alone,
+uncover the darkness within Tel.",ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,7,Alfred
 0,,"――そうか、やはり疫病は
-司祭の呪いが元になっていたのだな",,ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,8,Alfred
+司祭の呪いが元になっていたのだな","I see. So after all, the plague was indeed borne
+of the priest's curse.",ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,8,Alfred
 0,,"本来は、我々テルの住民こそが
-向かい合わねばならなかった問題だ",,ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,9,Alfred
+向かい合わねばならなかった問題だ","In truth, it was a problem that we, the people of Tel,
+should have faced ourselves.",ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,9,Alfred
 0,,"疫病が呪いからくるものであると分かった
 だけでも収穫だ
 原因が分かれば今後は対策について
-調べることができるからな",,ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,10,Alfred
+調べることができるからな","Just knowing that the plague is born of a curse
+is a boon in itself.
+Now that we know the cause, we can begin to look into
+ways to deal with it going forward.",ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,10,Alfred
 0,,"貴君が霊廟の魔を払ってくれたことも、
 おそらく呪いを薄める一定の効果が
-あっただろう",,ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,11,Alfred
+あっただろう","Your efforts in driving out the evil from the mausoleum
+likely also had some effect
+in weakening the curse.",ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,11,Alfred
 0,,"村を代表して礼を言う
 力を尽くしてくれたこと、本当に感謝している
-貴君はテルにとって、まごうことなき英雄だ",,ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,12,Alfred
+貴君はテルにとって、まごうことなき英雄だ","On behalf of the village, allow me to thank you.
+We are truly grateful for all the strength you have given.
+To Tel, without doubt, you are a true hero.",ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,12,Alfred
 0,,"貴君にばかり頼ってしまって申し訳ないが
 どうか《ハイデル霊廟　深部》の調査を
-よろしく頼む",,ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,13,Alfred
+よろしく頼む","I'm sorry to rely so much on you alone, but
+please see to the investigation of the depths 
+of the Hidell Catacombs.",ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,13,Alfred
 0,,"おそらくあの最深部にこそ
-テル村を覆う病の病巣があるはずなのだ",,ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,14,Alfred
+テル村を覆う病の病巣があるはずなのだ","Most likely, it is in those deepest reaches
+that the very source of the sickness afflicting Tel Village lies.",ui\00_message\quest\q60010002.gmd,\quest\q60010002.arc,q60010002.arc,14,Alfred
 0,,"――そうでした！
 ワールドクエストに挑むことになった覚者さまに
-お願いしたいことがあるんです",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,0,Seneka
+お願いしたいことがあるんです","Oh—that's right!
+There's something I'd like to ask of you, Arisen,
+now that you've taken on a World Quest.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,0,Seneka
 0,,"白竜さまがお眠りになってからというもの
 レスタニア各地ではさまざまな異変に
-苛まれているんです――",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,1,Seneka
+苛まれているんです――","Ever since the White Dragon fell into slumber,
+people all across Lestania have been plagued
+by all manner of strange disturbances.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,1,Seneka
 0,,"つい最近、西の《ブリア海岸》エリアマスター
 オニールさんから、頼りになる覚者さまがいたら
-紹介してほしいって神殿に連絡があったんですよ",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,2,Seneka
+紹介してほしいって神殿に連絡があったんですよ","Just recently, the Area Master of Breya Coast to the west,
+Mr. O'Neill, sent word to the Temple, asking if
+there was a dependable Arisen we might send his way. ",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,2,Seneka
 0,,"覚者さま、どうでしょう？
 ブリア海岸の《ローテス村》に向かい、オニールさん
-の用件を聞いてあげてもらえないでしょうか",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,3,Seneka
+の用件を聞いてあげてもらえないでしょうか","What do you think, Arisen?
+Would you be willing to head to Rotes Village on Breya Coast
+and hear out Mr. O'Neill's request?",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,3,Seneka
 0,,"ああ、あんたが神殿が紹介してくれた
 噂の覚者さんだな
-来てくれてありがとう！",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,4,O'Neill
+来てくれてありがとう！","Ah, so you're the rumored Arisen the Temple told me about.
+Thanks for coming!",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,4,O'Neill
 0,,"実は、今ローテスは厄介な連中に
 目をつけられていてね
-《ブリア宝奪団》って名乗る海賊まがいさ",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,5,O'Neill
-0,,"連中は""ブリアの財宝""ってのを探してるようなんだオレに知ってることを話せと脅してきたり村人に絡んだりするけど、何のことかさっぱりで――",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,6,O'Neill
+《ブリア宝奪団》って名乗る海賊まがいさ","Truth is, Rotes has caught the attention of a troublesome bunch lately.
+They call themselves the Breya Treasure Raiders—
+pirates, more or less.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,5,O'Neill
+0,,"連中は""ブリアの財宝""ってのを探してるようなんだオレに知ってることを話せと脅してきたり村人に絡んだりするけど、何のことかさっぱりで――","Seems they're searching for something they call "Breya's treasure."
+They've tried threatening me to spill whatever I know,
+and they've been harassing the villagers too,
+but I haven't the slightest idea what they're talking about.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,6,O'Neill
 0,,"お願いだ覚者さん、力を貸してくれないか？
 《ブリア宝奪団》と名乗る連中を
 見つけ出して、村に近づかないよう
-懲らしめてほしいんだ",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,7,O'Neill
+懲らしめてほしいんだ","Please, Arisen, won't you lend us your strength?
+I want you to track down the ones calling themselves the
+Breya Treasure Raiders,
+and teach them a lesson so they'll stay away from the village.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,7,O'Neill
 0,,"あいつらのアジトは《隠れ浜》かもしれない
 ならず者がよく出入りしているんだ
-そのうち村が襲われても不思議じゃない",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,8,O'Neill
+そのうち村が襲われても不思議じゃない","Their hideout might be at Hidden Beach.
+It's a place rogues are often seen coming and going.
+At this rate, it wouldn't be surprising if the village were attacked.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,8,O'Neill
 0,,"姿がないようなら、このエリアで
 ボードクエストやワールドクエストを
-しながら様子を見てみてよ",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,9,O'Neill
+しながら様子を見てみてよ","If you don't spot them right away,
+try keeping an eye out while you take on
+board quests or world quests in this area.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,9,O'Neill
 0,,"おっ、《隠れ浜》のならず者を追い払って
 くれたんだな
-ありがとう、どうだった？",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,10,O'Neill
+ありがとう、どうだった？","Oh, you drove off the rogues at Hidden Beach, didn't you?
+Thanks. How was it?",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,10,O'Neill
 0,,"――うーん、そうかぁ
 すこし聞いてる感じだと様子がちがうなぁ
-それはただの野盗かもしれないな",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,11,O'Neill
+それはただの野盗かもしれないな","Hmm… I see.
+From what you're saying, something doesn't quite add up.
+Might've been just common bandits, then.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,11,O'Neill
 0,,"だとすれば、海岸少しいったところにある
-あの場所、《海辺の地下室》あたりが怪しいな",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,12,O'Neill
+あの場所、《海辺の地下室》あたりが怪しいな","If that's the case, then that place a short way along the coast—
+the Seaside Cellar—sounds suspicious.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,12,O'Neill
 0,,"あそこは魔物や海賊がたむろしやすくて
-危険だから封鎖したんだけどさ",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,13,O'Neill
+危険だから封鎖したんだけどさ","That place tends to attract monsters and pirates alike,
+so it's dangerous—I had it sealed off.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,13,O'Neill
 0,,"またボードクエストや、ワールドクエストを
-しながら様子を見てみてくれよ",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,14,O'Neill
+しながら様子を見てみてくれよ","For now, try keeping an eye out again
+while you take on board quests or world quests.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,14,O'Neill
 0,,"おお、そうかい！
 《ブリア宝奪団》を退治してくれたのか
-本当に感謝だよ",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,15,O'Neill
+本当に感謝だよ","Oh? Is that so!
+You took care of the Breya Treasure Raiders?
+You have my sincere thanks.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,15,O'Neill
 0,,"もしまた連中がアジトにいたら
 逆にやつらの宝を奪っちゃってよ
-あんたの役に立つ方がきっと宝も本望さ",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,16,O'Neill
-0,,"でも、""ブリアに眠る財宝""か――それが本当なら確かに気になるねそういえばブリアにはもう一つ村があったんだ南の浜辺の《ルフロー》っていう廃村がね",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,17,O'Neill
+あんたの役に立つ方がきっと宝も本望さ","If you find them holed up in their hideout again,
+why not turn the tables and take their treasure instead?
+I'm sure the loot would much rather be of use to you.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,16,O'Neill
+0,,"でも、""ブリアに眠る財宝""か――それが本当なら確かに気になるねそういえばブリアにはもう一つ村があったんだ南の浜辺の《ルフロー》っていう廃村がね","But "the treasure said to lie sleeping in Breya," huh…
+If that's true, it certainly does make you wonder.
+Come to think of it, Breya had another village once—
+an abandoned one on the southern shore called Ruflow.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,17,O'Neill
 0,,"もしかしたら、例の財宝と関係あるのは
-そっちの村だったのかもしれないな",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,18,O'Neill
+そっちの村だったのかもしれないな","Maybe it was that village that had something to do
+with this so-called treasure.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,18,O'Neill
 0,,"恐ろしいことがあって一夜で滅んだって
 話だけが残ってるんだけど、結局ルフローが
 滅んだ原因は謎のままなんだよ
-財宝と何か関係あったのかな――",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,19,O'Neill
+財宝と何か関係あったのかな――","All that remains is the tale that something terrible happened
+and it was wiped out in a single night,
+but the true cause of Ruflow's destruction
+has never been known.
+Could it have been connected to the treasure, I wonder—",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,19,O'Neill
 0,,"そうだ！　あんたなら、ルフローが滅んだ
 真相や財宝も見つけられるんじゃないかな？
 ブリアの問題を解決しながら、ぜひ
-そのあたりのことについても調べてくれよ",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,20,O'Neill
+そのあたりのことについても調べてくれよ","Oh! Say, if it's you…
+don't you think you might be able to uncover the truth
+behind Ruflow's fall, and the treasure as well?
+While you're dealing with Breya's troubles,
+I'd really like you to look into that too.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,20,O'Neill
 0,,"覚者さまならきっと《ブリア海岸》の問題も
-解決してくださると思ってます！",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,21,Seneka
+解決してくださると思ってます！","I'm sure that, as an Arisen, you'll be able to resolve the troubles 
+on the Breya Coast as well!",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,21,Seneka
 0,,"どうか、《ローテス村》にいるブリア海岸の
 エリアマスター、オニールさんの相談に
-乗ってあげてくださいね",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,22,Seneka
+乗ってあげてくださいね","Please, do lend an ear to the concerns 
+of Breya Coast's area master, Mr. O'Neill,
+who's stationed in Rotes Village.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,22,Seneka
 0,,"《隠れ浜》に最近、ならず者が
-よく出入りしてるんだよ",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,23,O'Neill
+よく出入りしてるんだよ","Lately, rogues have been coming and going
+around Hidden Beach.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,23,O'Neill
 0,,"そこが連中のアジトかも
-あんたの力で懲らしめてやってよ",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,24,O'Neill
+あんたの力で懲らしめてやってよ","That might be their hideout.
+With your strength, teach them a lesson.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,24,O'Neill
 0,,"もし誰もいないようなら、このエリアの
 ボードクエストやワールドクエストを
-しつつ様子を見てみてくれないかな",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,25,O'Neill
+しつつ様子を見てみてくれないかな","If it looks like no one's there,
+could you keep an eye on things while you take on
+board quests or world quests in this area?",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,25,O'Neill
 0,,"少し行った所にある《海辺の地下室》に
-誰かが入り込んでるみたいでさ",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,26,O'Neill
+誰かが入り込んでるみたいでさ","Seems someone's been slipping into
+the Seaside Cellar
+a short way from here.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,26,O'Neill
 0,,"そここそ連中のアジトかも
-どうにか懲らしめてやってよ",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,27,O'Neill
+どうにか懲らしめてやってよ","That place might be their hideout instead.
+See if you can teach them a lesson somehow.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,27,O'Neill
 0,,"もし入れないようなら、このエリアの
 ボードクエストやワールドクエストを
-しつつ様子を見てみてくれないかな",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,28,O'Neill
-0,,【ヒント：スポット情報の見方】,,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,29,O'Neill
+しつつ様子を見てみてくれないかな","And if you can't get in,
+could you keep an eye on things while you take on
+board quests or world quests in this area?",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,28,O'Neill
+0,,【ヒント：スポット情報の見方】,[Hint: How to View Spot Info],ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,29,O'Neill
 0,,"採取アイテムや討伐対象の魔物を探すには、
-エリアマスターの《スポット情報》が便利です",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,30,O'Neill
-0,,①《エリア情報》から《スポット情報》を選択,,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,31,O'Neill
+エリアマスターの《スポット情報》が便利です","When searching for gatherable items or monsters to defeat,
+the Area Master's Spot Information is useful.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,30,O'Neill
+0,,①《エリア情報》から《スポット情報》を選択,"1) From Area Information, select Spot Info.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,31,O'Neill
 0,,"②スポット情報で、「入手可能アイテム」と
-　「魔物情報」を確認",,ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,32,O'Neill
+　「魔物情報」を確認","2) In Spot Info, check
+"Available Items" and "Enemies".",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,32,O'Neill
 0,,"よしきた覚者さん、宝探しだな！
 ルドルフォの爺さん家で見た古い灯台守の
-日誌にあったんだよ、手掛かりが",,ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,0,O'Neill
+日誌にあったんだよ、手掛かりが","All right, Arisen—treasure hunting it is!
+I found a lead in an old lighthouse keeper's journal
+I saw at old man Rudolfo's place.",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,0,O'Neill
 0,,"南の浜辺の崖上にある《潮騒洞窟》は
 当時は海神様の洞窟なんて呼ばれてて
-お参りに行く人もいたんだって",,ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,1,O'Neill
+お参りに行く人もいたんだって","There's a cave atop the cliffs on the southern shore 
+called the Roaring Tide Cave.
+Back then, people used to call it the Sea God's cave,
+and folks would even go there to pray.",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,1,O'Neill
 0,,"でも、洞窟は封鎖されたんだ
-――それというのも、""海神様の宝""を狙って洞窟を荒らしたヤツがいたせいらしいんだほら宝だよ、財宝ってこれじゃないかな！？",,ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,2,O'Neill
+――それというのも、""海神様の宝""を狙って洞窟を荒らしたヤツがいたせいらしいんだほら宝だよ、財宝ってこれじゃないかな！？","But the cave was sealed off.
+Apparently, that's because someone went and vandalized it
+while hunting for the "Sea God's Treasure."
+Hey—treasure, riches… could that be it!?",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,2,O'Neill
 0,,"そういえば、よく分からない鍵が
 引継品の中にあるのは知ってたんだよね
 ビビっときて、もしやと思って
-行ってみたら――大当たりってわけ！",,ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,3,O'Neill
+行ってみたら――大当たりってわけ！","Come to think of it, I knew there was a strange key
+among the things I inherited.
+I had a hunch—figured it might be connected—
+so I went to check it out, and sure enough… jackpot!",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,3,O'Neill
 0,,"あんたならきっと財宝を見つけられるよ
-その時は山分けでよろしくな！",,ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,4,O'Neill
+その時は山分けでよろしくな！","If it's you, I'm sure you'll find the treasure.
+When you do, we split it fair and square, all right?",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,4,O'Neill
 0,,"――えっ！？
-宝の正体は洞窟の中にある滝だって！？",,ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,5,O'Neill
+宝の正体は洞窟の中にある滝だって！？","Huh!?
+You're saying the "treasure" turned out to be a waterfall inside the cave!?",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,5,O'Neill
 0,,"はぁ～、でも、そうかぁ
 洞窟の海神様――リンドブルムを
 ルフローの人間が怒らせたせいで
-村は襲われちゃったのか",,ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,6,O'Neill
+村は襲われちゃったのか","Ahh... I guess that explains it.
+The cave's Sea God — Lindwurm —
+must've been angered by the people of Ruflow,
+and that's why the village was attacked.",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,6,O'Neill
 0,,"白竜様がお倒れになってから
 海竜は急に凶暴になったらしいし――
-以前なら、そんなことは無かったんだろうけど",,ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,7,O'Neill
+以前なら、そんなことは無かったんだろうけど","Ever since the White Dragon fell,
+they say the sea dragons have suddenly grown violent…
+Guess that sort of thing wouldn't have happened before.",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,7,O'Neill
 0,,"――でも、本当に滝だけだったのか？
-別に財宝があったりなんか――",,ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,8,O'Neill
+別に財宝があったりなんか――","But still… was it really just a waterfall?
+No treasure hidden away at all, or anything like that?",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,8,O'Neill
 0,,"――まぁ、しないか
-あんたが言うんだしな",,ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,9,O'Neill
+あんたが言うんだしな","…Well, probably not.
+If that's what you say, I believe you.",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,9,O'Neill
 0,,"いろいろ真相がはっきりしたのは良かったよ
 そんなに綺麗な滝なら
-今度俺も見に行ってみようかな",,ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,10,O'Neill
+今度俺も見に行ってみようかな","I'm glad so many things finally make sense now.
+If it's really such a beautiful waterfall,
+maybe I'll go see it myself sometime.",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,10,O'Neill
 0,,"覚者さん、財宝探しよろしく頼むよ！
-《潮騒洞窟》にあるらしいからさ",,ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,11,O'Neill
+《潮騒洞窟》にあるらしいからさ","All right then, Arisen—best of luck with the treasure hunt!
+They say it's in the Roaring Tide Cave, after all.",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,11,O'Neill
 0,,"金銀財宝か、すごい美術品か――
 何なんだろうな！
-報告楽しみに待ってるよ",,ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,12,O'Neill
+報告楽しみに待ってるよ","Treasures of gold and silver, or perhaps some incredible work of art...
+I wonder what it could be!
+I'm looking forward to hearing what you find.",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,12,O'Neill
 0,,"うーんやっぱり、《海辺の地下室》に
 入りこんだ連中が怪しいな――
-今度こそ《ブリア宝奪団》のアジトじゃないかな",,ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,0,O'Neill
+今度こそ《ブリア宝奪団》のアジトじゃないかな","Well… You know, the ones who slipped into the Seaside Cellar
+are still pretty suspicious to me...
+Maybe this time it really is the hideout of the
+Breya Treasure Raiders.",ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,0,O'Neill
 0,,"覚者さん、入口の封鎖はといてあるから
 連中を見つけたら
-どうにか懲らしめてやってよ",,ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,1,O'Neill
+どうにか懲らしめてやってよ","Arisen, I've had the entrance unsealed,
+so if you find them,
+see if you can teach them a lesson somehow.",ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,1,O'Neill
 0,,"少し行った所にある《海辺の地下室》に
-誰かが入り込んでるみたいでさ",,ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,2,O'Neill
+誰かが入り込んでるみたいでさ","Seems someone's been sneaking into
+the Seaside Cellar
+a short way from here.",ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,2,O'Neill
 0,,"今度こそ《ブリア宝奪団》の連中の
-アジトじゃないかな",,ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,3,O'Neill
+アジトじゃないかな","This time for sure,
+it might be the hideout of the
+Breya Treasure Raiders.",ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,3,O'Neill
 0,,"入口の封鎖はといてあるから
 奴らを見つけたら
-どうにか懲らしめてやってよ",,ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,4,O'Neill
+どうにか懲らしめてやってよ","The entrance has been unsealed,
+so if you find them,
+see if you can teach them a lesson somehow.",ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,4,O'Neill
 0,,"おお、そうかい！
 《ブリア宝奪団》を退治してくれたのか
-本当に感謝だよ",,ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,5,O'Neill
+本当に感謝だよ","Oh! Is that so?
+You took care of the Breya Treasure Raiders?
+I'm truly grateful.",ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,5,O'Neill
 0,,"もしまた連中がアジトにいたら
 やっつけてやってよ
-ほら、《装備》とか逆に奪えるかもしれないし",,ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,6,O'Neill
-0,,"でも、""ブリアに眠る財宝""か――それが本当なら確かに気になるねそういえばブリアにはもう一つ村があったんだ南の浜辺の《ルフロー》っていう廃村がね",,ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,7,O'Neill
+ほら、《装備》とか逆に奪えるかもしれないし","If they're holed up at their hideout again,
+go ahead and take them down.
+Hey—you might even get to take their equipment in return.",ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,6,O'Neill
+0,,"でも、""ブリアに眠る財宝""か――それが本当なら確かに気になるねそういえばブリアにはもう一つ村があったんだ南の浜辺の《ルフロー》っていう廃村がね","But "the treasure said to lie sleeping in Breya," huh…
+If that's true, it certainly does make you wonder.
+Come to think of it, Breya had another village once—
+an abandoned one on the southern shore called Ruflow.",ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,7,O'Neill
 0,,"もしかしたら、例の財宝と関係あるのは
-そっちの村だったのかもしれないな",,ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,8,O'Neill
+そっちの村だったのかもしれないな","Maybe it was that village that had something to do
+with this so-called treasure.",ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,8,O'Neill
 0,,"恐ろしいことがあって一夜で滅んだって
 話だけが残ってるんだけど、結局ルフローが
 滅んだ原因は謎のままなんだよ
-財宝と何か関係あったのかな――",,ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,9,O'Neill
+財宝と何か関係あったのかな――","All that remains is the tale that something terrible happened
+and it was wiped out in a single night,
+but the true cause of Ruflow's destruction
+has never been known.
+Could it have been connected to the treasure, I wonder—",ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,9,O'Neill
 0,,"そうだ！　あんたなら、ルフローが滅んだ
 真相や財宝も見つけられるんじゃないかな？
 ブリアの問題を解決しながら、ぜひ
-そのあたりのことについても調べてくれよ",,ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,10,O'Neill
+そのあたりのことについても調べてくれよ","Oh! Say, if it's you…
+don't you think you might be able to uncover the truth
+behind Ruflow's fall, and the treasure as well?
+While you're dealing with Breya's troubles,
+I'd really like you to look into that too.",ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,10,O'Neill
 0,,"じゃあ、調査について具体的な
 説明をするわね","Then, let me give you a thorough explanation
 about the investigation.",ui\00_message\quest\q60030001.gmd,\quest\q60030001.arc,q60030001.arc,0,Patricia
@@ -1113,42 +1271,71 @@ of trouble brewing on the horizon.",ui\00_message\quest\q60030001.gmd,\quest\q60
 I'm counting on you.",ui\00_message\quest\q60030001.gmd,\quest\q60030001.arc,q60030001.arc,12,Patricia
 0,,"引き受けてくれるのね、ありがとう！
 《ミスリウ鍾乳洞》には以前から強力な
-魔獣が棲んでいたの",,ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,0,Patricia
+魔獣が棲んでいたの","You'll take it on, then—thank you.
+For some time now, a powerful
+magical beast has dwelled in the Mysree Limestone Cave.",ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,0,Patricia
 0,,"中でも有名なのがフォレストゴブリン達が崇める
 つがいのキメラ、
-《魔獅子シンガ》と《白獅子アルバス》よ",,ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,1,Patricia
+《魔獅子シンガ》と《白獅子アルバス》よ","Most notorious of all are the paired chimeras
+worshipped by the Forest Goblins:
+the Dread Lion Shinga
+and the White Lion Albas.",ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,1,Patricia
 0,,"《ミスリウ鍾乳洞》は、そのシンガの住処なの
 前に、ハンター部隊がヤツに瀕死の重傷を
-負わせて追いつめたんだけど――",,ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,2,Patricia
+負わせて追いつめたんだけど――","The Mysree Limestone Cave is Shinga's lair.
+Previously, a hunter squad managed to inflict
+near-fatal wounds on the creature and drive it into a corner, but...",ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,2,Patricia
 0,,"もう一歩というところでヤツは鍾乳洞の奥に
 逃げ戻ってしまった
 以来姿を見せないから死んだと思っていたわ
-念のため、入口は封鎖していたけど",,ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,3,Patricia
+念のため、入口は封鎖していたけど","Just as they were on the verge of finishing it off,
+it fled back into the depths of the caverns.
+When it failed to show up later, we believed it dead.
+As a precaution, the entrance was sealed.",ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,3,Patricia
 0,,"――もちろん、先に調査に行った騎士団にも
 このことは伝えたわ
-なんとか探して、連れ帰ってくれないかしら",,ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,4,Patricia
+なんとか探して、連れ帰ってくれないかしら","Of course, this information was also relayed
+to the Knight Order that went ahead to investigate.
+If possible, could you locate them
+and bring them back with you?",ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,4,Patricia
 0,,"そう――騎士のことは残念だわ
-まさかシンガが本当に生きていたなんて",,ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,5,Patricia
+まさかシンガが本当に生きていたなんて","Yes… it's unfortunate about the knights.
+I never imagined Shinga was truly still alive.
+",ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,5,Patricia
 0,,"でも、あながたが撃退してくれた――！
 本当に感謝しているわ
 もしあの魔獅子が地上に現れたら
-きっとリンウッドは――",,ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,6,Patricia
+きっとリンウッドは――","But you drove it back!
+You have my deepest thanks.
+Had that Dread Lion resurfaced,
+Lynwood would surely have...!",ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,6,Patricia
 0,,"でも、完全に安心はできないわ
 魔獅子は死に瀕してもなお、恐るべき蛇の
-生命力で再び立ちあがるというの",,ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,7,Patricia
+生命力で再び立ちあがるというの","Still, we cannot afford to be completely at ease.
+Even at the brink of death, Dread Lions are said
+to rise again, thanks to their terrifying, serpentine vitality.",ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,7,Patricia
 0,,"以前のハンターたちも、完全に仕留めたはず
 なのに知らぬ間に息を吹き返したと言っていた
-鍾乳洞に逃げ込まれる前にね",,ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,8,Patricia
+鍾乳洞に逃げ込まれる前にね","The hunters before claimed they had finished it off completely,
+only for it to revive before they realized it—
+that was before it fled into the caverns.",ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,8,Patricia
 0,,"もしまたヤツが息を吹き返していたら
 今度こそ仕留めてちょうだい
 この分だと、森の深部では《白獅子アルバス》も
-目を覚ましているかもしれないわね――",,ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,9,Patricia
+目を覚ましているかもしれないわね――","If it has risen once more,
+this time, please see that it is slain for good.
+At this rate, it's possible that deep within the forest,
+the White Lion Albas has also awakened...",ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,9,Patricia
 0,,"《ミスリウ鍾乳洞》の確認はどうかしら？
 急かせる立場ではないのだけれど
-できれば急いでちょうだい",,ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,10,Patricia
+できれば急いでちょうだい","How goes the situation in the Mysree Limestone Cave?
+I'm not in a position to press you,
+but if possible, I would ask that you hurry.",ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,10,Patricia
 0,,"もしあの凶悪なキメラ《魔獅子シンガ》が
 潜んでいたとしたら――
-調査に行った騎士たちは――",,ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,11,Patricia
+調査に行った騎士たちは――","If that vicious chimera, the Dread Lion Shinga,
+were still lying in wait there...
+Then the knights who went to investigate...!",ui\00_message\quest\q60030002.gmd,\quest\q60030002.arc,q60030002.arc,11,Patricia
 0,,"やぁ、ありがたい！
 《ボルド大坑道》の様子見、お願いできますか","You have my thanks!
 Might I ask of you to investigate the Volden
@@ -1179,14 +1366,17 @@ nearby.
 You can use them to blast your way through.",ui\00_message\quest\q60040001.gmd,\quest\q60040001.arc,q60040001.arc,5,Roy
 0,,"――しかし、サイクロプスが坑道に入り込んだ
 って話はよく聞きますが、岩盤崩落とは
-そこまでの力があるんですかねぇ――？",,ui\00_message\quest\q60040001.gmd,\quest\q60040001.arc,q60040001.arc,6,Roy
+そこまでの力があるんですかねぇ――？","But you do hear plenty of stories about 
+cyclopes wandering into mine tunnels… still, do they really
+have enough strength to cause a cave-in like that?",ui\00_message\quest\q60040001.gmd,\quest\q60040001.arc,q60040001.arc,6,Roy
 0,,"なんと！？
 崩落の原因になったのはサイクロプス
 ではなくゴーレムだったとは","What!?
 The cause of the collapse wasn't a cyclops,
 but rather a golem?",ui\00_message\quest\q60040001.gmd,\quest\q60040001.arc,q60040001.arc,7,Roy
 0,,"いやはや、なるほど確かに
-それならあの崩れっぷりも納得が――",,ui\00_message\quest\q60040001.gmd,\quest\q60040001.arc,q60040001.arc,8,Roy
+それならあの崩れっぷりも納得が――","I see... Yes, that does make sense.
+If that's the case, then the extent of that collapse is easy to understand.",ui\00_message\quest\q60040001.gmd,\quest\q60040001.arc,q60040001.arc,8,Roy
 0,,"しかし、それは困ったことになりました
 これでは大坑道の再開発は当分おあずけに
 なってしまいますなぁ","Alas, it's bothersome in its own right.
@@ -1199,9 +1389,11 @@ Lightly damaged areas may hold aught left.",ui\00_message\quest\q60040001.gmd,\q
 今日はゆっくり鉱泉で休んでいって下さいよ","Anyroad, you have my thanks.
 Pray, make use of our spas at your leisure!",ui\00_message\quest\q60040001.gmd,\quest\q60040001.arc,q60040001.arc,11,Roy
 0,,"覚者さん、《ボルド大坑道》の巨人の件
-なにとぞよろしくお願いしますよ",,ui\00_message\quest\q60040001.gmd,\quest\q60040001.arc,q60040001.arc,12,Roy
+なにとぞよろしくお願いしますよ","Arisen, about the matter of the giant in the Bordo Great Tunnel...
+I ask that you see it through, by all means.",ui\00_message\quest\q60040001.gmd,\quest\q60040001.arc,q60040001.arc,12,Roy
 0,,"あそこが再開発できるなら
-キノザにとってこれ以上ない朗報ですからな！",,ui\00_message\quest\q60040001.gmd,\quest\q60040001.arc,q60040001.arc,13,Roy
+キノザにとってこれ以上ない朗報ですからな！","If that place can be redeveloped,
+it would be the best possible news for Kinoza, after all!",ui\00_message\quest\q60040001.gmd,\quest\q60040001.arc,q60040001.arc,13,Roy
 0,,では、件のグリフィンの件なんですが――,"Now, about that griffin matter...",ui\00_message\quest\q60040002.gmd,\quest\q60040002.arc,q60040002.arc,0,Roy
 0,,"面倒なことに、そいつは人工物と牛、
 それに光りモノが大好きで――
