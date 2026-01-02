@@ -92,8 +92,7 @@ You seem to be in the same line of work as me, right?",ui\00_message\quest\q2000
 ここに入るの、な～んか気が進まないのよね","Ah! In that case, if you find the monster listed in this request,
 could you take it out for me instead?
 I just don't feel like going in there.",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,2,Freya
-0,,ね？　報酬の６割あんたにゆずるからさ！,"ね？　報酬の６割あんたにゆずるからさ！
-See? I'll give you 60% of the reward!",ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,3,Freya
+0,,ね？　報酬の６割あんたにゆずるからさ！,See? I'll give you 60% of the reward!,ui\00_message\quest\q20000005.gmd,\quest\q20000005.arc,q20000005.arc,3,Freya
 0,,"この辺りで妙な魔物が出るようになったって
 聞いて、退治依頼を受けたんだけどさ
 何よこれ――","I heard that some strange monster started appearing around here,
@@ -783,7 +782,7 @@ then at least leave us a Knight Order unit.",ui\00_message\quest\q20000012.gmd,\
 どうして移住しないのか――
 のんきな連中はそう思うのだろうな","Living out here makes you feel
 like you've been abandoned by the temple.
-"Why don't you just move?"—
+""Why don't you just move?""—
 that's what carefree people must think.",ui\00_message\quest\q20000012.gmd,\quest\q20000012.arc,q20000012.arc,16,Brandon
 0,,"忘れないでほしいのは
 ここはずっと人間の土地だったってことだ

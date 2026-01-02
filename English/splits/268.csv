@@ -991,7 +991,7 @@ Thanks for coming!",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q6002
 《ブリア宝奪団》って名乗る海賊まがいさ","Truth is, Rotes has caught the attention of a troublesome bunch lately.
 They call themselves the Breya Treasure Raiders—
 pirates, more or less.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,5,O'Neill
-0,,"連中は""ブリアの財宝""ってのを探してるようなんだオレに知ってることを話せと脅してきたり村人に絡んだりするけど、何のことかさっぱりで――","Seems they're searching for something they call "Breya's treasure."
+0,,"連中は""ブリアの財宝""ってのを探してるようなんだオレに知ってることを話せと脅してきたり村人に絡んだりするけど、何のことかさっぱりで――","Seems they're searching for something they call ""Breya's treasure.""
 They've tried threatening me to spill whatever I know,
 and they've been harassing the villagers too,
 but I haven't the slightest idea what they're talking about.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,6,O'Neill
@@ -1040,7 +1040,7 @@ You have my sincere thanks.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.
 あんたの役に立つ方がきっと宝も本望さ","If you find them holed up in their hideout again,
 why not turn the tables and take their treasure instead?
 I'm sure the loot would much rather be of use to you.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,16,O'Neill
-0,,"でも、""ブリアに眠る財宝""か――それが本当なら確かに気になるねそういえばブリアにはもう一つ村があったんだ南の浜辺の《ルフロー》っていう廃村がね","But "the treasure said to lie sleeping in Breya," huh…
+0,,"でも、""ブリアに眠る財宝""か――それが本当なら確かに気になるねそういえばブリアにはもう一つ村があったんだ南の浜辺の《ルフロー》っていう廃村がね","But ""the treasure said to lie sleeping in Breya,"" huh…
 If that's true, it certainly does make you wonder.
 Come to think of it, Breya had another village once—
 an abandoned one on the southern shore called Ruflow.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,17,O'Neill
@@ -1101,7 +1101,7 @@ the Area Master's Spot Information is useful.",ui\00_message\quest\q60020001.gmd
 0,,①《エリア情報》から《スポット情報》を選択,"1) From Area Information, select Spot Info.",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,31,O'Neill
 0,,"②スポット情報で、「入手可能アイテム」と
 　「魔物情報」を確認","2) In Spot Info, check
-"Available Items" and "Enemies".",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,32,O'Neill
+""Available Items"" and ""Enemies"".",ui\00_message\quest\q60020001.gmd,\quest\q60020001.arc,q60020001.arc,32,O'Neill
 0,,"よしきた覚者さん、宝探しだな！
 ルドルフォの爺さん家で見た古い灯台守の
 日誌にあったんだよ、手掛かりが","All right, Arisen—treasure hunting it is!
@@ -1116,7 +1116,7 @@ and folks would even go there to pray.",ui\00_message\quest\q60020002.gmd,\quest
 0,,"でも、洞窟は封鎖されたんだ
 ――それというのも、""海神様の宝""を狙って洞窟を荒らしたヤツがいたせいらしいんだほら宝だよ、財宝ってこれじゃないかな！？","But the cave was sealed off.
 Apparently, that's because someone went and vandalized it
-while hunting for the "Sea God's Treasure."
+while hunting for the ""Sea God's Treasure.""
 Hey—treasure, riches… could that be it!?",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,2,O'Neill
 0,,"そういえば、よく分からない鍵が
 引継品の中にあるのは知ってたんだよね
@@ -1130,7 +1130,7 @@ so I went to check it out, and sure enough… jackpot!",ui\00_message\quest\q600
 When you do, we split it fair and square, all right?",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,4,O'Neill
 0,,"――えっ！？
 宝の正体は洞窟の中にある滝だって！？","Huh!?
-You're saying the "treasure" turned out to be a waterfall inside the cave!?",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,5,O'Neill
+You're saying the ""treasure"" turned out to be a waterfall inside the cave!?",ui\00_message\quest\q60020002.gmd,\quest\q60020002.arc,q60020002.arc,5,O'Neill
 0,,"はぁ～、でも、そうかぁ
 洞窟の海神様――リンドブルムを
 ルフローの人間が怒らせたせいで
@@ -1196,7 +1196,7 @@ I'm truly grateful.",ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q600
 ほら、《装備》とか逆に奪えるかもしれないし","If they're holed up at their hideout again,
 go ahead and take them down.
 Hey—you might even get to take their equipment in return.",ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,6,O'Neill
-0,,"でも、""ブリアに眠る財宝""か――それが本当なら確かに気になるねそういえばブリアにはもう一つ村があったんだ南の浜辺の《ルフロー》っていう廃村がね","But "the treasure said to lie sleeping in Breya," huh…
+0,,"でも、""ブリアに眠る財宝""か――それが本当なら確かに気になるねそういえばブリアにはもう一つ村があったんだ南の浜辺の《ルフロー》っていう廃村がね","But ""the treasure said to lie sleeping in Breya,"" huh…
 If that's true, it certainly does make you wonder.
 Come to think of it, Breya had another village once—
 an abandoned one on the southern shore called Ruflow.",ui\00_message\quest\q60020003.gmd,\quest\q60020003.arc,q60020003.arc,7,O'Neill
